@@ -1,0 +1,9 @@
+The APE Foundation website is the DAO hub, providing an interface to educate DAO members on the
+governance process and provide easy access to the channels below in order to streamline the
+DAO’s operation and enhance its utility.
+Discourse is the first stop for all proposals. An AIP (Ape Improvement Proposal) Idea is submitted
+as a post in Discourse and must receive confirmation from a moderator that it complies with DAO-approved
+guidelines before it appears to the community. ApeCoin holders must go through a wallet authentication
+process to post ideas or give feedback to ideas via comments.
+Snapshot is used for voting. Proposal drafts that have passed their respective approval processes become
+available for voting on Snapshot. ApeCoin holders must go through a wallet authentication process to vote.
