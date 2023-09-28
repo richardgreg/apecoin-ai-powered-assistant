@@ -1,0 +1,68 @@
+The APE Foundation website is the DAO hub, providing an interface to educate DAO members
+on the governance process and provide easy access to the channels below in order to
+streamline the DAO’s operation and enhance its utility.
+
+Discourse is the first stop for all proposals. An AIP (Ape Improvement Proposal) Idea is
+submitted as a post in Discourse and must receive confirmation from a moderator that it
+complies with DAO-approved guidelines before it appears to the community. ApeCoin holders
+
+must go through a wallet authentication process to post ideas or give feedback to ideas
+via comments. Snapshot is used for voting. Proposal drafts that have passed their
+respective approval processes become
+
+available for voting on Snapshot. ApeCoin holders must go through a wallet authentication
+process to vote.
+
+APECOIN IS FOR THE WEB3 ECONOMY.
+Culture has found new expression in web3 through art, gaming, entertainment, and events.
+The possibilities for blockchain’s impact on culture are so endless that they can’t
+
+possibly all be predicted yet. APE is a token made to support what’s next, controlled and
+built on by the community. It will serve as a decentralized protocol layer for
+community-led initiatives that drive culture forward into the metaverse.
+
+THE APE FOUNDATION
+The APE Foundation is the steward of ApeCoin. It is not an overseer, but the base layer
+on which ApeCoin holders in the ApeCoin DAO can build.
+
+The Foundation facilitates decentralized and community-led governance and is designed to
+become more decentralized over time. It is tasked with administering the decisions of the
+ApeCoin DAO, and is responsible for day-to-day administration, bookkeeping, project
+
+management, and other tasks that ensure the DAO community’s ideas have the support they
+need to become a reality.
+
+The goal of the APE Foundation is to steward the growth and development of the APE
+ecosystem in a fair and inclusive way. It utilizes the Ecosystem Fund, which is
+controlled by a multisig wallet, to pay its expenses as directed by the ApeCoin DAO and
+
+provides an infrastructure for ApeCoin holders to collaborate through open and
+permissionless governance processes.
+
+THE DAO
+ApeCoin DAO exists because decentralized governance is critical to building and managing
+a globally dispersed community—and therefore critical to the success of the APE ecosystem.
+
+The APE Improvement Proposal Process (see Governance) will allow ApeCoin DAO members to
+make decisions regarding Ecosystem Fund allocations, governance rules, projects,
+partnerships, and beyond. ApeCoin DAO membership is open to all ApeCoin holders.
+
+THE BOARD
+The Special Council of the APE Foundation provides, at the behest of the ApeCoin DAO
+members, stewardship and oversight of the APE Foundation. The Special Council members
+exist to serve the vision of ApeCoin DAO.
+
+It does this by the following, though they are not limited to the items listed below:
+
+Conducting detailed administrative reviews of AIPs according to the process outlined in
+AIP-1
+Ensuring the implementation of the ApeCoin DAO’s intentions and wishes as manifested
+through approved AIPs
+
+Safeguarding and stewarding the ApeCoin DAO treasury
+Serving as primary community liaisons with the APE Foundation and its service providers
+in Cayman Islands, facilitating open and effective communication channels
+
+Overseeing the Ape Foundation administrators and other foundation service providers,
+ensuring they execute their duties with efficiency and timeliness, aligned with the
+ApeCoin DAO's objectives and values.
