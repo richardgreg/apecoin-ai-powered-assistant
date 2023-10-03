@@ -16,14 +16,16 @@ load_dotenv(find_dotenv())
 loader = TextLoader("./context.txt")
 documents = loader.load()
 
+print(documents[0].page_content)
+
 # Split our document for easy retrieval
-text_splitter = CharacterTextSplitter(chunk_size=300, chunk_overlap=100)
+text_splitter = CharacterTextSplitter()
 texts = text_splitter.split_documents(documents)
 
 # Embed and retrieve text
 embeddings = OpenAIEmbeddings()
 retriever = Chroma.from_documents(texts, embeddings).as_retriever()
-chat = ChatOpenAI(temperature=0, model="gpt-4")
+chat = ChatOpenAI(temperature=0, model="gpt-4-32k")
 
 # Prompt template where we provide context
 prompt_template = """You are a helpful dicord bot.
