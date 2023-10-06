@@ -1,3 +1,146 @@
+Title: Welcome to ApeCoin DAO
+Category: General
+Author: River
+
+The DAO
+ApeCoin DAO exists because decentralized governance is critical to building and managing
+a globally dispersed community—and therefore critical to the success of the APE
+ecosystem. ApeCoin is governed by and for the community. If you hold ApeCoin, you’re
+automatically a part of the DAO and able to participate in governance by putting forward
+and voting on APE Improvement Proposals (AIPs).
+
+The Foundation
+The APE Foundation serves the ApeCoin DAO to steward the growth and development of the
+APE ecosystem in a fair and inclusive way. It utilizes the Ecosystem Fund, which is
+controlled by a multisig wallet, to pay its expenses as directed by the ApeCoin DAO and
+provides an infrastructure for ApeCoin holders to collaborate through open and
+permissionless processes 54.
+
+Discourse
+Discourse is an open source discussion platform and the first stop for all AIPs. Here,
+members of the community can discuss matters of relevance to the ecosystem and provide
+feedback on AIPs. This informal dialectic helps AIP authors to strengthen their proposals
+and promotes AIPs that are informed by values and goals of the community.
+
+Proposal Process
+Discourse is used for idea generation, community discussion, and the preparation of the
+AIP Draft. A brief description of the process is below. See the Proposal Process 66 on
+the ApeCoin website for further details.
+
+All Topics submitted in Discourse must be approved by a moderator. If it is rejected,
+you will be contacted by a moderator directly. If approved, it is open for 7 days.
+When the Topic is closed, a moderator will message the author of the Topic directly in
+Discourse to put together the AIP Draft.
+The AIP Draft will go through the moderation, analysis, and review process.
+Moderators will update the community on the status of the Topics in the comments after
+the Topic is closed.
+Approved AIPs will be put on Snapshot for vote.
+
+Voting Process
+All Live AIPs will be posted for vote at the ApeCoin DAO Snapshot 30. A brief summary of
+the process is below. See the Voting section 19 on the ApeCoin website for further details.
+
+New AIPs are posted every week on Thursday at 9PM ET and close the following Wednesday at
+9PM ET.
+ApeCoin DAO members may delegate their votes to another ApeCoin DAO member. Delegation
+must occur prior to the posting of the AIP on Snapshot.
+
+How to Start?
+Read AIP Drafts 30 or Ideas 13 from other DAO members and engage by replying with a
+comment or submit your own
+Review AIPs currently up for a vote at Live AIPs 13
+Review previously passed or rejected AIPs at Final AIPs 5
+Learn about structuring your AIP by viewing templates available at Help & Resources 14
+Stay in touch with the community by learning more about General 5 topics currently under
+discussion as well as live Events 10 related to ApeCoin
+Learn from the community by: reviewing frequently asked questions 14 in the ApeCoin
+community, reading through best practices for staying safe online 4, and getting help 4
+from the community
+Guidelines for Engagement on Discourse
+
+This is a Civilized Place for Public Discussion
+Please treat this discussion forum with the same respect you would a public park. We,
+too, are a shared community resource — a place to share skills, knowledge and interests
+through ongoing conversation. These are not hard and fast rules. They are guidelines to
+aid the human judgment of our community and keep this a kind, friendly place for
+civilized public discourse.
+
+Improve the Discussion
+Help us make this a great place for discussion by always adding something positive to the
+discussion, however small. If you are not sure your post adds to the conversation, think
+over what you want to say and try again later.
+One way to improve the discussion is by discovering ones that are already happening.
+Spend time browsing the topics here before replying or starting your own, and you’ll have
+a better chance of meeting others who share your interests.
+The topics discussed here matter to us, and we want you to act as if they matter to you,
+too. Be respectful of the topics and the people discussing them, even if you disagree
+with some of what is being said.
+
+Be Agreeable, Even When You Disagree
+You may wish to respond by disagreeing. That’s fine. But remember to criticize ideas,
+not people. Please avoid:
+Name-calling
+Ad hominem attacks
+Responding to a post’s tone instead of its actual content
+Knee-jerk contradiction
+Instead, provide thoughtful insights that improve the conversation.
+Your Participation Counts
+
+The conversations we have here set the tone for every new arrival. Help us influence the
+future of this community by choosing to engage in discussions that make this forum an
+interesting place to be — and avoiding those that do not.
+Discourse provides tools that enable the community to collectively identify the best
+(and worst) contributions: bookmarks, likes, flags, replies, edits, watching, muting and
+so forth. Use these tools to improve your own experience, and everyone else’s, too.
+Let’s leave our community better than we found it.
+
+If You See a Problem, Flag It
+Moderators have special authority; they are responsible for this forum. But so are you.
+With your help, moderators can be community facilitators, not just janitors or police.
+When you see bad behavior, don’t reply. Replying encourages bad behavior by acknowledging
+it, consumes your energy, and wastes everyone’s time. Just flag it. If enough flags
+accrue, action will be taken, either automatically or by moderator intervention.
+In order to maintain our community, moderators reserve the right to remove any content
+and any user account for any reason at any time. Moderators do not preview new posts;
+the moderators and site operators take no responsibility for any content posted by the
+community.
+
+Always Be Civil
+Nothing sabotages a healthy conversation like rudeness:
+Be civil. Don’t post anything that a reasonable person would consider offensive, abusive,
+or hate speech.
+Keep it clean. Don’t post anything obscene or sexually explicit.
+Respect each other. Don’t harass or grief anyone, impersonate people, or expose their
+private information.
+Respect our forum. Don’t post spam or otherwise vandalize the forum.
+These are not concrete terms with precise definitions — avoid even the appearance of any
+of these things. If you’re unsure, ask yourself how you would feel if your post was
+featured on the front page of a major news site.
+This is a public forum, and search engines index these discussions. Keep the language,
+links, and images safe for family and friends.
+
+Keep It Tidy
+Make the effort to put things in the right place, so that we can spend more time
+discussing and less cleaning up. So:
+Don’t start a topic in the wrong category; please read the category definitions.
+Don’t cross-post the same thing in multiple topics.
+Don’t post no-content replies.
+Don’t divert a topic by changing it midstream.
+Don’t sign your posts — every post has your profile information attached to it.
+Rather than posting “+1” or “Agreed”, use the Like button. Rather than taking an
+existing topic in a radically different direction, use Reply as a Linked Topic.
+
+Post Only Your Own Stuff
+You may not post anything digital that belongs to someone else without permission.
+You may not post descriptions of, links to, or methods for stealing someone’s
+intellectual property (software, video, audio, images), or for breaking any other law.
+Powered by You
+
+This site is operated by your friendly local staff and you, the community. If you have
+any further questions about how things should work here, open a new topic in the site
+feedback category and let’s discuss! If there’s a critical or urgent issue that can’t
+be handled by a meta topic or flag, contact us via the staff page.
+
 The APE Foundation website is the DAO hub, providing an interface to educate DAO members
 on the governance process and provide easy access to the channels below in order to
 streamline the DAO’s operation and enhance its utility.
@@ -5,18 +148,14 @@ streamline the DAO’s operation and enhance its utility.
 Discourse is the first stop for all proposals. An AIP (Ape Improvement Proposal) Idea is
 submitted as a post in Discourse and must receive confirmation from a moderator that it
 complies with DAO-approved guidelines before it appears to the community. ApeCoin holders
-
 must go through a wallet authentication process to post ideas or give feedback to ideas
 via comments. Snapshot is used for voting. Proposal drafts that have passed their
-respective approval processes become
-
-available for voting on Snapshot. ApeCoin holders must go through a wallet authentication
-process to vote.
+respective approval processes become available for voting on Snapshot. ApeCoin holders
+must go through a wallet authentication process to vote.
 
 APECOIN IS FOR THE WEB3 ECONOMY.
 Culture has found new expression in web3 through art, gaming, entertainment, and events.
 The possibilities for blockchain’s impact on culture are so endless that they can’t
-
 possibly all be predicted yet. APE is a token made to support what’s next, controlled and
 built on by the community. It will serve as a decentralized protocol layer for
 community-led initiatives that drive culture forward into the metaverse.
@@ -28,14 +167,12 @@ on which ApeCoin holders in the ApeCoin DAO can build.
 The Foundation facilitates decentralized and community-led governance and is designed to
 become more decentralized over time. It is tasked with administering the decisions of the
 ApeCoin DAO, and is responsible for day-to-day administration, bookkeeping, project
-
 management, and other tasks that ensure the DAO community’s ideas have the support they
 need to become a reality.
 
 The goal of the APE Foundation is to steward the growth and development of the APE
 ecosystem in a fair and inclusive way. It utilizes the Ecosystem Fund, which is
 controlled by a multisig wallet, to pay its expenses as directed by the ApeCoin DAO and
-
 provides an infrastructure for ApeCoin holders to collaborate through open and
 permissionless governance processes.
 
@@ -67,9 +204,8 @@ Overseeing the Ape Foundation administrators and other foundation service provid
 ensuring they execute their duties with efficiency and timeliness, aligned with the
 ApeCoin DAO's objectives and values.
 
-FORUM POSTS
 
-AIP-1: Proposing the DAO
+Title: AIP-1 - Proposing the DAO
 Category: Process
 Submitted by: Cartan Group LLC
 
@@ -111,6 +247,7 @@ in Discourse, proposals, votes cast, and voting outcomes will be publically avai
 to view.
 
 GUIDELINES
+
 Every year, there is a DAO-wide vote to determine which DAO members will serve on a
 special council on the APE Foundation (the DAO’s “Board”). The purpose of the Board is
 to administer DAO proposals and serve the vision of the community.
@@ -122,13 +259,12 @@ The total cost of implementation must be clear in order for a proposal to go to 
 DAO members must search past proposals to ensure any idea they intend to write a proposal
 for has not already been submitted.
 If a suggested proposal directly conflicts with a proposal that is currently up for vote,
-
 the second proposal should not go for a vote until a decision is made on the first proposal
 to avoid approval of opposing requirements.
 A suggested proposal that directly conflicts with another approved proposal cannot go to
 vote for three months after the original proposal has been implemented to avoid wasting
-
 community assets.
+
 Proposals will not be considered/put up for a vote if they involve illegal activity, hate
 speech, pornographic material, or are at odds with the mission or values of the APE Foundation.
 
@@ -187,7 +323,6 @@ the resubmission is different.
 AIP Analysis Report - a report conducted by a project management team engaged by the
 APE Foundation to ensure that all costs, steps to implement, legal considerations,
 third-party review requirements, potential conflicts of interests, and any further
-
 implications have been properly considered and identified. This is considered to be a
 service for the community given that AIP authors will be submitting drafts with little
 to no resources.
@@ -195,7 +330,6 @@ to no resources.
 APE Improvement Proposal Draft & Analysis Report (AIP DAR Package) - both the AIP Draft
 (submitted by the author) and the AIP Analysis Report (submitted by the project
 management team engaged by the APE Foundation) should be defined as a package after the
-
 analysis report is conducted, as they should only be considered together from that point on.
 
 AIP Moderation - the act of reviewing an AIP DAR Package to determine whether or not the
@@ -206,11 +340,9 @@ it becomes a Pending AIP.
 Pending AIP - the AIP status after AIP DAR, which is only reached if it passes AIP Moderation.
 Post-Moderation Tagging - the process of tagging all Pending AIPs that have successfully
 been through the AIP analysis report and AIP moderation phases. There are two tags given
-
 at this stage: 1) “Straight to Vote,” which is for any pending AIP where costs, content,
 and implications are considered to be straightforward and of no risk to the well-being
 of the DAO. 2) “Needs Administrative Review,” which is for any pending AIP with costs,
-
 content, or implications that are considered to be complicated or a potential risk to the
 well-being of the DAO and therefore must be reviewed by the Board of the DAO.
 
@@ -221,13 +353,11 @@ by the community.
 Return for Clarification - a type of administrative classification that requires the AIP
 author to clarify certain information regarding the Pending AIP. This classification would
 be given in cases such as cost to implement being unclear, proposing to utilize a larger
-
 percentage of the Ecosystem Fund than is justified based on the value it would provide to
 the community, or being in direct conflict with an active AIP.
 
 Return for Reconstruction - a type of administrative classification that requires the
 proposer to restart the proposal submission process because the Pending AIP violates
-
 DAO-approved requirements, or in cases of violation of the law, reasonable suspicion
 of fraud or other misleading information, or the pending AIP being at odds with the
 mission, values, or well-being of the Foundation or DAO.
@@ -309,17 +439,16 @@ Informational
 Informational (Resubmission)
 The moderator may then continue communication with the author to inform them of any
 incorrect or missing information that needs to be changed—or clarifications that need to
-
 be made—in order for the AIP Draft to comply with the DAO-approved guidelines and move
 to the next step.
 If the author does not respond to a moderator’s request to change, update, or make
 clarifications on the AIP Draft within 30 days, the AIP Draft will be automatically
-
 rejected as having failed to comply with the DAO-approved guidelines.
 When the moderator confirms that an AIP Draft complies with the DAO-approved guidelines,
 they assign a number to the AIP for identification purposes throughout the rest of the
 process. From this point on, the AIP is referred to as “AIP-#: (Name) - (Category)”.
 For example, this AIP is “AIP-1: Proposing the DAO - Process”.
+
 Phase 3: AIP Analysis Report
 
 The AIP Draft is then reviewed by a project management team engaged by APE Foundation,
@@ -340,7 +469,6 @@ The AIP DAR Package will either be approved or not approved based on whether it 
 to the DAO-approved guidelines.
 If an AIP DAR Package is approved as complying with DAO-approved guidelines, it becomes
 a Pending AIP and moves to Phase 5.
-
 If an AIP DAR Package fails to comply with DAO-approved guidelines, it is eligible for
 resubmission unless in cases of violation of the law or reasonable suspicion of fraud or
 other misleading information.
@@ -350,11 +478,9 @@ Phase 5: Post-Moderation Tagging
 Pending AIPs that have passed AIP Moderation will then either be tagged as “Straight to
 Vote” or “Needs Administrative Review”’ as each term is defined and described in this Proposal.
 The “Straight to Vote” tag is given for any pending AIP whose costs, content, and implications
-
 are considered to be straightforward and of no risk to the well-being of the DAO. Any
 Pending AIP that is tagged as “Straight to Vote” will skip to Phase 7.
 The “Needs Administrative Review” tag is given for any pending AIP whose costs, content,
-
 or implications are considered to be complicated or a potential risk to the well-being
 of the DAO. Any Pending AIP that is tagged as “Needs Administrative Review” must go
 through Phase 6.
@@ -368,7 +494,6 @@ whether further action is required prior to a Pending AIP proceeding to Phase 7.
 Pending AIPs that the Board determines do not require additional action will be tagged
 as “Approved for Voting” and proceed to Phase 7.
 If the Board decides to return a Pending AIP for further clarification or action, they
-
 must provide a clear explanation of why and tag it as either “Return for Reconstruction”
 or “Return for Clarification.”
 Reasons to tag as “Return for Reconstruction” or “Return for Clarification” may include
@@ -393,11 +518,9 @@ batches every Thursday at 9PM ET.
 Moderators are the only ones that can post AIPs to Snapshot because they must ensure
 that each one has gone through the correct approvals process.
 Once live on Snapshot, Live AIPs are open to voting until Weekly Voting Close, which
-
 is when all Live AIPs from a given batch close for voting at 9PM ET on the Wednesday
 following their release.
 The voting options are “In favor” and “Against.” Voting “In favor” means the voter
-
 is in favor of implementing the AIP exactly as-is. Voting “Against” means the vote is
 against implementing the AIP exactly as-is — voters may vote “Against” to encourage
 the author to resubmit the AIP after making changes.
@@ -424,7 +547,6 @@ this happens but not responsible for doing it themselves.
 The AIP implementation is administered by the Ape Foundation. Implementation may be
 immaterially or materially altered to optimize for security, usability, to protect APE
 holders, and otherwise to effect the intent of the AIP. Any material deviations from an
-
 AIP, as initially approved, will be disclosed to the APE holder community.
 
 SPECIFICATIONS
@@ -512,3 +634,180 @@ Compensation is entirely in the form of ApeCoin to align incentives of Board Mem
 with DAO Members.
 Each Board member receives $125K in ApeCoin for their 6-month term, subject to equal
 monthly vesting over the course of their term (~$20,833.00 of ApeCoin/month for 6 months).
+
+
+Title: AIP-2 - Voting Process
+Category: Process
+Author: Cartan Group LLC
+
+ABSTRACT
+This document proposes the voting protocol for the DAO outlined in AIP-1.
+
+MOTIVATION
+The main motivation behind this proposal is to create the voting infrastructure for
+ApeCoin holders to participate in the decision-making of the DAO, the governing body of
+the Foundation. The core criteria for the proposed voting system are:
+
+not requiring gas payment
+ensuring transparency
+expanding governance participation to all holders of ApeCoin
+One of the goals of launching a token was to facilitate decentralized community
+governance in the form of the ApeCoin DAO. Without a voting system in place, arriving at
+consensus on proposals would be centralized, with only a few people holding
+decision-making abilities. This proposal aims to avoid this result.
+
+RATIONALE
+As the ecosystem evolves and expands, a well-defined system is required to gather new
+community ideas and provide a clear path for these ideas to be approved for
+implementation. A proposal process is foundational to this system becoming a reality.
+
+A proposal process, however, needs an accompanying consensus mechanism. It must be fair,
+transparent, and low-cost to place votes. Balancing each of these requirements is
+challenging. On-chain solutions make it costly to vote. Off-chain solutions, like the one
+proposed, are less expensive, but require actions to take place off chain.
+
+This proposal outlines a voting protocol that seeks to balance the pros and cons of 
+voting approaches, and to hold up the core APE Foundation guiding values of equality and
+transparency. This voting protocol can be found below in the following SPECIFICATIONS
+section.
+
+SPECIFICATIONS
+Assuming the approval of AIP-1, implement Snapshot as the voting mechanism / protocol
+where:
+
+Only ApeCoin token holders may vote
+Token holders will have the ability to delegate votes
+New proposals that meet the required guidelines will be launched in batches every
+Thursday at 9PM ET
+The voting opens immediately upon launch
+The voting options for a Live AIP are “In favor” and “Against.” Voting “In favor” means
+the voter is in favor of implementing the AIP exactly as-is. Voting “Against” means th
+ vote is against implementing the AIP exactly as-is — one may vote “Against” to encourage
+ the author to resubmit the AIP after making changes.
+The voting for each proposal in each weekly batch will be open for voting for six days,
+closing at 9PM ET on the following Wednesday
+Proposals that are approved by the holders of the requisite number of ApeCoin are moved
+to the APE Foundation for implementation
+Only moderators can post AIPs to Snapshot because they must ensure that each one has
+gone through the correct approvals process
+
+STEPS TO IMPLEMENT
+Purchased ENS domain
+Created specific space on Snapshot
+Implemented ecosystem-specific voting strategy
+Set administrator addresses
+Set voting rules
+Set restrictions in Snapshot so that only moderators can launch proposals
+Opened ratification of AIP-1 and AIP-2
+TIMELINE
+Solution prepared and ready to be ratified
+
+OVERALL COST
+No cost to implement
+
+
+Title: AIP-9 - Boring Security - Ecosystem Fund Allocation
+Category: Ecosystem Fund Allocation
+Author: Feld
+
+ABSTRACT
+This document outlines the Boring Security Mission statement and alignment with the
+greater BAYC and NFT community. In order to grow the pie, we must first secure the
+crust, and protect the gooey insides from malicious actors.
+
+MOTIVATION
+The Boring Security DAO has tracked over $50mm worth of hacked/scammed NFTs in the
+space and has attributed it largely to lack of awareness and education on the NFT
+communities’ part. There have been no large-scale vendor neutral efforts in the space
+to educate, inform, and provide timely updates such that the community can make better
+informed risk decisions with their capital and NFTs. This changes now.
+
+RATIONALE
+With BAYC holders being the largest target for hackers/scammers, the DAO will face
+unique challenges over the coming months and years as it pertains to Security.
+Bringing a whole slew of new users into DeFi primitives, they will face even more
+challenges in ensuring the safety of their coins, NFTs, and digital assets more broadly.
+As the ecosystem evolves and web3 integrations become more prevalent, getting a BAYC
+holder to sign a potentially malicious transaction will be the holy grail of exploits,
+and one that should concern this DAO greatly.
+
+SPECIFICATIONS
+Dune Analytics to help determine trends, track user behavior, and guide decisions of
+resource allocation.
+Social Media to conduct outreach, education, and
+Smart Contract Review Tools - We hope to make partnerships with established auditing
+companies in the space to give us the ability to do preliminary safety checks on minting
+contracts, airdropped tokens, etc.
+
+STEPS TO IMPLEMENT
+After Funding is secured we plan to:
+
+Setup Coordinape and fund it with a portion of our Apecoin each month. DAO participants
+will be paid out every month, based on their effort into the DAO and the perceived value
+of other contributors in the contributor bucket.
+Hire (1) staff member out of a legal entity already created to facilitate this effort.
+This staff member will be doing outreach, tracking attendance to courses, website content
+updates, issuing our BS101 NFTs, coordinating volunteer activities, Coordinape payout
+handling, and most importantly tracking our metrics and helping the group work towards
+them, and potentially more depending on their skill set or desire.
+Partnerships, Website design, Giveaways, Social Media blitzes, etc.
+We believe with the ($80,000 worth of apecoin) we will be able to have a 6 month runway
+of associated costs. Beer money for volunteers, a full-time staff member, and our
+software needs. However, being able to up the volunteer budget or being able to pay
+people for valuable contributions outside of coordinape to help us push our milestones
+further, faster, is the goal. This is why we are requesting funding from multiple sources.
+
+TIMELINE
+2022 OKRs Summary:
+Achieve a meaningful number members to join the Boring Security community
+Funding to support Boring Security objectives long-term
+
+Milestones
+
+Security Educational Courses w/ POAP
+Become the largest security communities in the NFT space.
+Active monitoring, reviews, and tooling for the space.
+Roadmap and Milestones
+
+Phase 1
+Summary: During phase 1 the team will be designing and developing Educational Courses
+geared toward changing risky behavior in the NFT Space, eg. Blind Signing, risky
+approvals, etc. The team will also accumulate and collect the necessary wallet, event,
+asset, approval data to analyze and ruthlessly prioritize our roadmap.
+Milestones: Courseware, POAPs, and establish DAO structure.
+
+Create NFT security Educational courseware targeting High Risk individuals based on
+behavioral analysis.
+Promote courseware via social awareness and engagement with key NFT communities.
+Incentivize courseware through POAP and collaborations with NFT projects (giveaways,
+whitelist)
+Establish the optimal team and organizational structure to achieve the goals of a
+long-lasting public utility
+
+Phase 2
+Summary: In order to be successful in a Security project it is essential to make data
+driven decisions that enable us to understand the likelihood and severity of attacks.
+Milestones: Curate Content, Go public, Smart Contract Review, More volunteers
+
+Response team deployment
+Paced Launch of the project (Open Socials, Discord, Advertising Material)
+Metrics developed to track % of ‘key projects’ that recommend newcomers to utilize
+Boring Security
+
+Phase 3
+Summary: Operational Success - Growth
+Milestones: Partnerships, Growth, Tools, Trust
+
+Full-time active monitoring of the space, threats, and scams
+Develop scope beyond courseware. Establish mechanisms for proactive and reactive
+airdrop/smart contract reviews for user safety.
+Develop tools, dashboards, technical primitives to protect the community
+Partnerships with large projects, potential companies or other DAOs to help spread
+awareness and bring NFTs safely to the masses.
+
+OVERALL COST
+The initial ask from the DAO is 6969 $ape coin, but Boring Security has some plans to
+generate additional supporter funding through Supporter NFT issuance, other grant
+applications (Opensea grant is pending) and others. However, there will likely be ongoing
+requests for funding that we will likely come back to the DAO for additional funding,
+and provide updates of our progress, etc.
