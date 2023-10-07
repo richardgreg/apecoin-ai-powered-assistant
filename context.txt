@@ -811,3 +811,100 @@ generate additional supporter funding through Supporter NFT issuance, other gran
 applications (Opensea grant is pending) and others. However, there will likely be ongoing
 requests for funding that we will likely come back to the DAO for additional funding,
 and provide updates of our progress, etc.
+
+
+Proposal Name: Bored Ape Gazette: Ape Coin Media/ BAYC News
+Proposal Category: Ecosystem Fund Allocation
+
+ABSTRACT
+The Bored Ape Gazette has grown exponentially over the past year and we have covered
+everything in the Bored Ape ecosystem since June 1,2021. I am committed to building a
+trusted source of information for this community and I would like to expand the operations
+into continuous research, analysis and reporting across the ecosystem. After speaking
+with Brandon Caruana, I believe the best way for the Bored Ape Gazette to grow is via a
+grant from the ApeCoin DAO.
+
+We fully believe in the power and support of this community and would like to work for it
+full time. We have a plan to turn the Bored Ape Gazette into a sustainable business model
+over the course of one year and I am requesting a grant from the community to help me
+accomplish this goal.
+
+Motivation
+The goal of the Bored Ape Gazette is to keep $Ape holders, BAYC members and the general
+public informed on all things Ape! I have met some amazing people over the last year and
+feel honored to be able to provide this community with a trusted source of information.
+
+Rationale
+The Bored Ape Gazette was founded on June 1, 2021 and has covered the BAYC and its
+members every day since.
+
+As the community has expanded from a 10,000 profile photo collection into a global brand
+and DAO, the need for a trusted community news source has never been more important.
+
+The Bored Ape Gazette has worked hard to become this trusted source of information and
+can see a path to expand our presence and content. We will continue to support this
+community faithfully.
+
+Specifications
+Over the next year, we believe that the Bored Ape Gazette will become the go to news
+source for every member of this community. With the support of the DAO, the Bored Ape
+Gazette website will become a 24-hour style news site complete with a live BAYC, MAYC,
+BAKC and Otherdeed sales ticker, an $Ape price chart complete with a tradeview, a
+calendar showing important dates such as DAO votes and other community related
+events, a classifieds section where community members can list their BAYC/ Yuga related
+art and services, among other resources that will keep the community and the world
+informed on all things ape!
+
+Along with an updated website, the Bored Ape Gazette will also work to keep the
+community better informed on the ApeCoin DAO with bi- weekly newsletters and in depth
+reports on Ape Improvement Proposals complete with Q&A interviews with the AIP Authors
+and interviews with holders who are for and against the proposals.
+
+Steps to Implement
+To begin, I’d love to get DAO members help in revamping the Gazette and making it more
+user friendly by adding community resources to the site.
+
+Some of the resources I would like to add to the site are:
+1.A live ticker showing sales from the BAYC, MAYC, BAKC and Otherdeed collections,
+2.An Ape coin price chart
+3.An Ape coin DAO tracker showing members what AIPs are on the ballot this week at the DAO.
+4.An Ape Calendar showing upcoming community events, meetups and DAO votes
+5. A classifieds section where members can sell their BAYC/ Yuga art and services in $Ape
+
+Along with those improvements to the website, with the help of the DAO I will make
+running the community newspaper my full time job and deliver more daily coverage.
+
+For $7000 per month, I will ramp up my coverage of all things Ape with a focus on the
+Apecoin DAO and I will create a bi-weekly newsletter for the community immediately.
+
+Further, I will also edit contributing writers’ stories and lead weekly Bored Ape Gazette
+writers meetings where all community members are welcome and everyone can pitch ideas and
+get involved in the paper!
+
+At this time, I would also like to extend an invite to any/all DAO members who want to
+write/report to come join the Gazette! This is a community paper that should be written
+by members of the $Ape community! I believe that the DAO should pay these reporters $100
+dollars per published article.
+
+In total, I expect the Gazette to cost the DAO an estimated $10,000 a month for news
+coverage and an additional cost to revamp the website.
+
+Timeline
+The Bored Ape Gazette is positioned to begin implementing these steps immediately.
+Once the DAO approves of this grant, coverage of all things ape will ramp up from 1-2
+stories a day to 3-5. I also will host the first Bored Ape Gazette writers meeting a
+week after the approval of this AIP.
+
+On the second or fourth Tuesday of the month following the approval of this grant I will
+release the first bi- weekly newsletter on the ApeCoin DAO. Going forward, these
+newsletters will be released on the second and fourth Tuesday of each month. I believe
+releasing these newsletters on Tuesday is critical so $Ape holders have a day to read
+the news and vote before the Wednesday night deadline.
+
+The updates to the Bored Ape Gazette website will begin immediately after the approval
+of this grant. Brandon Caruana has agreed to help with this part. The website should be
+transformed within a quarter.
+
+Overall Cost
+
+$150,000 USD for the first year.
