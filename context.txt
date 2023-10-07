@@ -205,7 +205,7 @@ ensuring they execute their duties with efficiency and timeliness, aligned with 
 ApeCoin DAO's objectives and values.
 
 
-Title: AIP-1 - Proposing the DAO
+AIP-1: Proposing the DAO
 Category: Process
 Submitted by: Cartan Group LLC
 
@@ -636,7 +636,7 @@ Each Board member receives $125K in ApeCoin for their 6-month term, subject to e
 monthly vesting over the course of their term (~$20,833.00 of ApeCoin/month for 6 months).
 
 
-Title: AIP-2 - Voting Process
+AIP-2: Voting Process
 Category: Process
 Author: Cartan Group LLC
 
@@ -706,7 +706,7 @@ OVERALL COST
 No cost to implement
 
 
-Title: AIP-9 - Boring Security - Ecosystem Fund Allocation
+AIP-9: Boring Security - Ecosystem Fund Allocation
 Category: Ecosystem Fund Allocation
 Author: Feld
 
