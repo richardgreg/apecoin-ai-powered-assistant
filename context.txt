@@ -908,3 +908,517 @@ transformed within a quarter.
 Overall Cost
 
 $150,000 USD for the first year.
+
+
+ApeCoin DAO Handbook
+
+This evolving guide is designed to help you navigate and understand the ApeCoin DAO.
+Here’s what you can find:
+
+1. Intro to DAO’s & The Ownership Economy
+Decentralized Autonomous Organizations (DAOs), such as the ApeCoin DAO, represent a
+revolutionary approach to organizational structure, powered by the transparency and
+immutability of blockchain technology. DAOs operate on the principles of transparency,
+inclusivity, and direct participation, providing a platform where every member has a
+voice.
+
+ApeCoin DAO is a prime example of the emerging ownership economy, where users are not
+just passive consumers but active stakeholders. As holders of APE tokens, users have the
+ability to influence the direction of the DAO, participating in decisions ranging from
+governance policies to Ecosystem Fund Allocations. This level of involvement is a
+significant departure from traditional organizational structures, fostering a sense of
+community and shared purpose.
+
+2. How DAO’s work
+Blockchain technology is what allows DAOs to maintain the integrity of their governance
+structures, proving the validity of consensus mechanisms on-chain. As the ApeCoin DAO
+continues to decentralize and operate autonomously, smart contracts play an increasingly
+important role.
+
+These self-executing contracts with the terms of the agreement directly written into code
+govern the proposal and execution processes within the DAO. They ensure that rules and
+procedures are followed consistently, without the need for a central authority or
+intermediary. Code automatically executes actions when certain conditions are met.
+
+This could include releasing funds for a project once it has received sufficient votes or
+vesting token unlocks into the Ecosystem Fund. By automating these processes, smart
+contracts not only increase efficiency but also ensure fairness and transparency,
+reinforcing the core principles of the ApeCoin DAO.
+
+3. Learn about the benefits and challenges of DAO’s
+ApeCoin DAO embodies the principles of collective ownership and democratized access to
+resources and decision-making abilities for its community. It excels at coordinating and
+incentivizing its diverse group of APE token holders towards common goals, such as
+funding proposals that enhance the value of the ecosystem or supporting initiatives that
+align with the DAO’s mission.
+
+ApeCoin DAO enables direct participation in decision-making, fostering a sense of
+ownership and engagement among its members. Moreover, ApeCoin DAO is effective at
+managing and distributing resources in a transparent way. Through the proposal process,
+resources are allocated based on community consensus. Each proposal undergoes a rigorous
+review and voting process, ensuring that resources are directed towards initiatives that
+have community support.
+
+Aligning incentives is a critical aspect of ApeCoin DAO’s operations. The DAO could
+potentially face a ‘tragedy of the commons’ scenario, where the lack of clear mandates
+or tangible benefits might discourage members from taking ownership of tasks or
+initiatives. To counteract this, ApeCoin DAO has implemented several community led
+initiatives such as the Working Group structure implemented by AIP-239 as well as the
+proposal process to incentivize active participation and ownership.
+
+Efficiency challenges are a reality for the ApeCoin DAO, as they are for many
+decentralized organizations. The need to achieve consensus among a diverse group of
+APE token holders can sometimes slow down decision-making processes. However, this is
+a feature, not a bug; ensuring that decisions reflect the collective will of the
+community and are not dictated by a central authority.
+
+Dispute resolution in the ApeCoin DAO is also a complex issue due to its decentralized
+nature. However, the DAO is committed to transparency and fairness in all its
+operations. Disputes related to proposals or decisions are addressed through open
+discussion and voting, ensuring that all voices are heard and that the final decision
+aligns with the majority’s view. Despite these challenges, ApeCoin DAO remains committed
+to its principles of transparency, inclusivity, and direct participation, continually
+seeking ways to improve its processes and structures.
+
+4. What is the ApeCoin DAO?
+ApeCoin DAO is a community-driven organization that operates on the principles of
+decentralization and autonomy. Any APE token holders may propose an AIP, or APE
+Improvement Proposal. The DAO will then deliberate, and vote on these initiatives which
+impact the ApeCoin ecosystem. These AIPs often take the form of grants to incentivize
+the community to build out the overall APE ecosystem.
+
+5. Explore the Mission, Vision, and Values of the ApeCoin DAO
+Mission Statement: Culture has found new expression in web3 through art, gaming,
+entertainment, and events. The possibilities for blockchain’s impact on culture are so
+endless that they can’t possibly all be predicted yet. APE is a token made to support
+what’s next, controlled and built on by the community. It will serve as a decentralized
+protocol layer for community-led initiatives that drive culture forward into the metaverse
+
+Vision: From ApeCoin.com 2: “Culture has found new expression in web3 through art,
+gaming, entertainment, and events. The possibilities for blockchain’s impact on culture
+are so endless that they can’t possibly all be predicted yet. APE is a token made to
+support what’s next, controlled and built on by the community. It will serve as a
+decentralized protocol layer for community-led initiatives that drive culture forward
+into the metaverse.”
+
+Values: The values of ApeCoin DAO are centered around community, transparency, and
+innovation. The DAO believes in the power of community and the potential of every member
+to contribute to the ecosystem. It values transparency in its operations and
+decision-making processes, as evidenced by AIPs like AIP-121, which proposed a
+transparency act for Ecosystem Fund Allocations.
+
+Boldness: We don’t shy away from the weird, the hard, or the new.
+Equality: One APE equals one APE.
+Transparency: Processes and decisions are shared openly with the community.
+Collective Responsibility: We leave everything better than we found it.
+Persistence: Success is an ouroboros, not a straight line.
+
+6. Learn about the DAO's structure and key roles
+The ApeCoin DAO is structured as two parts of a larger whole. Similar to a ship and its
+crew, we need both if we want to reach our destination.
+
+The APE Foundation is like the ship itself - it’s the tangible, physical entity that
+provides the structure, resources, and initial direction. It’s built with a specific
+purpose in mind and is equipped with everything needed to achieve that purpose.
+
+The DAO, on the other hand, is like the crew of the ship. They’re the ones who actually
+operate the ship, making decisions about where to go, how to navigate, and what actions
+to take. They’re not just passive passengers; they’re actively involved in steering the
+ship, planning the route, and navigating the waters.
+
+Just as a ship needs a crew to deliver its cargo, the APE Foundation needs the DAO to
+bring its vision to life. And just as a crew needs a ship to embark on their journey,
+the DAO needs the Foundation company to provide the framework and resources for their
+governance processes.
+
+7. Get insights into the Ape Foundation
+Within the Foundation, and the DAO, there are various roles and entities, each with
+their own responsibilities and functions. First, let’s dive into the APE Foundation.
+
+The APE Foundation:
+From ApeCoin.com/about: “The APE Foundation is the steward of ApeCoin. It is not an
+overseer, but the base layer on which ApeCoin holders in the ApeCoin DAO can build.
+The Foundation facilitates decentralized and community-led governance and is designed
+to become more decentralized over time.”
+
+The Foundation is tasked with administering the decisions of the ApeCoin DAO, and is
+responsible for day-to-day administration, bookkeeping, project management, and other
+tasks that ensure the DAO community’s ideas have the support they need to become a
+reality.” - Apecoin.com
+
+Special Council: The Special Council is a five-person elected group of DAO members who
+provide oversight of the Foundation administrators. Members of the Special Council are
+elected for one-year terms, with seats rotating up for election every six months for
+terms starting in the months of January, and July. The process for nominating and
+electing members to the Special Council is outlined in AIP-137 and AIP-138.
+
+The Special Council is responsible for administering DAO proposals and serving the
+vision of the community. They meet to discuss proposals requiring administrative
+review under ApeCoin DAO rules, as approved in AIP-1 1.
+
+AIP-282 has created a comprehensive description of the Special Council role.
+
+The DAO Administrators:
+In the ApeCoin DAO, members have the power to influence the direction of the ecosystem
+through their votes. However, the Foundation, as a legal entity, still plays a crucial
+role. It’s the engine room of the ship, ensuring that the DAO’s decisions are
+implemented and the day-to-day operations run smoothly. The Foundation’s
+responsibilities encompass administering the DAO’s decisions, and managing daily tasks
+like bookkeeping, grant disbursement, and project management. This ensures that the
+innovative ideas from our community have the necessary support to come to life.
+
+The DAO Administrators were originally engaged for a specific scope as ratified in
+AIP-1 1, including:
+To provide operational support and project management support for the Foundation;
+To act as the team of moderators, administrators, and lead in Discourse;
+To act as the team of reviewers to prepare reports and any other supporting documentation
+necessary; and
+Manage Discourse and Snapshot.
+
+The Request for Proposal process carried out by Working Group Zero, from AIP-196, in
+addition to the Working Group Guidelines proposal from AIP-239, have adjusted this scope
+slightly to several administrative support categories including:
+
+Compliance and Legal: The DAO Administrators assist with ensuring legal and regulatory
+compliance of the APE Foundation under applicable law. They also facilitate the legal
+processes with respect to APE Foundation activities as determined by the Director,
+Supervisor, and Special Council including but not limited to: Vendor Contracts, Grant
+Due Diligence, Grant Agreements, and Trademarks.
+
+Finance: They are also responsible for administering the APE Foundation’s finances as
+determined by the Director, Supervisor, and Special Council including but not limited
+to: Accounts Payable, Accounts Receivable, Bookkeeping and Financial Reporting.
+
+Operations: The DAO Administrators also facilitate weekly Special Council meetings,
+apply and adhere to AIP guidelines, administer and maintain social media accounts, and
+publish content to said accounts as directed by the DAO working group(s), maintain and
+update the ApeCoin website and maintain the Discourse Enterprise Account, as well as
+maintain @apecoin email addresses and answer or forward incoming email to relevant
+parties as necessary.
+
+Treasury: Our DAO Administrators also facilitate the administration of the APE
+Foundation Treasury, including but not limited to: counterparty risk mitigation,
+custodian account management, facilitating OTC sales of ApeCoin, facilitating SAFE
+Multisig usage, maintaining addresses to hold apecoin.eth ENS & the ApeCoin NFT.
+
+The ApeCoin DAO selected our current DAO Administrators, WebSlinger, through a
+snapshot vote.
+
+8. Learn about ApeCoin DAO Working Groups
+AIP-239 ratified a process for creating community-led infrastructure, called Working
+Groups, for the ApeCoin DAO. The primary motivation for having Working Groups to
+facilitate DAO operations is to prevent a single point of failure, while decentralizing
+DAO operations into the hands of the community. Working Groups enable a sustainable
+infrastructure which allows the DAO to operate efficiently while adapting to any
+challenges.
+
+Working groups can be formed within the DAO, each with its own charter and elected
+members. These groups focus on specific areas such as Governance, Metaverse and
+Marketing & Communications, as per AIP-239, AIP-245, and AIP-246. Working Groups are
+intentional community-led infrastructure, which allow for the execution of DAO-approved
+mandates. Working Group Charters outline a mandate for a Working Group, which must
+align with the vision and values of the ApeCoin DAO. A Working Group Charter consists of:
+
+Mandate and Scope - What does this group do?
+OKRs, if any - How is progress measured against budget proposals?
+Initiatives, if any - Which specific tasks or teams does this group need?
+Reporting Requirements - How often will this group report to the DAO?
+Stewards, if any - Who will maintain this group until the next election?
+Budget - How much will this cost until the next Funding Window? (Can be $0)
+
+Any DAO member may propose a new Working Group. If the proposed Charter is approved by
+the DAO, an election will be held to select the 3 Stewards who will manage their Working
+Group until the next election cycle.
+
+Working Group Stewards are elected on a rotating seat basis every six months, similar to
+the Special Council. They are responsible for supervising the operations of their Working
+Group, taking custody of a budget into their multisig, and paying their individual
+contributors. The responsibilities of Stewards include, but are not limited to:
+
+Managing their Working Group multisig;
+Operational tasks related to the administration of their Working Group;
+Maintaining relevant documents and their Working Group Charter;
+Creating, implementing and managing initiatives within a Working Group
+Communicating and coordinating with the APE Foundation Administrators, Special Council
+and the DAO Secretary;
+Approving budgets for Initiatives and contributors;
+Executing on the mandate in their Working Group Charter.
+
+Note: Stewards are responsible for facilitating the will of the DAO. Stewards of Working
+Groups can be mandated to perform tasks, set objectives and goals, sign documents and
+enter into agreements pending the outcome of our governance process, or an AIP.
+
+Note: Stewards are directly responsible for their Initiatives. These are teams that have
+been delegated responsibility from a Working Group to perform a specific task or tasks.
+This means Stewards can create and terminate Initiatives as needed. If a specific
+Initiative is not meaningfully contributing towards the fulfillment of the Working
+Group’s Mandate, the Initiative needs to be adjusted, reworked, edited, or otherwise
+removed.
+
+Working Group Budgets:
+
+Working Groups propose a budget to the DAO every six months, within the months of
+February and August, in order to fund the operations of their Working Group. Stewards
+of a Working Group shall have the discretion to allocate their own Working Group funds
+where appropriate and where it is not illegal or in conflict with any AIPs or other rules.
+
+Working Group Multisigs & ENS Names:
+
+Each working Group has three Stewards which, together with the DAO Secretary, make up the
+signers on their multisigs. Each Working Group Multisig is a 3/4 requiring all three
+Stewards, or two Stewards and the Secretary, to approve transactions.
+
+The Governance Working Group Multisig can be found here:
+GnosisSafeProxy | Address 0x3b319DeF689F90f9dC406c163434DF31b06d0fc2 | Etherscan
+
+9. The Governance Working Group Stewards, Discourse Facilitators and the DAO Secretary
+The Governance Working Group is the ApeCoin DAO’s first Working Group approved in AIP-239.
+The Governance Working Group’s mandate is to provide neutral and objective governance
+oversight and support for the operations of the ApeCoin DAO. It was designed specifically
+to reduce the scope of our DAO Administrators from facilitating the entirety of our
+governance process, from AIP-1.
+
+The Governance Working Group Stewards are responsible for:
+
+Providing operational support and project management support for the Foundation;
+Coordinating the team of moderators, administrators, and lead in Discourse;
+Assisting with transitioning of Foundation service providers;
+Creating and maintaining policies and procedures as they relate to governance;
+Maintaining operations and supporting governance Initiatives like the Ape Assembly and
+the DAO Secretary;
+Assisting with facilitating the Special Council Election Process as outlined in AIP-137:
+The Special Council Nomination Process, and AIP-138: The Special Council Election Process.
+
+The Governance Working Group has several Initiatives, or teams, with which to fulfill
+the mandate in their Charter:
+
+Community Discourse Facilitators
+Community Discourse Facilitators are responsible for moderating and facilitating
+discussions within the ApeCoin DAO community, as per AIP-240 1. The Discourse Facilitator
+team is responsible for several tasks on our governance forum, including:
+
+Reviewing new users’ profiles and posts to Discourse;
+Troubleshooting user profile issues;
+Coordinating with authors to move AIPs through the pipeline and informing the community
+of these updates according to DAO approved guidelines;
+Creating Draft Analysis Reports (DARs), including a series of questions to authors,
+for Administrative Review;
+Coordinating an AIP Status Board via a Project Management Tool;
+Coordinating amongst themselves as Facilitators;
+Coordinating with the APE Foundation Administration Team.
+DAO Secretary
+
+The DAO Secretary ensures the smooth operation of the DAO. They manage the proposal
+process, coordinate with other DAO members and working groups, and ensure that the
+DAO’s rules and procedures are followed. The DAO Secretary is responsible for:
+
+Managing a DAO-wide calendar;
+Managing a DAO-wide organization chart;
+Publishing a monthly ApeCoin DAO Transparency Report;
+Publishing an annual ApeCoin DAO Progress Report;
+Attending at least one weekly meeting with each Working Group;
+Ensuring meeting summaries are posted in the governance forum;
+Attending at least one meeting weekly with each Working Group where possible;
+Assisting Stewards with coordination challenges within Working Groups;
+Participating in a bi-weekly coordination call, held with the Leads from each Working
+Group, to align broader DAO strategy;
+Acting as a multisig signer for Working Groups.
+
+The Ape Assembly
+
+The Ape Assembly is an electorate of highly active governance participants in the ApeCoin
+Ecosystem. They are tasked with facilitating the elections for all the Working Group
+Stewards with the exception of Governance Stewards. The Ape Assembly is responsible for:
+
+Facilitating Working Group Steward elections
+Determining the term length of the DAO Secretary
+Meeting regularly to discuss DAO-wide issues and collectively write AIPs to address them
+Focused on governance, coordination and transparency within the DAO
+
+10. Learn about APE token holders, and their role in the DAO
+
+ApeCoin Token Holders are not just passive participants in the ApeCoin ecosystem -
+they’re an integral part of the ApeCoin DAO. With the power to propose initiatives,
+engage in meaningful discussions, and cast votes on key proposals, token holders play a
+crucial role in the decision-making process.
+
+11. DAO Processes
+The ApeCoin DAO operates through a series of processes, including proposal creation,
+discussion, voting, and implementation. The proposal process allows any member to propose
+an initiative or change. Once a proposal is made, it is open for discussion by the
+community. After the discussion period, the proposal is put to a vote. If the proposal is
+approved by the community, it is then implemented by either the Working Groups, or the
+DAO Administrators.
+
+12. Dive into the ApeCoin DAO proposal process
+Any DAO member can create a proposal which is then discussed and voted on by the
+community. A new proposal can be vague, a simple idea, but for it to go to vote it needs
+to follow the AIP Draft Template.
+
+Proposals can cover a wide range of topics, from changes to the DAO’s operations to new
+initiatives for the ApeCoin ecosystem.
+
+The Proposal Process is detailed in AIP-1
+
+13. Learn about our voting process, and how consensus is found
+Voting is a crucial part of the DAO process. DAO members can vote on proposals, elect
+Special Council members or Working Group Stewards, and make other key decisions impacting
+the operations of the DAO. Voting is conducted in a transparent and democratic manner on
+Snapshot, with 1 APE token = 1 VOTE. AIPs go up for vote every Thursday at 9PM EST, and
+continue until the following Wednesday at 9PM EST.
+
+The Voting Process is detailed in AIP-2 and AIP-200.
+
+14. Learn about voter delegation and its significance
+Voter delegation allows DAO members to delegate their voting power to others, without
+losing control or access to their tokens. Delegation is a powerful tool that can increase
+participation in the DAO and ensure that all members’ interests are represented.
+
+AIP-89 created a delegate dashboard for the ApeCoin DAO to better understand their token
+holders and delegations. The ApeCoin DAO relies on its delegations to ensure the
+integrity and validity of our consensus mechanisms.
+
+The ApeCoin delegation dashboard can be found here: delegate.apecoin.com
+
+15. The AIP Process, start to finish
+Our proposal process follows several “Phases,” as detailed in AIP-1.
+
+In Phase 1: Community members submit new ideas for approval, discussion, or rejection.
+A Discourse Facilitator, guided by DAO-approved guidelines, reviews each submission.
+Ideas can range from detailed proposals to simple suggestions beneficial to the DAO.
+Once an idea has been submitted and approved on the forums, the community will have seven
+days to discuss the proposal and add their feedback for the author.
+
+In Phase 2: Once the author is ready to continue to the AIP Draft phase, they will be
+requested to edit their Topic in the AIP Ideas category, using the AIP Draft Template
+to include any changes/feedback from the community. Completed AIP Drafts, that comply
+with the Guidelines, are then moved from the AIP Ideas category to the appropriate
+subcategory of the AIP Drafts parent category, and reopened.
+
+In Phase 3: Once the AIP Draft is received, the AIP moves to the Analysis Report phase.
+The AIP Draft is reviewed by a project management team engaged by APE Foundation, who
+will provide an in-depth AIP Draft Analysis Report, or DAR. The purpose of the DAR is
+to ensure that all costs, steps to implement, legal considerations, third-party review
+requirements, potential conflicts of interests, and any further implications have been
+properly considered and identified prior to a vote.
+
+In Phase 4: The DAR package is reviewed, and if the AIP is complying with DAO-approved
+guidelines, it becomes a Pending AIP and moves to Phase 5. If a DAR package fails to
+comply with DAO-approved guidelines, it is eligible for resubmission unless in cases
+of violation of the law or reasonable suspicion of fraud or other misleading information.
+
+In Phase 5: AIPs that have passed AIP Moderation will then either be tagged as “Straight
+to Vote” or “Needs Administrative Review.” The “Straight to Vote” tag is for any AIP with
+costs, content, and implications considered to be straightforward and of no risk to the
+well-being of the DAO. The “Needs Administrative Review” tag is given for any pending
+AIP whose costs, content, or implications are considered to be complicated or a potential
+risk to the well-being of the DAO.
+
+In Phase 6: The Special Council will review AIPs in the Administrative Review category.
+The Special Council is responsible for ensuring that the costs, content, and implications
+in AIPs are clear before they are put up for a vote.
+
+In Phase 7: Drafts that have passed their respective approval processes will become a
+Live AIP on Snapshot during the next Weekly AIP Release, which is when new AIPs are
+released in batches every Thursday at 9PM EST. AIPs will be Live on Snapshot until the
+following Wednesday at 9PM EST.
+
+In Phase 8: After the vote on Snapshot has concluded, the AIP will be moved to the
+Final AIP category on the forums. There are two subcategories for the Final AIP status:
+accepted and rejected. Rejected Final AIPs will have the chance to be resubmitted via
+the appropriate Resubmission Template if the author contacts a moderator to initiate
+this process. Accepted Final AIPs will move into implementation, or Phase 9.
+
+In Phase 9: Final AIPs which have been accepted by the DAO will be implemented.
+The project management team engaged by the APE Foundation is responsible for making sure
+this happens but not responsible for doing it themselves.
+
+16. ApeCoin tokenomics & allocations
+The total supply of ApeCoin is permanently fixed at 1 billion tokens. There is no minting
+capability in the contract, thus the total supply will never increase. Similarly, the
+contract interface does not expose any token burning capability. ApeCoin was allocated at
+launch to BAYC/MAYC NFT holders, the ApeCoin DAO Ecosystem Fund, Yuga Labs, the BAYC
+Founders, other launch contributors, and charity.
+
+In line with the standard practice, a portion of the tokens released are initially
+locked. Locked tokens will be unlocked over a period of 48 months, in accordance with the
+predetermined unlock schedule below, starting on launch day, March 17, 2022.
+
+The initial distribution of Apecoin (APE) tokens is as follows:
+14.00% is allocated to Launch Contributors
+15.00% is allocated to BAYC/MAYC NFT Holders
+47.00% is allocated to Treasury/Resources
+15.00% is allocated to Yuga Labs
+1.00% is allocated to Charity (JGLF)
+8.00% is allocated to BAYC Founders
+
+17. Learn about ApeCoin staking and how it impacts token holders
+As a first step to ApeCoin becoming the preferred token of web3, early NFT adopters and
+existing and potential ecosystem participants are incentivized.
+
+ApeCoin staking was proposed around incentivizing existing and potential holders to
+engage in the ecosystem, one of several ways additional utility has been added to ApeCoin
+and the BAYC ecosystem NFTs which participate in the ApeCoin DAO.
+
+17.5% of the total ApeCoin supply is to be distributed over the Total Staking Period of
+three (3) years. This is funded by the Ecosystem Fund. Staking participants are able to
+stake ApeCoin and use the Bored Ape Yacht Club ecosystem NFTs to receive ApeCoin from the
+staking pool.
+
+There are a total of four ways to stake ApeCoin, each with predefined caps. These four
+staking methods are:
+
+BAYC NFT Staking:
+47,105,000 ApeCoin Tokens allocated for 3 years, capped at 10,094 staked ApeCoin per
+BAYC NFT.
+
+MAYC NFT Staking:
+19,060,000 ApeCoin Tokens allocated for 3 years, capped at 2,042 staked ApeCoin per MAYC
+NFT.
+
+BAKC Paired NFT Staking:
+3,835,000 ApeCoin Tokens allocated for 3 years, capped at 856 staked ApeCoin per paired
+NFT.
+
+ApeCoin Staking:
+30,000,000 ApeCoin Tokens allocated for 3 years, with no cap on staked ApeCoin.
+
+The total staking periods for ApeCoin are as follows:
+
+Year One: 100,000,000 ApeCoin tokens (10.0% of the total ApeCoin supply)
+Year Two: 50,000,000 ApeCoin tokens (5.0% of the total ApeCoin supply)
+Year Three: 25,000,000 ApeCoin tokens (2.5% of the total ApeCoin supply)
+
+The staking process is explained in AIP-21 and AIP-22.
+
+This is the staking contract: 0x5954aB967Bc958940b7EB73ee84797Dc8a2AFbb9
+
+18. Key Initiatives
+The ApeCoin DAO has launched several key initiatives to support its mission and
+community. These include security (AIP-9), funding for public goods (AIP-96), an ApeCoin
+NFT marketplace (AIP-98), a community rewards initiative (AIP-124), and more:
+
+Working Groups: AIP-239: Working Group Guidelines & The Governance Working Group Charter
+
+Boring Security: AIP-9 - Boring Security
+
+Bored Ape Gazette: AIP-70: Bored Ape Gazette: Ape Coin Media/ BAYC News - Ecosystem Fund
+Allocation
+
+AIP-96: ETHGlobal: AIP-96: Funding for Public Goods (ETHGlobal & Gitcoin)
+
+Thank Ape: AIP-124: Thank APE: Decentralized, Automated Rewards for Valuable ApeCoin
+Contributions
+
+Karma: AIP-132: Karma - Reputation system for ApeCoin governance contributors
+
+Ape Accelerator: AIP-209: Ape Accelerator powered by ApeCoin
+
+Digital Art Movement (DAM): AIP-304: Create the Digital Art Movement Collection to
+acquire Yuga Assets (BAYC, MAYC, BAKC, and Punks and other notable NFTs for exhibition
+and donation to art institutions
+
+ApeCoin NFT Sister DAO: AIP-297: An NFT Community Vault Operating as an ApeCoin Sister
+DAO with a Goal to Advance the Mission and Influence of ApeCoin
+
+
