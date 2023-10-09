@@ -1422,3 +1422,429 @@ ApeCoin NFT Sister DAO: AIP-297: An NFT Community Vault Operating as an ApeCoin 
 DAO with a Goal to Advance the Mission and Influence of ApeCoin
 
 
+AIP-64: APE Coin Festival - Bringing NFT Communities Together
+Author: ssp1111
+
+Proposal Name: Feasibility Study for Web3 Village (an NFT Conference & Festival)
+
+Proposal Category: Branding, Marketing, IRL Events
+
+Abstract:
+This proposal is for a Feasibility Study ONLY (not an actual event)
+This proposal is based on our collective experiences at NFT-nyc and the countless
+requests for a “better” NFT conference/festival
+This proposal is NOT a substitute for ApeFest – YUGA will do their own thing for their
+communities
+This AIP is proposing to do the legwork to secure letters of interest from various NFT
+Communities, Brands, Sponsors, Venues and Event Cos BEFORE drafting a separate proposal
+for putting together a DAO-Owned and Managed Conference & Festival - aka Web3 Village
+
+Motivation:
+As NFT-NYC showed this past week, IRL events are a great way to bring online
+communities together.
+Further, it was clear as day that if all the satellite events joined up to create a space
+where attendees could walk from project to project, where combined resources would save
+major $$$ while elevating activations, and where a master calendar would help avoid
+scheduling conflicts, the effort would be well received
+
+Rationale
+The APE Coin DAO is all about bringing NFT communities together and onboarding newcomers
+to the space.
+As NFT-NYC showed this past week, IRL events are a great way to accomplish both. And
+while there are countless ideas floating around for a better NFT event, it would be fire
+:fire: if the APE Coin DAO was the foundation on which this flagship event and combined
+ideas were built upon
+
+Key Terms:
+Web3 Village = General concept and working name for our NFT Conference & Festival
+Feasibility Study = gathering resources, contacts, venues, producers, brands, sponsors,
+etc, aggregating feedback and converting to actionable data*
+
+Specifications:
+Landing Page
+Airtable
+Phone
+
+Steps to Implement:
+Get this proposal approved along with an APE Coin DAO “Stamp of Approval”
+Work with Graphic Designer for visual collateral and social media assets ≈ $2.5k
+Set-up Landing Page - executed by author at zero cost or with professional designer ≈ $2.5k
+Set-up Airtable - executed by author at zero cost
+Begin campaign of reaching out to Web3 attendees, activations, brands, sponsors, venues
+and talent - author and volunteers at zero cost – with paid VA’s ≈ $5k
+
+Timeline:
+July - AIP drafts, rewrites, feedback, approval
+August - Create collateral and begin outreach campaign
+September - Aggregate content and actionable data in the form of a Pitch Deck and AIP for
+APE Coin DAO to consider and vote upon
+Overall Cost:
+
+Sub $10k
+PS - Author receives zero $$ from this proposal - but happy to continue leading the Web3
+Village AIP
+
+
+Proposal Name: Extending AIP-1 - the DAO Process
+Proposal Category: Process
+
+ABSTRACT
+The DAO’s operations rely on the Ape Foundation, which serves as a steward for ApeCoin by
+empowering the community to lead the DAO and helping to execute its vision. The terms of
+the Foundation’s relationship with the DAO were established on a six-month basis in
+AIP-1. That six-month period will conclude on September 30, and absent any alternative
+process for continuing the DAO’s operations, will bring with it the risk that the DAO
+falls into a vulnerable period during which it lacks actionable operational procedures.
+This AIP proposes a three-month extension of the terms laid out in AIP-1 to (1) provide
+time for the development of a proper and thorough Ape Foundation election framework and
+process; (2) allow the community to better understand and ultimately engage with whatever
+process emerges; and (3) enable the DAO to continue functioning coherently beyond
+September 30.
+
+MOTIVATION
+The DAO in its current state relies on the Ape Foundation to operate. September 30 will
+mark six months since the launch of the ApeCoin DAO, and with it will come an end to the
+six-month terms of the Ape Foundation Special Council and Administration established in
+AIP-1. The lack to-date of a community AIP on elections confirms that the election
+process as written in the governance materials is ambiguous and lacks sufficient detail.
+This AIP gives the community extra time to develop and agree to a thoughtful and
+comprehensive election framework, and ensure the DAO continues to run smoothly.
+
+RATIONALE
+A three-month extension of the terms laid out in AIP-1 will accomplish two main goals.
+An extension will provide continuity and stability: the Foundation doesn’t just execute
+what the community wants - it enables us to ensure we are compliant with the necessary
+legal, regulatory, and compliance laws and guidance so we can operate effectively.
+Second, the extension will allow the community to better understand, contribute to, and
+ultimately engage with whatever election process emerges.
+
+SPECIFICATIONS
+Extend the terms laid out in AIP-1 by a period of 3 months.
+
+STEPS TO IMPLEMENT
+This AIP will go through the same approval process as all other AIPs. It will start as
+an AIP Idea that is open for a 7-day comment period. A proposal will then be drafted
+for further analysis, and it will go to the Special Council for review and finally the
+community will vote on it via Snapshot.
+
+If this AIP is passed, the terms laid out in AIP-1 will be extended by 3 months.
+
+TIMELINE
+If passed, this AIP would go into effect for 3 months immediately following the term laid
+out in AIP-1 and beginning on October 1st.
+
+COSTS
+This AIP would continue the monthly recurring costs laid out in AIP-1.
+
+
+Proposal Name: Ape&Talent - Platform to connect talent within the Ape community
+
+Proposal Category: Ecosystem Fund Allocation
+
+Abstracts
+One of the perks of being an Ape is belonging to one of the strongest communities within
+the Web3 world but sometimes it’s hard to communicate what you can do for the community
+or what the community can do for you. This AIP proposes the creation of a platform that
+facilitates the connection of talent/needs between the Ape community: BAYC, MAYC, BAKC
+and ApeCoin holders.
+
+Motivation
+One of the best places to be, being an Ape, is on the official Discord channel. I have
+been belonging to MAYC for 10 months, since then I have collaborated on several projects
+and helped several apes in the fields that I have more knowledge (15 years Software
+engineering: Blockchain security, image processing, dapps development…). Whenever I see
+that someone needs help with any of these fields, I offer my services on Discord but
+this information is ephemeral and lost in time (people do not usually use Discord
+history since an immediate interaction is expected). The downside is if you’re very
+active on Discord, this can be spam about you and Discord becomes not an optimal site
+for it.
+
+A few weeks ago, an Ape needed a higher resolution of his PFP for merch using his MAYC,
+when offering me on Discord, another Ape said that days before he hired an external
+person to do that job for him, if he had known, he would have preferred to contact
+someone within the Ape community and I quote you what he said “I’d rather invest into
+someone who is in a project im in rather than paying someone i’ve never had contact
+with…keep it in the family so to speak”. This was the seed of the creation of this AIP.
+
+In summary, it’s a marketplace (platform) where the Apes will be able to include their
+talents or what fields they have experience and believe they can help to the community
+but on the other side, instead of being businesses/agencies, they will be the Apes
+themselves.
+
+Examples:
+You are a Bored who is going to start a fast food business and you need someone to help
+you with the design of the advertising posters or a developer to help you with the
+creation of a website.
+
+You are a Mutant and you would like to give your partner a gift for his birthday with a
+painting (or any type of physical merch) of his beloved BAKC and you don’t know where
+to go.
+
+You are a BAKC holder and you have heard that there are ways to improve the security of
+your wallets but you do not know where to start or you have some doubts and you would
+love someone you trust (advisor) to help you.
+
+You are an ApeCoin holder and you want to take a trip to Europe but you don’t know
+anyone to advise you on such a trip because it is your first time on the continent.
+
+Rationale
+There is a lot of talent within the Ape community but unless you are very active on
+Discord or have thousands of Twitter followers, it can be difficult to get your talent
+noticed within the community and strengthen internal connections within ApeCoin and
+BAYC ecosystem NFTs.
+
+Specifications
+For the build of this platform, the team will be composed of
+
+UI Designer
+Frontend Engineer
+Backend Engineer (me)
+
+And we’ll use these technologies:
+
+NodeJS
+TypeScript
+React
+MongoDB
+Terraform
+Nextjs
+
+This platform only can be accesible for the holders of:
+
+BAYC
+MAYC
+BAKC
+ApeCoin
+
+For ApeCoin holders, a minimum amount will be defined to avoid spam and increase the
+security. This amount is yet to be defined (500-800 $APE) but will be updated
+periodically as the market grows or declines.
+
+Steps to Implement
+Although we have great ideas for the future: development of apps, smart notifications,
+messaging, highlighted content… etc (their development would be approved or not in
+future AIPs, we want to develop it together with the community). The team is focused on
+delivery, so our first version will include the following features:
+
+Search → The user will be able to find any member of the Ape community that matches their
+search
+
+Detail → Detail of a member’s profile in which you can see which are the fields in which
+you can offer his services, previous experiences, comments from other users (reviews)…
+
+Login → The login is tokengated and there will be a gas-less signature required. Each
+account will be associated with the Ethereum address that we have logged in and must
+contain one of the assets described above (otherwise the login will not be possible).
+
+Profile → Place where the connected user will be able to update all their info and some
+of them will be indexed to be used in the search process. Some of the information you can
+update is your social networks, previous jobs that validate your experience, uploading
+files with examples like artworks… etc.
+
+Reviews → There will be a review system in which you can see previous work with other
+Apes (and their feedback). When a talent is requested, the Ape receiving the help will
+be able to leave a comment about it.
+
+We’ll have a public Trello dashboard to show to everyone how the process is going and
+we’ll open a beta to share our progress and get feedback from the community as we build.
+
+Timeline
+The estimated time frame is 3-4 months until the final 1.0 version is ready.
+
+Overall Cost
+If finally the funding is secured, 23,000 ApeCoin will be reserved. When the final
+version (1.0) is published and ready, this reserved fund will be sent to our wallet,
+we will only receive the funds once we deliver the final version to the community
+(focused on delivery).
+
+The funds obtained in this AIP will provide us with enough help to finance the
+development of the project bases (1.0), fixing possible bugs in the future/minor updates,
+help center and maintenance costs in the time window of a year since the platform is
+ready in production (4 months + 12 months).
+
+
+Proposal Name: Provide ApeCoin Brand Assets for AIP-96
+
+Proposal Category: Core: Brand Decision
+
+Abstract
+In order to fully represent the ApeCoin DAO at the upcoming ETH San Francisco Hackathon2,
+we (@maariab. @ssp1111, @Halina.eth, @Lost @Amplify, and others) are requesting usage of
+the ApeCoin Logo for promotional materials for an IRL sponsorship table at the event.
+Some items include, but are not limited to, an ApeCoin tablecloth, an ApeCoin banner, and
+ApeCoin swag.
+
+Motivation
+Now that AIP-96 has passed, 9 we will be participating in the upcoming ETHGlobal
+Hackathon, ETH SF, in November. We require access to the ApeCoin brand in order to fully
+represent the DAO during the event.
+
+Rationale
+This AIP allows members of the ApeCoin DAO to use the ApeCoin brand assets for
+promotional purposes for live and online events.
+
+Specifications
+None
+
+Steps to Implement
+If this AIP passes, we will use the ApeCoin Logo to create swag items and branding
+resources for the hackathon sponsorship table. No items will be sold, no profits will be
+earned, and no funding is requested in this AIP.
+
+Additionally, we will create a package of generic assets & promotional materials that can
+be used by members of the ApeCoin DAO for in-person and online events, provided that
+these materials are used for promotional purposes only. This marketing and promotional
+package can only be used for non-profitable causes.
+
+Timeline
+ASAP
+
+Overall Cost
+There is no cost to the DAO
+
+
+AIP-138: The Special Council Election Process
+Proposal Category: Process
+
+Abstract
+Two or three sentences that summarize the proposal.
+
+This AIP establishes an election process for the Special Council. The proposed process
+aims to ensure that all candidates have an equal and fair opportunity to be nominated
+for the ApeCoin Special Council Election.
+
+Motivation
+A statement on why the APE Community should implement the proposal.
+
+To advance the ApeCoin DAO’s path to decentralization, an election process that enables
+qualified community members to serve in the DAO’s leadership is required. This AIP covers
+the most essential pieces of that process. It aims to build critical infrastructure from
+which the DAO can grow.
+
+Rationale
+An explanation of how the proposal aligns with the APE Community’s mission and guiding
+values.
+
+The long-term health of the ApeCoin DAO depends on a well-functioning nomination and
+election process for the Special Council. This AIP consolidates much of the great
+thinking the community has already put forth on this subject. That thinking is reflected
+below in the proposed specifications, as well as in the following guiding principles for
+writing this AIP:
+
+Focusing on the essentials, knowing that more nice-to-have yet complex additions (e.g.,
+reporting requirements, gamified participation, working groups/subDAOs, complex
+vote-weighting techniques) can be addressed via follow-on AIPs at a later date.
+By keeping things simple, the likelihood of consensus can be enhanced while also
+decreasing risks like gridlock.
+Balancing stability and fluidity, recognizing that some continuity from one term to the
+next helps to maintain steady progress, while at the same time valuing the periodic
+cycling in of new members and ideas.
+Favor the tried and tested where there is not an obvious reason for doing otherwise –
+this will limit the amount of complementary infrastructure that needs to be built and
+new platforms the community will need to learn, which could reduce participation.
+
+Key Terms
+Definitions of any terms within the proposal that are unique to the proposal, new to the
+APE Community, and/or industry-specific.
+
+Candidate: Candidates are the Nominees that become eligible for the elections process.
+
+The Special Council Nomination Process: The AIP that establishes a nomination process for
+the Special Council.
+
+Specifications
+A detailed breakdown of the platforms and technologies that will be used.
+
+Special Council Seats
+If this AIP passes, this is intended to occur one-time to determine which seats are up
+for election at the election cycles.
+Seat numbers will be assigned to existing Special Council members. These seat numbers
+will be from 1 to 5.
+
+Election Cycles
+Timing and cadence of elections: Elections shall occur every 6 months.
+Nomination and election to occur over November & December; elected Special Council
+member(s) to start in January (“Cycle One”)
+Nomination and election to occur over May & June; elected Special Council member(s) to
+start in July (“Cycle Two”)
+The following seats will be up for election at these times:
+Cycle One: Seats 1, 2, & 3
+Cycle Two: Seats 4 & 5
+Rationale: Succession planning is paramount. A twice-yearly staggered process helps to
+maintain continuity for longer-term objectives and avoids a cataclysmic change wherein
+every Special Council seat is up for re-election at once. This should be balanced against
+the risk of low participation-rates from excessively frequent elections.
+
+Election Terms & Limits
+Term: Each seat is for one-year term.
+Term limit: An existing Special Council member may nominate themselves for re-election
+and be elected to the Special Council up to 2 terms in a row.
+Following the term limit, the former Special Council member must wait at least 1 election
+cycle prior to being able to nominate themselves for the Special Council. In other words,
+if the term limit ended on Cycle One, the Special Council member may nominate themselves
+for the next Cycle Two election.
+Rationale: The one-year term-length was outlined in AIP-1. One-year term lengths allow
+for a balance of long-term orientation while encouraging active participation from
+Special Council members. A two-year term-limit affords ample time to steward long-term
+projects and strategy in the event the community supports the member reaching the maximum
+duration.
+
+Election Vote on Snapshot
+Candidates for Special Council are determined in The Special Council Nomination Process.
+Candidate profiles will be in the Discourse category Special Council Elections > Election Candidates.
+Voting will take place on Snapshot
+Each Candidate will be an option on the Snapshot vote
+Each ApeCoin DAO member can only select one Candidate and that Candidate will receive all
+of such ApeCoin DAO member’s voting power
+An ApeCoin DAO member who has delegated their votes to another member may cast a vote
+themselves and override the delegated vote
+The vote will be released at the Weekly AIP Release and will close at the following
+Weekly Voting Close
+No other AIPs will go up for vote at this Weekly AIP Release, and all approved AIPs for
+vote will be released at the following Weekly AIP Release
+The top 3 voted Candidates in Cycle One and top 2 voted Candidates in Cycle Two shall be
+elected to the Special Council, subject to adjustments from off-cycle departures or lack
+of Candidates.
+
+Off-Cycle Departures
+In the event of the voluntary or involuntary departure of a Special Council member, that
+seat will be incorporated into the upcoming election cycle, after which it will return to
+the same election cycle schedule that it would have been on if the departing member had
+remained.
+Any partial terms for a Special Council member from off-cycle departures will not be
+counted towards the term limit. For example, if a Special Council seat is in Cycle One
+but a Candidate is elected to replace the Special Council member in Cycle Two, then the 6
+months served by the newly elected Special Council member will not count towards the term limit.
+Steps to Implement
+The steps to implement the proposal, including associated costs, manpower, and other
+resources for each step where applicable.
+
+• A nomination process is required to determine the Candidates eligible for election, as
+described in The Special Council Nomination Process.
+• Candidates will be placed in the appropriate Discourse category, Election Candidates.
+• Each Special Council member will be assigned a seat number.
+• A Snapshot vote is created with the Candidates at the appropriate Weekly AIP Release.
+
+Timeline
+Relevant timing details, including but not limited to start date, milestones, and
+completion dates.
+
+The first election shall take place in December, after The Special Council Nomination
+Process occurs in November and December. Please see The Special Council Nomination
+Process for estimated dates and timelines for the first nomination process.
+
+If this AIP and The Special Council Nomination Process passes, then the estimated
+Snapshot vote to determine Candidates will take place between Dec 15-21. As a result,
+the Snapshot for election would be estimated to take place Dec 22-28.
+
+Seat 1, 2, & 3 shall begin in January 2023.
+
+Overall Cost
+The total cost to implement the proposal.
+
+There are no costs to implement this AIP.
+
+Nonetheless, each Special Council member shall receive compensation as stated in AIP-1,
+or $20,833 of ApeCoin equivalent per month for the term.
+
+
