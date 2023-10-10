@@ -1848,3 +1848,298 @@ Nonetheless, each Special Council member shall receive compensation as stated in
 or $20,833 of ApeCoin equivalent per month for the term.
 
 
+AIP-137: The Special Council Nomination Process
+Proposal Category: Process
+
+Abstract
+Two or three sentences that summarize the proposal.
+
+For the ApeCoin DAO to function and remain stable according to our Guiding Principles,
+there must be a system in place for continuous governance. This document outlines the
+process to allow talented, passionate and capable members of the community to surface
+and ultimately be appointed via governance vote for the Special Council. The nomination
+pool will be sourced through the community, administration team, and token holders by
+self-nomination in ApeCoin discourse.
+
+Motivation
+A statement on why the APE Community should implement the proposal.
+
+This AIP is primarily focused on the mechanics of how the nomination process will be
+conducted. The goal of this process is to ensure that the community has a clear and
+concise way to nominate Special Council members for elections that best represent the
+interests of the community.
+
+Rationale
+An explanation of how the proposal aligns with the APE Community’s mission and guiding
+values.
+
+The long-term health of the ApeCoin DAO depends on a well-functioning nomination and
+election process for the Special Council. This AIP consolidates much of the great
+thinking the community has already put forth on this subject. That thinking is reflected
+below in the proposed specifications, as well as in the following guiding principles for
+writing this AIP:
+
+Focusing on the essentials, knowing that more nice-to-have yet complex additions (e.g.,
+reporting requirements, gamified participation, working groups/subDAOs, complex
+vote-weighting techniques) can be addressed via follow-on AIPs at a later date.
+By keeping things simple, the likelihood of consensus can be enhanced while also
+decreasing risks like gridlock.
+Balancing stability and fluidity, recognizing that some continuity from one term to the
+next helps to maintain steady progress, while at the same time valuing the periodic
+cycling in of new members and ideas.
+Favor the tried and tested where there is not an obvious reason for doing otherwise –
+this will limit the amount of complementary infrastructure that needs to be built and
+new platforms the community will need to learn, which could reduce participation.
+
+Key Terms
+Definitions of any terms within the proposal that are unique to the proposal, new to the
+APE Community, and/or industry-specific.
+
+KYC: Know Your Customer (KYC) is the process of a business verifying the identity of its
+customers. For the nomination process, KYC will ensure that candidates will not pose a
+risk to the ApeCoin community and that they are not involved in any sanction list,
+sanctioned country, or business.
+
+Nomination Announcement: A nomination announcement is a topic posted in Discourse that
+signifies the beginning of a nomination and election process. The nomination announcement
+shall include details about the process, timeline and relevant dates, the application and
+candidate process, and any other relevant details for the community.
+
+Applicant: An applicant is any person who submits an application.
+
+Nominee: A nominee is an Applicant that has submitted an application and completed the
+KYC and background verification process.
+
+Candidate: Candidates are the Nominees that become eligible for the elections process.
+
+The Special Council Election Process: The AIP that establishes an election process for
+the Special Council.
+
+Specifications
+A detailed breakdown of the platforms and technologies that will be used.
+
+The nomination process will start from a Nomination Announcement from the Ape Foundation.
+A new category will be added to Discourse to accommodate the nomination and election
+process. This category will be named “Special Council Elections” and will have four
+sub-categories:
+
+Announcements
+Special Council Nominees
+Election Candidates
+Rejected/Withdrawn Nominations
+The Nomination Announcement will be a new topic posted in the Discourse category Special
+Council Elections > Announcements. The Nomination Announcement will include the
+following details:
+
+Details about the nomination and election process
+Timeline for the nomination and election process
+Application and candidate process
+How to apply
+
+The Nomination Announcement will be posted at least 50 days before the voting of the
+election occurs and will mark the commencement of Special Council nomination process. A
+link to a form will be included in the Nomination Announcement and applicants will
+complete the form to submit their application.
+
+Experience & Expectations of Applicants
+Elected Special Council members are expected to attend weekly, or on an as-needed basis,
+council meetings, review AIPs at meetings or by email, and commit 3 or more hours per
+week or as sufficient time as needed to the role. A standard non-disclosure agreement
+shall be entered into with the Ape Foundation and KYC documents shall be collected as
+well.
+
+Given that a key function of Special Council members is to work with and assess AIPs and
+their authors, it would be beneficial if then Applicant’s skills, knowledge and
+abilities are collectively suited to the AIP categories. Below are listed the AIP
+categories, along with the types of competencies and experiences that would suggest a
+candidate has expertise relevant to that particular category.
+
+Ecosystem Fund Allocation: Since Ecosystem Fund AIPs deal with how to use the DAO’s
+treasury funds, it would be ideal for a Special Council member to have:
+Educational and/or professional credentials in accounting, finance, business, economics
+or a related discipline;
+Proven experience working in/managing/directing large corporations; and
+Exposure to virtual assets and cryptocurrencies.
+Brand Decision & Informational: Given that Brand Decision and Informational AIPs deal
+with all matters related to what the DAO attaches its name, including projects,
+strategies, and identity, it would be ideal for a Special Council member to have:
+Educational and/or professional credentials in marketing, public relations, and/or a
+related discipline;
+Proven experience working in/managing/directing large corporations;
+An entrepreneurial mindset;
+Excellent communication and writing skills; and
+Exposure to virtual assets and cryptocurrencies.
+Process: Given that Process AIPs deal with DAO governance, it would be ideal for a
+Special Council member to have:
+Educational and/or professional credentials in law, politics, policy and/or corporate
+governance;
+Excellent communication and writing skills; and
+Exposure to virtual assets and cryptocurrencies.
+
+Phase 1 – Application and Verification – 21 days
+In this phase, Applicants will be invited to put themselves forward for the Special
+Council. In the Nomination Announcement, a link to a form will be provided for Applicants
+to submit the following information:
+
+Applicant Information: The Ape Foundation is a legal entity that must collect information
+and documents for KYC purposes. The information provided below shall remain confidential,
+or made public with the nomination profile at the option of the Applicant.
+Full name, required, private (optional for public)
+Date of Birth, required, private (optional for public); the Applicant must be at least 18
+years old
+Street number, name, city, state/province, postal code, and country, required, private
+(optional for public)
+Discourse ID, required, public; the Applicant must have a Discourse profile on
+forum.apecoin.com 6 and have at least 1 ApeCoin in a connected wallet
+Twitter profile, required, public
+Email address, required, private (optional for public)
+Phone number, required, private (optional for public)
+Educational background, subject to verification (optional for public)
+Professional background, subject to verification (optional for public)
+
+Documents: In order to pieces of the above information, the Ape Foundation must also
+collect supporting or verification documents. All documents will remain secure and
+private with the Ape Foundation.
+Valid passport
+Proof of address: A utility bill or bank statement in the name of the Applicant within
+the last 3 months.
+
+Nomination profile: The Applicant completes the nomination profile to build their case
+to the community on why they are the best suited for the Special Council and to further
+support the growth of the ApeCoin DAO. This nomination profile will be published on
+the Discourse.
+Nomination statement: concise statement on why you are running for Special Council
+Motivation: please provide details on your motivation for being an ApeCoin DAO Special
+Council member
+Rationale: do you have any previous experience that is relevant to the role of a Special
+Council member? Please discuss any skills relevant to this position and how these will
+bring value to the ApeCoin community
+Specifications: crypto governance participation, governance experience, previous
+experience (work or education), and/or ideas for DAO improvement
+Concluding statement: summarize your statement as to why you are the best choice for
+Special Council
+
+All information denoted as private will be treated as confidential. The application will
+be open for 14 days. Special Council members whose seats are up for election must also
+go through the nomination and election process to be considered.
+
+Once the Applicant submits their information and nomination profile, a KYC and background
+verification process shall take place to verify the information submitted. The Ape
+Foundation may engage an independent, third-party service provider to complete this
+process. This process may take up to 7 days.
+
+At any time, an Applicant can request to withdraw their application by email.
+
+Phase 2 – Community Discussions – 14 days
+
+Applicants that pass the KYC and background verification process are Nominees. A new
+topic for each Nominee will be posted under the new Discourse category Special Council
+Elections > Special Council Nominees. This topic will be created by the administration
+team and will include the following information:
+
+Title: The title will include the Discourse ID and nomination cycle or time period;
+Applicant information: All details that are public or selected to be posted as public
+by the Nominee shall be included in the topic; and
+Nomination profile: All details and information of the Nominee will be included in the
+topic.
+
+Topics in this category will be locked for editing but will be open for comments for 14
+days. The community will be required to follow the Guidelines for Engagement at all
+times. During this time, ApeCoin DAO members can engage on each topic or with each
+Nominee, ask questions, and seek clarification as required prior to voting for the
+Nominees.
+
+At any time, Nominees can request the Ape Foundation to withdraw their nomination from
+the process by email or on the topic itself.
+
+Phase 3 – Community Vote (if applicable) – 6 days
+
+A community vote will take place on Snapshot if there is a large number of Nominees. If
+there are 5 or fewer Nominees, the nomination process is completed, no community vote is
+necessary, and the final Nominees become Candidates for the Special Council election.
+
+However, if there are greater than 5 Nominees, then a community vote shall take place.
+The vote will be released at the Weekly AIP Release. A weighted voting on Snapshot will
+be used to determine the Candidates from the Nominees. A weighted voting means the
+following:
+Each Nominee will be an option on the Snapshot vote
+Each voter decides how to allocate their ApeCoin balance to the list of Nominees
+Voters can allocate their ApeCoin to any number of Nominees
+
+Snapshot voting will close at the Weekly Voting Close. The top 5 Nominees become the
+Candidates for the election.
+
+In other words, if there are 5 or fewer Nominees, all Nominees will become Candidates.
+If there are more than 5 Nominees, then there will be 5 Candidates after the Snapshot
+community vote.
+
+Topics for Candidates are moved to the Discourse category Special Council Elections >
+Election candidates. The topics of the Nominees that do not become Candidates are moved
+to the Discourse category Special Council Elections > Rejected/Withdrawn Nominations.
+
+At the end of this process, the Candidates are identified for the election of the next
+Special Council member(s).
+
+Lack of Nominees
+In the event that the number of Nominees determined after the KYC and background
+verification process is less than the number of Special Council seats up for election,
+then the number of Special Council seats shall be reduced by such number of seats and
+such seats shall be up for election at the next nomination and election cycle. These
+seats shall then return to the original election cycle schedule as outlined in The
+Special Council Election Process.
+
+Steps to Implement
+The steps to implement the proposal, including associated costs, manpower, and other
+resources for each step where applicable.
+
+Email: A new ApeCoin email will be set up exclusively to deal with any matter related to
+the nomination (e.g., scnomination@apecoin.com).
+Form: A new form will be set-up for each nomination and election cycle by Ape Foundation
+to collect information from Applicants.
+Discourse: The following categories will be created in Discourse.
+Special Council Elections: This category will hold all the sub-categories related to the
+nomination and election process. The Discourse category will be read-only, and no topics
+will be posted in this category, by either ApeCoin DAO members or the administration team.
+Announcements: This category will hold all announcements relating to the nomination and
+election process. Specific settings include:
+Only the administration team can post topics in this category
+Topics will be open for comments
+Special Council Nominees: This category will hold all topics for all Nominees and their
+profiles for each nomination and election process. Specific settings include:
+Only the administration team can post topics in the category
+Topics will be open for comments
+Election Candidates: This category will hold all topics for all Nominees that become
+Candidates for the election process. Specific settings include:
+Only the administration team can post topics in the category
+Topics will be open for comments
+Rejected/Withdrawn Nominations: This category will hold all topics for all Nominees that
+withdraw their application or are not voted in as a Candidate.
+Only the administration team can post topics in the category
+Topics will be closed for comments
+Nominees in this category may apply for future elections
+Snapshot: No change in configuration settings for the Snapshot Space. However, each
+nomination vote will be a weighted voting. In this scenario, each Nominee is an option
+on the vote. A voter then allocates the number of ApeCoin to each Nominee. Nominees will
+receive the distribution of the voter power based on the allocation.
+
+Timeline
+Relevant timing details, including but not limited to start date, milestones, and
+completion dates.
+
+The nomination process will go into effect immediately. The first Nomination Announcement
+will be posted immediately after the acceptance of this AIP.
+
+Oct 27-Nov 2 – Earliest Weekly AIP Release available to be posted for live voting on
+Snapshot. Suppose this AIP passes.
+Nov 3 – Nomination Announcement is posted.
+Nov 7-20 – Applications are open.
+Nov 21-27 – KYC and background verification process on all Applicants received.
+Nov 28-Dec 11 – Nomination profiles are posted on Discourse and open for community
+discussions.
+Dec 15-21 – Nominees are put on Snapshot for voting.
+Overall Cost
+The total cost to implement the proposal.
+
+There is a cost for engaging an independent third-party service provider to do KYC and
+background verification of Applicants, which is to be determined. The Ape Foundation will
+pay for these costs.
