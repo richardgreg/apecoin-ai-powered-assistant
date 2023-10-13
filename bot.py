@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands
 from dotenv import load_dotenv, find_dotenv
+import asyncio
 import os
 from langchain.prompts import SystemMessagePromptTemplate, PromptTemplate
 from langchain.text_splitter import CharacterTextSplitter, RecursiveCharacterTextSplitter
@@ -48,28 +49,44 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix='/', intents=intents)
 
-@bot.command()
-async def apegpt(ctx, *, question):
+@bot.event
+async def on_ready():
+    print("Bot is up and ready")
     try:
-        async with ctx.typing():
-            # Get the relevant document
-            docs = retriever.get_relevant_documents(query=question)
-            formatted_prompt = system_message_prompt.format(context=docs)
+        synced = await bot.tree.sync()
+        print(f'Synced {len(synced)} command(s)')
+    except Exception as e:
+        print(e)
 
-            messages = [formatted_prompt, HumanMessage(content=question)]
-            result = chat(messages)
 
-            content = result.content
+def evaluate_prompt(prompt:str):
+    # Get the relevant document
+    docs = retriever.get_relevant_documents(query=prompt)
+    formatted_prompt = system_message_prompt.format(context=docs)
 
-            # Split the content into chunks if it's too long
-            if len(content) > 2000:
-                for i in range(0, len(content), 2000):
-                    await ctx.send(content[i:i+2000])
-            else:
-                await ctx.send(content)
+    messages = [formatted_prompt, HumanMessage(content=prompt)]
+    result = chat(messages)
+
+    return result.content
+
+
+@bot.tree.command(name="apegpt", description="enter prompt")
+async def apegpt(ctx: discord.Interaction, prompt:str):
+    try:
+        await ctx.response.defer()
+        await asyncio.sleep(3)
+        content = evaluate_prompt(prompt=prompt)
+        
+
+        # Split the content into chunks if it's too long
+        if len(content) > 2000:
+            for i in range(0, len(content), 2000):
+                await ctx.followup.send(content[i:i+2000])
+        else:
+            await ctx.followup.send(content)
     except Exception as e:
         print(f"Error occurred: {e}")
-        await ctx.send("Sorry, I was unable to process your question.")
+        await ctx.response.send_message("Sorry, I was unable to process your question.")
 
 
 bot.run(os.environ.get("DISCORD_TOKEN"))
