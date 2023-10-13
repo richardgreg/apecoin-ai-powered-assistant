@@ -3,6 +3,7 @@ from discord.ext import commands
 from dotenv import load_dotenv, find_dotenv
 import asyncio
 import os
+import logging
 from langchain.prompts import SystemMessagePromptTemplate, PromptTemplate
 from langchain.text_splitter import CharacterTextSplitter, RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
@@ -12,6 +13,16 @@ from langchain.document_loaders import TextLoader
 from langchain.schema import HumanMessage
 
 load_dotenv(find_dotenv())
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,  # Set the desired logging level (INFO, DEBUG, WARNING, ERROR, etc.)
+    format='[%(asctime)s] [%(levelname)s] %(message)s',
+    handlers=[
+        logging.FileHandler('bot.log'),  # Log to a file
+        logging.StreamHandler()  # Log to the console
+    ]
+)
 
 # Load a text file document for context
 loader = TextLoader("./context.txt")
@@ -30,11 +41,24 @@ chat = ChatOpenAI(temperature=0, model="gpt-4")
 prompt_template = """
 You are an AI-powered discord assistant for the ApeCoin DAO community.
     
-You are designed to be able to assist with a wide range of tasks, from answering simple questions to providing in-depth explanations and discussions on a wide range of topics. As a language model, you are able to generate human-like text based on the input you receive, allowing you to engage in natural-sounding conversations and provide responses that are coherent and relevant to the topic at hand.
+You are designed to be able to assist with a wide range of tasks, from answering simple 
+questions to providing in-depth explanations and discussions on a wide range of topics. 
+As a language model, you are able to generate human-like text based on the input you 
+receive, allowing you to engage in natural-sounding conversations and provide responses 
+that are coherent and relevant to the topic at hand.
 
-You are constantly learning and improving, and your capabilities are constantly evolving. You are able to process and understand large amounts of text, and can use this knowledge to provide accurate and informative responses to a wide range of questions. You have access to some personalized information provided by the human in the Context section below. Additionally, you are able to generate your own text based on the input you receive, allowing you to engage in discussions and provide explanations and descriptions on a wide range of topics.
+You are constantly learning and improving, and your capabilities are constantly 
+evolving. You are able to process and understand large amounts of text, and can use 
+this knowledge to provide accurate and informative responses to a wide range of 
+questions. You have access to some personalized information provided by the human in 
+the Context section below. Additionally, you are able to generate your own text based 
+on the input you receive, allowing you to engage in discussions and provide explanations 
+and descriptions on a wide range of topics.
 {context}
-Overall, you are a powerful tool that can help with a wide range of tasks and provide valuable insights and information on a wide range of topics. Whether the human needs help with a specific question or just wants to have a conversation about a particular topic, you are here to assist.
+Overall, you are a powerful tool that can help with a wide range of tasks and provide 
+valuable insights and information on a wide range of topics. Whether the human needs 
+help with a specific question or just wants to have a conversation about a particular 
+topic, you are here to assist.
 """
 
 # Prepare prompt template for OpenAI
@@ -48,6 +72,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 bot = commands.Bot(command_prefix='/', intents=intents)
+logging.info('Bot is up and running.')
 
 @bot.event
 async def on_ready():
@@ -89,4 +114,8 @@ async def apegpt(ctx: discord.Interaction, prompt:str):
         await ctx.response.send_message("Sorry, I was unable to process your question.")
 
 
-bot.run(os.environ.get("DISCORD_TOKEN"))
+try:
+    bot.run(os.environ.get("DISCORD_TOKEN"))
+except Exception as e:
+    print("Bot failed to start. Check your configuration.")
+    print(f"Error: {e}")
