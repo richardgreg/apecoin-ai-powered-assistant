@@ -2143,3 +2143,584 @@ The total cost to implement the proposal.
 There is a cost for engaging an independent third-party service provider to do KYC and
 background verification of Applicants, which is to be determined. The Ape Foundation will
 pay for these costs.
+
+
+AIP-196: BORED AIP: Bringing Order and Reliability via Ecosystem Decentralization
+Category: Ecosystem Fund Allocation
+
+ABSTRACT
+The expiration of the APE Foundation’s administrator contract for the second time in 2022
+has magnified the need to develop internal capabilities and avoid reliance on any
+external resource that could result in a single point of failure in the DAO. This AIP
+represents progress over perfection – the only thing possible in this messy and amazing
+world of decentralized governance we love.
+
+Compared to the costs of the previous version of this proposal – the above expenses
+represent a savings to the DAO of $372,812 over the 3-month period. It’s important to
+note that there will be other expenses related to WG0, but their allocation will be
+based fully on specific budget requests made by WG0 Stewards and subject to the approval
+of the Special Council.
+
+Authors: 0xSword, AdventurousApe, AlexM, Amplify, Badteeth, Bored.eth, BoredApeG,
+Brooklyn, 8uddha, DrJDR, Gerry, Halina, Lost, Mantis, NFTC, NovoCrypto, RedVulkan,
+SSP, Vera, Waabam, ZastrowBradley, j-mart, wapow, wrongplace, 12GAUGE
+Updated title courtesy of CoachMcGuirk
+
+MOTIVATION
+
+Summary
+The problem:
+Per AIP-113, the current APE Foundation administrator contract expires December 31, 2022
+There is an imperative need to maintain continuity and compliance of APE Foundation
+operations
+ApeCoin DAO does not currently have the organizational structure or capabilities to
+execute any internal operations
+
+The solution:
+Extend contract with current APE Foundation administrator (Cartan Group, LLC.) two months
+to maintain continuity and compliance
+Implement a transparent Request for Proposals (“RFP”) process to identify future APE
+Foundation administrators during the extension period (January 1 - February 28, 2022).
+If necessary, complete handover to future DAO administrator
+Form interim working group composed of key DAO stakeholders tasked with developing DAO
+working group structures and internal capabilities
+
+RATIONALE
+Summary
+Along with implementing a transparent RFP process to find the next APE Foundation
+administrator, we’re motivated to further the decentralization of the DAO by creating a
+working group composed of key stakeholders. These stakeholders are community members who
+have shown commitment to the DAO through either participation in the governance process
+or willingness to hold significant amounts of $APE and all their voices are valuable in
+determining the future of ApeCoin DAO.
+
+When we create a foundational and operational alignment of the stakeholders within this
+working group, we will further realize our core mission to serve as a more decentralized
+protocol layer for community-led initiatives that drive culture forward into the
+metaverse and continue to actively support the growth of the $APE ecosystem.
+
+We have avoided granular specificity in this proposal for one very simple reason – we
+don’t know what we don’t know. Until we’re able to get under the hood with the current
+DAO administrator we won’t have a clear understanding of all the tasks we’re about to
+undertake. That is why we’ve established a clear way to assemble our first official
+working group of key stakeholders, who will then have a per wallet vote on the direction
+of the DAO for an intentionally short 3-month period, that will give us the structure and
+capabilities we need to take on any challenges we face in the future.
+
+To summarize, it’s imperative to note that there are certain roles and responsibilities
+that a Cayman Foundation Administrator must legally fill for the ApeCoin DAO. The current
+DAO Administrator (Cartan) is filling those roles as well as items that are out of their
+initial scope of work. The aim of creating working groups is to fill in the areas that
+are out of scope for the current DAO Administrator (Cartan) and any future Administrators
+of the ApeCoin DAO going forward.
+
+KEY TERMS
+Summary
+Working Group: A working group is a group of individuals who have come together to work
+on a specific task or project. Working groups are typically formed to address a specific
+issue or problem, and they often have a specific goal or objective in mind. Members of a
+working group may be experts in a particular field or may represent different
+perspectives and viewpoints. Working groups are often used in organizations to
+facilitate collaboration and problem-solving, and they may be composed of employees,
+volunteers, or a combination of both. Working groups may be temporary or permanent, and
+they may be formally established by an organization or informally created by a group of
+individuals.
+
+Stakeholder / Key Stakeholder: Community members who have met any of the three following
+requirements:
+a. ApeCoin DAO members who have achieved Trust Level Status 2 (Member) or higher on
+ApeCoin Discourse (the Official communication platform for DAO functions) on or before
+December 21, 2022; or
+b. $APE holders who have voted on at least 50% of the AIPs that have gone to Snapshot; or
+c. $APE holders with 50,000 APE or more in voting power on or before December 21, 2022.
+
+Working Group Zero (or “WG0”): WG0 is an interim working group in ApeCoin DAO with a
+3-month mandate to decentralize and operationalize the DAO. WG0 is composed of key
+stakeholders who have shown commitment to the DAO through either participation in the
+governance process or willingness to hold significant amounts of $APE and all their
+voices are valuable in determining the future of ApeCoin DAO. Along with specific
+operational tasks, WG0 will propose Official ApeCoin DAO Working Groups that will
+assume the responsibilities of WG0 upon the expiration of its mandate.
+
+Official ApeCoin DAO Working Groups: Official ApeCoin DAO Working Groups will be proposed
+by WG0 and serve to decentralize and operationalize DAO functions.
+
+Focus Groups: WG0 members will be expected to organize into focus groups based on
+particular domain expertise amongst the membership of WG0.
+a. Priority focus groups will be Operations, Governance, and Communications in order to
+effectively execute against the mandate of WG0.
+b. As subject matter experts, lead participants of any working groups currently approved
+by AIP, or in AIP Draft status, will form the core membership focus groups in their
+specific domain, if they so desire, for the duration of WG0. E.g. Boring Security, will
+form the core of the Security Focus Group, ApeComms will form the core of the
+Communications Focus Group, IRL Events will form the core of the Events Focus Group, et al.
+c. Additional focus groups will convene around any specific domains as desired by the
+members of WG0.
+d. The above does not preclude any WG0 participants from participating in any domain
+specific focus group.
+
+Steward: A total of seven members who serve Working Group Zero on behalf of the DAO.
+They perform administrative oversight, are responsible for budgeting based on the needs
+of WG0 as approved by the Special Council, and they are responsible for reporting on all
+WG0 activities between the Special Council, the Administrators, and the Community during
+the 3-month mandate of WG0.
+
+Steward Election Window / Election Window: The period between January 7th and January
+14th in which WG0 will elect four of the seven total Stewards of WG0.
+
+SPECIFICATIONS
+DAO Administrator Functions Under 2-month Extension:
+
+Cartan Group LLC (“Cartan”) will continue to provide APE Foundation administration
+services as initially detailed in AIP-1 then extended in AIP-113, for the period
+January 1, 2023 - February 28, 2023.
+
+Cartan will assist the interim ApeCoin DAO working group (“Working Group Zero” or “WG0”)
+in determining and transitioning all functions that don’t explicitly require a Cayman
+foundation administrator to the DAO on a schedule as determined by WG0. WG0, in
+consultation with the Special Council of the APE Foundation, will determine which tasks
+explicitly require a Cayman foundation administrator.
+
+Cartan will assist WG0 in running a transparent RFP process to elect the next DAO
+administrator by sharing all relevant information related to the administration of the
+APE Foundation with WG0. Cartan is not precluded from submitting a proposal under the
+RFP process that will be evaluated on its merit along with all other applicants.
+
+Cartan will assist WG0 in transitioning APE Foundation administration to the next
+administrator in the case that they are not willing or elected to serve as the APE
+Foundation administrator following the conclusion of the RFP process.
+
+Interim Working Group Functions Under 3-month Mandate:
+
+Working Group Zero will determine and submit a budget to the Special Council on a monthly
+basis for approval to execute the functions transitioned from the current APE Foundation
+administrator and complete the additional functions listed below during the 3-month
+interim period. The first month’s budget will be pre-approved up to US$44,710 in order to
+be able to begin executing immediately upon the start of the interim term January 4, 2023.
+WG0 will review budget requests weekly with the Special Council throughout the interim term.
+Any money not allocated to expenses approved by the Special Council during the interim
+term will be returned to the APE Foundation.
+
+WG0 will determine and transition all functions that don’t explicitly require a Cayman
+foundation administrator to the DAO on a schedule as determined by WG0. Due to the
+corporate structure of the APE Foundation it is not legal for WG0 to take on all of the
+responsibilities of any Cayman foundation administrator.
+
+WG0 will run a transparent RFP process to elect the next DAO administrator in Q1 2023.
+
+WG0 will propose recommendations for the extension or evolution of AIP-1 prior to its
+next expiration.
+
+WG0 will propose future Official ApeCoin DAO Working Group guidelines and objectives
+via AIP that will also delegate all WG0 responsibilities to said working groups by the
+end of the 3-month term and dissolve.
+
+STEPS TO IMPLEMENT
+DAO Administration
+The APE Foundation will contract Cartan Group, LLC. for the 2-month period January 1, 2023
+through February 28, 2023 under the specifications listed above in “DAO Administrator
+Functions Under 2-month Extension.”
+
+Interim Working Group
+Summary
+The work-related activities of the ApeCoin DAO should take place within decentralized
+working groups. The future working groups will each have a specific focus area, budget
+and mandate, aligned with the needs, mission statement, and guiding values of the ApeCoin
+DAO.
+
+This proposal will create an interim working group, tentatively named Working Group Zero,
+with a conceptual mandate of operationalizing the DAO, empowering and rewarding community
+members for domain expertise and work on DAO operations, while taking further steps
+towards decentralizing the DAO in order to eliminate single points of failure in core DAO
+operations.
+
+This AIP establishes Working Group Zero as a 3-month trial under the specifications
+listed above in, “Interim Working Group Functions Under 3-month Mandate” to assess the
+effectiveness of the initial working group structure so we can iterate and improve as
+necessary.
+
+Key Stakeholders Eligible to Participate in Working Group Zero:
+Summary
+To ensure participants in the working group have the necessary prior experience and skin
+in the game with ApeCoin DAO we propose the following eligibility criteria:
+
+ApeCoin DAO members who have achieved Trust Level Status 2 (Member) or higher on ApeCoin
+Discourse (the Official communication platform for DAO functions) on or before
+December 21, 2022; or
+
+$APE holders who have voted on at least 50% of the AIPs that have gone to Snapshot; or
+
+$APE holders with 50,000 APE or more in voting power and have voted on at least one AIP
+on or before December 21, 2022.
+
+Stewards:
+Summary
+A total of seven members who serve within Working Group Zero on behalf of the DAO.
+
+Stewards are responsible for:
+a. Administrative oversight
+b. Budgeting based on the needs of WG0 as approved by the Special Council
+c. Reporting on all WG0 activities between the Special Council, the Administrators, and
+the Community.
+
+The APE Foundation Special Council will appoint three Stewards from amongst ApeCoin DAO
+members who have achieved Trust Level Status 3 (Regular) on ApeCoin Discourse on or
+before December 21, 2022, to lead the priority focus groups – Operations, Governance,
+Communications.
+a. The purpose of this appointment is to be able to have resources in place to hit the
+ground running immediately upon the commencement of this interim mandate.
+b. While the Special Council will appoint the first three Stewards, they will not be
+eligible to vote in the election of the remaining four Stewards.
+
+WG0 will elect the four remaining Stewards from amongst WG0 participants in a process to
+be completed no later than January 14, 2023, detailed below.
+
+Prior to taking their position as a Steward in WG0, all potential Stewards must pass AML
+and KYC checks. These are the same checks that anyone running for Special Council had to
+pass.
+
+Special Council members cannot serve in the position of Steward.
+
+Steward Elections:
+Summary
+To ensure the integrity of Steward elections, a Snapshot Space will be set up by the
+authors of this AIP with the “Whitelist” strategy listed here: docs.snapshotx.xyz/protocol/voting-strategies#whitelist 11
+
+Authors of this AIP will publish a post titled: “WG0: A Call for Contributors” in the
+General category on Discourse which formally asks the community to register their
+interest in either voting during WG0 elections, or becoming a Steward of WG0.
+a. All members of WG0 are eligible to vote during the election window for Stewards, but
+those members qualifying through the Trust Level 2 Discourse criteria will need to provide
+their ETH Address to the author of “WG0: A Call for Contributors” in order to have their
+address included in the Snapshot Space before January 7th, 2023.
+
+Authors of this AIP will gather the ETH addresses in the following ways:
+a. A historical snapshot of holders of APE on Dec 21st with 50,000 or more in voting
+power who have voted on at least one AIP.
+b. A historical snapshot of holders of APE on Dec 21st that have voted on 50% or more of
+all AIPs.
+c. The authors will request ETH addresses from all participants in Trust Level 2 or
+above who wish to vote or run for Steward. This list will be used to verify that a user
+registering their interest is eligible to participate and vote on the Steward elections.
+
+Stewards may be removed at any time by:
+a. A two-thirds majority vote among WG0, with the outcome of the vote communicated in the
+ApeCoin DAO governance forum.
+b. Stewards may step down from their position at any time by communicating their intention
+to step down in the ApeCoin DAO governance forum.
+
+In the event that a Steward is removed, steps down, or is unable to continue as a Steward,
+for whatever reason, any temporary vacant positions will be filled by a contributor within
+WG0, as voted on by WG0.
+
+TIMELINE
+Summary
+If approved, this AIP shall go into effect January 4, 2023 for a time period of 3 months.
+
+The three Stewards for the Operations, Governance, and Communications focus groups within
+WG0 will be selected by the Special Council on January 4, 2023.
+
+The window in which members of the community can register their interest in voting on
+Steward elections and be registered as a voter on the Snapshot Space is January 6, 2023.
+
+The election window for WG0 Stewards will be live on a TBA custom Snapshot Space
+January 7, 2023 until January 14, 2023.
+
+The RFP process and the future Cayman-based DAO administrator will be in place by
+March 1, 2023 barring any unforeseen delays.
+
+The monthly cost for DAO Administrative Functions under this AIP are as below. All
+amounts are denominated in USD and payable in ApeCoin based on the previous 30-day average
+exchange rate. Any expenses beyond what are described below will not be allocated to
+Working Group Zero without approval of the Special Council:
+
+OVERALL COSTS      |   Monthly Cost Estimate      | Total AIP Cost (3 Months)
+-------------------| Jan 23   | Feb 23  | Mar 23  |--------------------------
+                    ------------------------------         
+Working Group Zero | $44,710  |$58,594  | $58,594 | $161,898
+DAO Administrator  | $125,000 | $75,000 | $0      | $200,000
+Total              | $169,710 | $133,594| $58,594 | $361,898
+
+
+WGO Expense Breakout      |    Monthly Cost Estimate    | Total AIP Cost (3 Months)
+--------------------------| Jan 23  | Feb 23  | Mar 23  |--------------------------   
+                          ------------------------------       
+Working Group Zero        | $34,710 | $48,594 | $48,594 | $131,898
+WGO Operating Expenses**  | $10,000 | $10,000 | $10,000 | $30,000
+Total                     |$44,710  | $58,594 | $58,594 | $161,898
+
+*7 Stewards at $6942 each per month. 4 Stewards 1/2 pay for the first month due to
+election process
+
+**WGO Operating expenses will be used at Stewards' discretion to fulfill WGO mandate.
+Anticipated expenses include: DAO
+Administrator RFP costs including potential travel and lodging in Cayman. Day-to-day
+operations support and services.
+Infographic and communications asset production. Productivity tools e.g. Google Drive.
+These budgets will first seek to compensate members of WGO who work on the day-to-day
+operations, if the proper skillset isn't available within WGO,
+Stewards will seek outside contractors.
+
+Any and all budget items identified by WG0 bevond those outlined above will be
+submitted by WGO Stewards to Special
+Council for approval on a weekly basis
+
+Compared to the costs of the previous version of this proposal – the above expenses
+represent a savings to the DAO of $372,812 over the 3-month period. It’s important to
+note that there will be other expenses related to WG0, but their allocation will be based
+fully on specific requests made by WG0 Stewards and subject to the approval of the Special
+Council.
+
+
+AIP-200: Add “Abstain” option to Snapshot
+Proposal Category: Process
+
+Abstract
+Adding the abstain option, in addition to “In Favor” and “Against” allows voters and
+delegates to participate in voting without having to take a side.
+
+Motivation
+Adding abstain to voting allows users to vote on every proposal regardless of how they
+feel about the proposal. This would also allow ApeCoin DAO delegates to maintain a high
+voter participation rate.
+
+Rationale
+Many delegates and voters will simply not vote if they wish to vote against a proposal.
+This weakens the data for # of voters and # of votes and makes our DAO look less active
+than it really is.
+
+Specifications
+Add Abstain to Snapshot. Abstentions do not affect the outcome of the vote.
+
+Steps to Implement
+The relevant parties responsible for Discourse and Snapshot will add the Abstain option
+to all future proposals in addition to “In Favor” and “Against”.
+
+Timeline
+As soon as administratively possible
+
+Overall Cost
+There is no overall cost to the DAO.
+
+
+AIP-21: Staking Process with Caps (1x drop) - Process
+Category: Process
+Submitted by: giacolmo.eth
+
+ABSTRACT
+After the vote against AIP-4&5, the community had meaningful discussions on the ApeCoin
+DAO forum and elsewhere. The essential feedback was that overall the framework was fine,
+but lacked the key element of caps.
+
+This AIP proposes a staking system for ApeCoin and the Bored Ape Yacht Club (BAYC) NFT
+ecosystem: Bored Ape Yacht Club, Mutant Ape Yacht Club (MAYC), and Bored Ape Kennel Club
+(BAKC). Staking participants will be able to stake ApeCoin and use the Bored Ape Yacht
+Club ecosystem NFTs to receive ApeCoin from a preset pool over a set period of time.
+
+MOTIVATION
+Therefore, this AIP has the purpose to get to a conclusion, simply proposing again the
+same previous AIP-4 plus the caps (1x the ApeCoin drop), to allow the DAO move forward
+without other contention points.
+
+Staking models should seed the growth of the related token and NFT ecosystem. They can do
+this by expanding the audience while incentivizing early adopters and existing ecosystem
+participants. One core goal of this AIP is to ensure that the staked BAYC ecosystem NFTs
+remain tradable regardless of a specific NFT’s status in relation to a stake, so that the
+growth of the ecosystem isn’t constrained by the lockup of staked assets. This allows new
+users to always have the opportunity to participate in staking after the launch of any
+staking period (each, a “Period”), by continuing to grant access to any BAYC ecosystem
+NFTs.
+
+The pools will be set up to specifically recognize the varied assets within the
+ecosystem, with a total of four distinct pools being active during each staking period.
+
+RATIONALE
+As a first step to ApeCoin becoming the preferred token of web3, early NFT adopters and
+existing and potential ecosystem participants should be incentivized.
+
+This AIP is built around incentivizing existing and potential holders to engage in the
+ecosystem, one of the several ways of additional utility added to ApeCoin and BAYC
+ecosystem NFTs.
+
+SPECIFICATIONS
+Qualifications to Stake:
+
+The eligible ecosystem assets for staking or committing to staking pools are ApeCoin,
+BAYC, MAYC, and BAKC NFTs.
+ApeCoin can be staked directly up to any amount during the Period, but if attributed
+to an NFT can be staked up to the following caps for each NFT during the Initial Staking
+Period:
+BAYC NFT: 10,094 ApeCoin
+MAYC NFT: 2,042 ApeCoin
+BAKC NFT: 856 ApeCoin
+The caps for Staking Periods following the Initial Staking Period will be decided with
+a proposal to be approved via the ApeCoin DAO before the start of each following Staking
+Period, once the Staking Pool Allocations for each following Staking Period have been
+determined. Waiting for or in the absence of an affirmative vote, the caps for each
+following Staking Period are the same as the previous Staking Period.
+Users can commit any number of BAYC, MAYC, and/or BAKC NFTs to the incentive pool during
+the Period. Committing an NFT is the act of attributing ApeCoin for a specific NFT, which
+then allows that NFT to earn and claim incentives, as long as the ApeCoin remains
+attributed. Think of it as if the NFT is a safety deposit key. The NFT provides access to
+the staked ApeCoin tokens previously attributed to it.
+A BAKC cannot be committed on its own, regardless of any direct ApeCoin being staked. It
+must always be paired 1:1 with a BAYC or MAYC NFT in order to be initially committed.
+This requires ApeCoin to be attributed to each of the NFTs.
+Once the BAYC or MAYC is paired with a BAKC, the BAYC or MAYC cannot be paired with
+another BAKC, unless the original BAKC that was paired is uncommitted to the incentive
+pool.
+
+ApeCoin Token Lock and Claim:
+Accumulated ApeCoin can be claimed at any time without the need to also claim staked
+ApeCoin and without affecting the commitment status of an NFT.
+All accrued ApeCoin generated from a stake is claimed at once, when initiating a claim.
+The staked ApeCoin can be claimed, along with its accrued ApeCoin, directly by the
+original staking wallet. However, these are two separate transactions.
+Staked ApeCoin is still valid to be used to vote in the ApeCoin DAO.
+To claim the accrued ApeCoin from a committed NFT, the same NFT needs to be present in
+the wallet to claim. If another user has an NFT that is committed to a stake, they can
+make the claim even if they didn’t make the original NFT commitment. Think of this as
+the NFT being the key to access the staking incentives.
+Users can stake ApeCoin and commit NFTs to the staking pool at any point during the
+Period, but the duration of an active stake directly affects the accrued ApeCoin, due
+to the time-weight combination incentive structure.
+The NFTs can be uncommitted from the staking pool by the NFT holder at any point in time.
+
+ApeCoin Accrual:
+The ApeCoin that can be accumulated from staked ApeCoin, or any ApeCoin attributed to
+NFTs, is dependent on the amount of ApeCoin staked by the user, the duration of the
+stake, and the total amount of staked ApeCoin in the relevant staking pool.
+
+Maintained NFT Tradability:
+
+Only ApeCoin is ever staked. The owner of a specific NFT at the claim point is able to
+claim the accrued ApeCoin tokens attributed to that NFT, even if they were not the one
+who originally initiated the staking commitment.
+Although tradable, committed NFTs cannot be recommitted, unless a holder has previously
+uncommitted the NFT.
+The Foundation’s website UI will be updated to have an option to enter the BAYC, MAYC,
+or BAKC token ID and check the following:
+Is the MAYC, BAYC, or BAKC currently committed to a staking pool?
+Does the BAYC or MAYC have a committed BAKC companion NFT?
+NFTs that are currently committed will have an updated status in a UI that serves as a
+notification for potential buyers, so they’re aware of the commitment status, and the
+amount of ApeCoin that NFT has earned, before purchasing.
+
+STEPS TO IMPLEMENT
+Smart Contract:
+Development of the Staking Process smart contract
+Smart contract security audit and QA
+A proposal to be drafted and approved via the ApeCoin DAO for the allocation of ApeCoin
+for Staking Process, and the duration of the Period.
+Website (Design and Implementation):
+Staking and unstaking UI, for both direct ApeCoin stake and commitment of NFTs to stake
+Status of staking pools: amount remaining
+Accrual rate: current accrued, current weight
+Claim: unclaimed ApeCoin balance
+Market Tools:
+NFT search and staking status
+NFT ApeCoin commitment
+NFT ApeCoin commitment lockup status
+
+TIMELINE
+The estimated time frame is 12–16 weeks.
+
+OVERALL COST
+$300,000 – $500,000
+Estimate includes smart contract engineering, full stack engineering, UI/UX design,
+Project Management, QA, and auditing services.
+
+Foundation Authority: Approval of this Proposal authorizes the Foundation to exercise
+discretion to effect the purposes and intent of this Proposal, including by spending
+additional amounts and approving a different development timeline than set forth in this
+Proposal. However, expenses in connection with this Proposal may not exceed twice the
+estimated amount without additional approval in accordance with the Foundation’s
+governance process.
+
+
+AIP-22: Staking Pool Allocation Reloaded - Ecosystem Fund Allocation
+Category: Ecosystem Fund Allocation
+Submitted by: giacolmo.eth
+
+ABSTRACT
+Coherently with AIP-21 Staking Process with Caps (1x drop), this AIP wishes to simplify
+and move forward, effectively proposing again the previous AIP-5, which was voted
+against uniquely for the absence of caps in the Staking Process.
+
+This proposal presents the total ApeCoin allocation for the staking pools and the
+three-year duration of this staking period.
+
+MOTIVATION
+The creation of a staking process for ApeCoin as outlined in AIP-21 is designed to work
+with varied ApeCoin incentive pools and period lengths. This AIP presents the initial
+staking pool and staking duration.
+
+RATIONALE
+As stated in AIP-21, in order for ApeCoin to become the preferred token of web3, early
+NFT adopters and existing and potential ecosystem participants should be incentivized
+through participation in activities benefitting the APE Ecosystem.
+
+The initial ApeCoin staking period and staking pool size proposed here is designed to
+incentivize participation in the ecosystem over the staking period, regardless of
+whether a participant stakes ApeCoin alone, or modifies that stake by committing BAYC
+ecosystem NFTs.
+
+KEY TERMS
+Staking Pools: The total ApeCoin pools that participants can earn from.
+Staking Pool Type: The pool specifically assigned to a digital asset class; there are
+four in total.
+Staking Period: Each period is 12 months.
+Staking Pool Allocations: The total amount of ApeCoin allocated to each Staking Pool
+Type per period.
+Total Staking Period: A total of three (3) years.
+Initial Staking Period: The first 12-month period of staking.
+Pool Distribution: The spread of the staking allocation assigned across the period.
+Incentive Distribution Curve: The schedule of ApeCoin allocated for incentives per
+quarter.
+
+SPECIFICATIONS
+Total ApeCoin Staking Pool: 17.5% of the total ApeCoin supply to be distributed over the
+Total Staking Period of three (3) years. This will be funded by the Ecosystem Fund.
+Staking Pool Periods:
+Year One: 100,000,000 ApeCoin tokens (10.0% of the total ApeCoin supply)
+Year Two: 50,000,000 ApeCoin tokens (5.0% of the total ApeCoin supply)
+Year Three: 25,000,000 ApeCoin tokens (2.5% of the total ApeCoin supply)
+
+Note: Unclaimed ApeCoin remains in the contract indefinitely until it is claimed. It
+cannot be recalled by the contract owner.
+
+Staking Pool Types:
+ApeCoin Staking Pool
+BAYC Staking Pool
+MAYC Staking Pool
+BAKC Staking Pool
+
+Staking Pool Allocations:
+
+Initial Staking Period:
+ApeCoin Staking Pool: 30,000,000 ApeCoin Tokens
+BAYC Staking Pool: 47,105,000 ApeCoin Tokens
+MAYC Staking Pool: 19,060,000 ApeCoin Tokens
+BAKC Staking Pool: 3,835,000 ApeCoin Tokens
+Note: The combined Staking Pool Allocations for the Initial Staking Period adds up to
+100,000,000 ApeCoin tokens, or 10% of total ApeCoin Supply.
+The Staking Pool Allocations for Staking Periods following the Initial Staking Period
+will be determined by the market prices of the BAYC, MAYC, and BAKC NFTs. An average
+price during Q4 of the previous Staking Period will determine the ratio allocated to
+each of the Staking Pool types. The ApeCoin Staking Pool will remain constant at 30%.
+Note: The BAKC Staking pool can only be utilized if a BAKC NFT is being paired 1:1 with
+a BAYC or MAYC NFT.
+
+Incentive Distribution Curve
+
+STEPS TO IMPLEMENT
+Upon deployment of the Staking smart contract on Ethereum, the total allocation of
+ApeCoin for this initiative will be sent to this smart contract.
+
+TIMELINE
+Upon completion and deployment of AIP-21.
+
+OVERALL COST
+As the development of the staking contract is complete prior to this AIP becoming active,
+the deployment of the ApeCoin isn’t an additional cost. This is presenting the pool to
+be utilized only.
