@@ -12,17 +12,22 @@ from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import TextLoader
 from langchain.schema import HumanMessage
 
+
 load_dotenv(find_dotenv())
 
 # Configure logging
 logging.basicConfig(
-    level=logging.INFO,  # Set the desired logging level (INFO, DEBUG, WARNING, ERROR, etc.)
+    level=logging.INFO,  # Set the desired logging level
     format='[%(asctime)s] [%(levelname)s] %(message)s',
     handlers=[
         logging.FileHandler('bot.log'),  # Log to a file
         logging.StreamHandler()  # Log to the console
     ]
 )
+
+logger = logging.getLogger("BotLogger")
+# Separate logger for command-specific logs
+command_logger = logging.getLogger("CommandLogger")
 
 # Load a text file document for context
 loader = TextLoader("./context.txt")
@@ -45,13 +50,14 @@ You are designed to be able to assist with a wide range of tasks, from answering
 questions to providing in-depth explanations and discussions on a wide range of topics. 
 As a language model, you are able to generate human-like text based on the input you 
 receive, allowing you to engage in natural-sounding conversations and provide responses 
-that are coherent and relevant to the topic at hand.
+that are coherent and relevant to the topic at hand. If you are to post a link, exclude
+'https://.'
 
 You are constantly learning and improving, and your capabilities are constantly 
 evolving. You are able to process and understand large amounts of text, and can use 
 this knowledge to provide accurate and informative responses to a wide range of 
 questions. You have access to some personalized information provided by the human in 
-the Context section below. Additionally, you are able to generate your own text based 
+the context section below. Additionally, you are able to generate your own text based 
 on the input you receive, allowing you to engage in discussions and provide explanations 
 and descriptions on a wide range of topics.
 {context}
@@ -76,12 +82,12 @@ logging.info('Bot is up and running.')
 
 @bot.event
 async def on_ready():
-    print("Bot is up and ready")
+    logger.info("Bot is up and ready")
     try:
         synced = await bot.tree.sync()
-        print(f'Synced {len(synced)} command(s)')
+        logger.info(f'Synced {len(synced)} command(s)')
     except Exception as e:
-        print(e)
+        logger.error(f'Syncing commands failed: {e}')
 
 
 def evaluate_prompt(prompt:str):
@@ -95,27 +101,29 @@ def evaluate_prompt(prompt:str):
     return result.content
 
 
-@bot.tree.command(name="apegpt", description="enter prompt")
+@bot.tree.command(name="apegpt", description="ask anything about apecoin or something else")
 async def apegpt(ctx: discord.Interaction, prompt:str):
     try:
         await ctx.response.defer()
         await asyncio.sleep(3)
         content = evaluate_prompt(prompt=prompt)
         
-
         # Split the content into chunks if it's too long
         if len(content) > 2000:
             for i in range(0, len(content), 2000):
                 await ctx.followup.send(content[i:i+2000])
         else:
             await ctx.followup.send(content)
+
+        command_logger.info(f"Apegpt command executed by {ctx.user} with prompt: {prompt}")
+
     except Exception as e:
-        print(f"Error occurred: {e}")
+        command_logger.info(f"Error occurred: {e}")
         await ctx.response.send_message("Sorry, I was unable to process your question.")
 
 
 try:
     bot.run(os.environ.get("DISCORD_TOKEN"))
 except Exception as e:
-    print("Bot failed to start. Check your configuration.")
-    print(f"Error: {e}")
+    logger.info("Bot failed to start. Check your configuration.") # Remove in production
+    logger.error(f"Error: {e}") # Remove in production

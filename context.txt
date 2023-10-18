@@ -2724,3 +2724,1493 @@ OVERALL COST
 As the development of the staking contract is complete prior to this AIP becoming active,
 the deployment of the ApeCoin isn’t an additional cost. This is presenting the pool to
 be utilized only.
+
+
+AIP-36: Guy Oseary as ApeCoin Representative - Ecosystem Fund Allocation
+Category: Ecosystem Fund Allocation
+Author: @guyoseary
+
+ABSTRACT
+This document proposes to make me, Guy Oseary, a representative of ApeCoin. This role
+will make it my job to support ApeCoin through impactful partnerships and initiatives.
+I will not receive any payment for my services.
+
+MOTIVATION
+I remember the very moment that web3 “clicked” for me when my friend Nick Adler helped me
+understand its potential, starting with NFTs as a breakthrough for artists’ rights.
+That’s all I needed to hear to jump all into the web3 ocean.
+
+The opportunity in web3 is immediate and massive, especially for anything championed by
+an engaged, creative, passionate community. ApeCoin embodies all of that.
+
+I believe that the more utility there is for ApeCoin, the more value it has, and the more
+it has the potential to break new ground for web3 and culture as a whole. Partnerships
+are instrumental in making that happen.
+
+I’ve spent my career working hard to get artists and brands the best, most fair deals
+possible — deals that compensate them, empower them, and protect them and their work.
+That’s what I want to do for ApeCoin and the community. As a representative, I will work
+to find and create opportunities that build the brand and ecosystem and bring ApeCoin to
+everyday life, everywhere.
+
+Web3 is more than just digital. The coin that will power your metaverse experience will
+also be powering your real-life experience. You could earn ApeCoin in the metaverse and
+use it as payment to attend a show by your favorite artist. Pay for a hotel with it one
+day and meet your friends there virtually. We are at the very early days here. Keeping
+ApeCoin solely in the metaverse would limit it.
+
+The request is for an allocation of 1% of the Ecosystem Fund for me to spend
+strategically on opportunities and partnerships that benefit the brand and community.
+These initiatives could include – but are not limited to – events, partnerships, and
+projects across gaming, TV, film, and music. To execute on this successfully, it is
+important for me to be able to engage in individual negotiations discreetly, driving more
+favorable terms and costs that result in higher ROI.
+
+RATIONALE
+To promote a diverse and self-sustaining ecosystem, ApeCoin should be so ubiquitous that
+it’s part of mainstream culture. It’s my core belief that ApeCoin can lead the way in
+bringing more people, companies, and brands to web3, and that we can do so in an
+inclusive way that reflects the ApeCoin DAO values.
+
+A LITTLE ABOUT ME
+My experience in working with brands across entertainment and tech allows me to be
+uniquely positioned to make strategic decisions and leverage my network to close
+exceptional deals for ApeCoin.
+
+I am an entrepreneur, tech investor, and talent manager. As a teen, I started my career
+as an A&R executive and later as a partner in Maverick Records. We sold over 100 million
+albums before selling the company to Warner Music.
+
+I’ve been working with and supporting artists ever since — for over 30 years now. My
+passion and personal interests over the last few decades have placed me at the
+intersection of entertainment and tech. I’ve been investing with my partner and friend
+Ashton Kutcher, who is also my co-founder in A-Grade Investments, Sound Ventures, and
+Sound Ventures Blockchain. Our early-stage investments include Airbnb, Uber, Spotify,
+Calm, Robinhood, Gitlab, Duolingo, Superrare, Opensea, and many others.
+
+I am also currently working with or a partner with some of the best NFT talent, including
+Bored Ape Yacht Club, Mutant Ape Yacht Club, CryptoPunks, Meebits, World of Women,
+Sandbox, Pixel Vault, Beeple, and 10KTF.
+
+Empowering artists and protecting them from day 1 has been a priority for me. Today, one
+of the most powerful tools to enable that is web3. I was fortunate to be one of the
+contributors to ApeCoin. Like you, I was inspired by this amazing community and I’ve been
+supporting it from the moment I understood how far it can go. I want it to succeed and
+I’m incentivized to do all that I can to ensure that it does.
+
+SPECIFICATIONS
+Up to 1% of the Ecosystem Fund as a budget for me to utilize on behalf of the APE
+Foundation.
+
+This will only be spent on purchases and deals that directly benefit the APE Foundation.
+Any ROI gained from deals I make will go back into the Ecosystem Fund.
+Any ApeCoin from this budget that is not used during the specified period will be
+returned to the Ecosystem Fund.
+I will not receive any payment for my services.
+I will consult with the Board about potential deals.
+Details on all purchases and deals that I make will be made fully available to the
+ApeCoin DAO community after the fact via quarterly transparency reports that detail how
+much was spent, on what, and why.
+This is separate from the budgets allocated in AIP-3.
+
+STEPS TO IMPLEMENT
+Cartan to set up a separate Coinbase account and transfer 1% of the Ecosystem Fund.
+Set up the account so that one of the ApeCoin DAO Board members must approve
+transactions.
+Execute commercial services agreement with Ape Foundation.
+TIMELINE
+This would go into effect immediately if this AIP passes and would last until the next
+fiscal calendar closes at the end of 2023.
+
+OVERALL COST
+Up to 1% of the Ecosystem Fund, from when the proposal passes through Dec 31, 2023.
+
+
+AIP-66: ApeCoin Newsletter - Ecosystem Fund Allocation
+
+Abstract
+We believe that an ApeCoin newsletter that is developed and distributed by the community
+would be a beneficial source of information for members of the DAO. The newsletter could
+be developed on Substack, Ghost, MailChimp or a similar platform. It should be an
+aggregation of ApeCoin specific ecosystem news, AIPs, conversations, opportunities and
+content sourced from Discourse, Discord, Twitter and other internet destinations. The
+newsletter should promote and educate all things related to the ApeCoin DAO.
+
+Motivation
+The motivation behind this idea is to help the community develop trusted sources of
+information from decentralized channels and provide benefits beyond a single information
+source.
+
+Rationale
+We know of multiple ad hoc channels across the internet and it would be great to provide
+some funding to them so they can expand their reach and dedicate more resources to
+spreading ApeCoin ecosystem and DAO news.
+
+Specifications
+The person / team implementing this AIP would need a platform to collect email addresses
+and distribute a branded newsletter. Some platforms they could use are Substack, Ghost,
+MailChimp or something similar.
+
+It would be cool if the chosen team could implement some functionality whereby
+subscribers would be required to sign a message (WalletConnect, MetaMask) with an address
+that has at least one ApeCoin in it.
+
+The ApeCoin Foundation will not be approving the content of these newsletters, we believe
+the community is best positioned to decide what content is best for itself.
+
+Steps to Implement
+This AIP will go through the same approval process as all other AIPs. It will start with
+this post and the 7 day comment period, we will then draft a proposal for the ApeCoin
+Foundation for further analysis, it will go to the Special Council for review and finally
+the community will vote on it via SnapShot.
+
+If this AIP is passed, we will start a new thread where teams can nominate themselves to
+take on this project. Please include a link to any social media or communication channels
+you currently operate and how big your follower base is. We will select the top 3
+nominations using the following criteria:
+
+How many likes your comment has by users that have been on Discourse for longer than 5 days.
+
+The team(s) selected to participate in this AIP will be subject to agreeing to an ApeCoin
+Grant Agreement.
+
+Timeline
+Over the course of one year, every month that you deliver two newsletters
+(every other week), the ApeCoin Foundation will send you 400 ApeCoin.
+
+Overall Cost
+For each team that is selected, the ApeCoin Foundation will send 400 ApeCoin per month.
+Criteria each month will be two newsletters distributed to their subscribers. The ApeCoin
+Foundation will validate every month that the team has sent two newsletters.
+
+We suggest capping the time for this idea to one year. At this point, the newsletter may
+be continued via a new AIP. Hopefully, teams will have built up a large enough audience
+at the end of one year that they can have a self-sustaining business model.
+
+Proposals submitted to the AIP Ideas category can be vague, incomplete ideas. Topics
+submitted here are not required to be submitted as a formal AIP Draft Template, however,
+you may still use the template 20 if you wish.
+
+
+AIP-89: Improved delegation experience
+Proposal Category: Process Proposal
+Authors: @maariab @bwags
+
+Abstract:
+This AIP improves the delegation experience by adding an application process and allowing
+users to easily delegate and re-delegate directly from the ApeCoin site.
+
+Motivation:
+
+Delegation is a common mechanism used by DAOs to ensure better representation and
+participation within their communities. Gitcoin, Compound, and ENS have all implemented
+delegation mechanisms, ensuring the DAO represents the interests of members who can’t
+personally consider and vote on each proposal.
+
+The motivation for this proposal is to improve the UX for delegating ApeCoin, as well as
+provide a better process for users to identify delegates aligned with their interests.
+While anyone will be welcome to self-delegate and vote independently, we know not all
+$APE holders can commit to take an active role in the APE ecosystem. An improved
+delegation system will allow the individuals and groups who want to take an active role
+in APE governance to have their voices heard.
+
+Rationale:
+Many $APE holders don’t have the time to participate in governance and would prefer to
+delegate their votes to a peer. The current Snapshot delegation system is opaque and
+unhelpful because users need to know the wallet address of the delegate, and there is
+no easy way to identify how the delegates will govern.
+
+We propose creating a dedicated site for delegation. Delegates will answer a few basic
+questions about how they would govern, and delegators will be able to filter and search
+through their responses to find a delegate aligned with their interests.
+
+Delegation increases vote counts and community feedback, and also holds governance
+participators accountable.
+
+Specifications:
+Will create a dedicated site for delegating or re-delegating ApeCoin
+New UX will make it easy for holders to filter/search through delegates and for delegates
+to campaign
+Will also create a DAO leaderboard for tracking participation / delegation stats
+Will build as open source tooling for other DAOs to leverage
+ApeCoin.com 12 will link to the delegation site (TBD - but will work with Cartan and
+the DAO to figure out the best solution)
+v1 requires full delegation of votes, while v2 will implement partial delegation options
+
+There are three improvements made in this proposal: 1) Process For Delegate Applications;
+2) Dedicated UI/UX for Delegation; 3) Creation of Governance Leaderboard; and 4)
+Open Sourcing the tech
+
+1. Process For Delegate Applications
+Candidates who seek to campaign for delegation will connect their wallet to the delegation
+site and complete an application (see appendix).
+Holders do not need to self-delegate in order to vote on proposals. Delegation is only for
+holders who do not want to vote.
+
+2. Dedicated UI/UX for Delegation
+A site or subdomain will be created where holders will be able to view all the candidates
+who completed delegate applications and click through their profile to read their
+applications and voting history
+Users can use this site to delegate or redelegate at any point in time.
+Candidate profiles will initially be shown in a random order, but can be filtered in the
+following ways:
+Delegated vote count
+Voting history
+Recently applied
+
+Delegates who complete applications will rank higher in the UX, but users will be able to
+delegate to any wallet address.
+These updates to the delegation experience should make it easier for holders to delegate,
+and should indirectly increase voter participation in the DAO. It also creates a
+democratic system by which any community member can have a meaningful impact on governance,
+regardless of their financial status or how much APE they own.
+
+These updates to the delegation experience should make it easier for holders to delegate,
+and should indirectly increase voter participation in the DAO. It also creates a democratic
+system by which any community member can have a meaningful impact on governance, regardless
+of their financial status or how much APE they own.
+
+3. Creation of Governance Leaderboard
+Leaderboard will aggregate voting data and allow users to filter through various views
+including by:
+Proposals
+Delegates
+Voters
+We can aggregate voting information via Boardroom.io 6’s governance SDK and API or other
+community tools that have been built.
+The team plans to leverage existing tooling when possible, but will prioritize safety and
+security when selecting partners or building in-house.
+
+4. Open Sourcing
+Delegation system will be open sourced
+We strongly believe that the NFT and crypto ecosystems benefit from working together and
+by open sourcing this tool, we give teams the opportunity to focus on building new things
+for the space.
+
+Steps to Implement:
+
+Funds will be managed from a multi-sig at 0x10836A2Ba38cCb9CAE3b5624FC5A7e1389AF61f3
+managed by maaria.eth and bwags.eth
+Timeline:
+
+The estimated time frame to build a basic v1 is 4 weeks
+More complex functionality like delegating custodied tokens or partial delegation will
+likely take another 4-8 weeks depending on how complex the architecture and tooling ends
+up being.
+
+Team:
+Maaria will act as the project manager along with Brian Wagner. Maaria will not receive
+payment for this role.
+Brian Wagner is an engineer who has built data pipelines/APIs, iOS SDKs and apps, lots of
+React web apps. He founded Campground and was the lead product engineer at a stealth
+startup prior to that. He has run a lot of web3 experiments, including making the gm app,
+being a core team member of ConstitutionDAO, and blockchain dev for Yolo Dice 1 and their
+upcoming Everworlds game.
+Additional 1-2 developers, 1 designer, and a PM to be hired after proposal passes
+(have already identified and started conversations with resources here → community
+members can also nominate themselves to help with the build)
+
+Overall Cost:
+Up to $150,000 APE pending milestones being met
+
+$50,000 APE funded upon proposal passing
+$50,000 APE funded upon launch of v1 delegation UI, which will include the delegate
+application, delegate discovery interface, delegation ability, and a basic DAO dashboard
+$50,000 APE funded upon launch of v2 delegation which will include more streamlined
+UI/UX flows, advanced leaderboard, partial delegation (if technically feasible and
+reasonable to build), and delegation from custodial wallets (if technically feasible and
+reasonable to build)
+
+APPENDIX: APECoin DAO Delegate Applications
+After connecting their wallets to the delegation site, users will be directed to answer
+the following application questions:
+
+ENS name or wallet address:
+Reasons for wanting to be a delegate:
+Web3 qualifications / skills:
+What voters can expect of you:
+
+Delegates who submit an ENS name must set their Primary ENS Name to the ENS name chosen
+Do this at app.ens.domains 2 > My Account.
+
+
+AIP-98: A Community-First ApeCoin DAO Marketplace Proposal
+
+After releasing our v1 marketplace proposal 72last week, we took a step back to digest
+MagicEden’s competing proposal and get feedback from the community. The last couple weeks
+has been inspiring, meeting new ApeCoin community members, and listening to feedback.
+Below you will find our updated draft, including a summary of the feedback received,
+how we’re adjusting, and why we’re the right builders for the job.
+
+At the heart of this proposal is our desire to build for the community, and embrace Web3
+values of decentralization via composability, non-extraction, and interoperability.
+
+Composability means parts of a system can be replaced and recombined so you can easily
+replace us as the ApeCoin DAO marketplace front end without impacting users.
+Non-extraction means not charging more than you need, we take just enough to cover
+operating costs and keep building so we can do our best to return value to creators.
+Interoperability means systems ability to use available data. By leveraging Reservoir0x
+we can both aggregate the most liquidity and make data available for aggregators and
+other user applications, something MagicEden has blocked on its Solana marketplace.
+
+Abstract
+A community marketplace is a natural next step for the ApeCoin DAO. A successful
+community marketplace will: drive adoption of $APE through $APE listings, drive traffic
+to the ApeCoin DAO (apecoin.com 13), and decrease fees to community members by building a
+APE-native marketplace with rich ape-specific user experiences. In order to compete this
+marketplace must be cost competitive with fees in-line with or lower than competitors
+like X2Y2.
+
+Our marketplace will host all Yugaverse projects in a single marketplace UI, with
+dramatically reduced fees, keeping $$ in the BAYC ecosystem and improving the marketplace
+experience for both buyers and sellers.
+
+While we have a lot to share, some notable key features of the marketplace are the
+following:
+
+Leveraging @reservoir0x’s open-source, on-chain orderbook to increase openness and
+composability.
+Aggregated orders from major marketplaces (OpenSea, LooksRare, X2Y2, Sudoswap, and more)
+to maintain a strong bridge to the rest of the NFT market.
+Native sales in $APE with no fees to users buying and selling in $APE.
+A .5% marketplace fee on $ETH listings and a .25% fee in $APE. .25% of all fees will be
+sent to a community-held multi-sig wallet on a monthly cadence. The use of funds can then
+be decided in a separate AIP. (more on why later) The .25% from $ETH will be converted to
+$APE and sent to the wallet.
+Development of contextual and ape-specific marketplace functionality, such as integration
+of key BAYC metadata, relation to the Otherside, and more.
+
+About Us
+I’m Zach and prior to starting Snag Solutions 25I was an early leader at DoorDash.
+I built our early pickup and ads businesses and helped merchants like Chipotle,
+Papa Johns, and Panera, run their online ordering, and defined an early crypto strategy
+in my final months.
+
+I red-pilled into web3 last year, and fell in love with NFTs. BAYC was my first big
+purchase, and I’m a BAYC/MAYC/BAKC/Otherside holder. As a holder and early believer this
+project is not just a business opportunity for me, but a passion project. I see a massive
+opportunity to keep $$ in the BAYC ecosystem, reduce fraud, and drive $APE adoption.
+
+My co-founder Jason (Twitter 31/ LinkedIn 15) was our first merchant engineering manager
+at DoorDash and built both our early payments product and the carousels DoorDash still
+uses today. He’s one of the best developers I’ve ever worked with and loves to build for
+creators.
+
+We also have three advisors, all deeply engaged BAYC/MAYC members:
+
+TropoFarmer (Twitter 11)
+NFTPres (Twitter 17)
+Champtgram (Twitter 17)
+
+What We’ve Heard From The Community
+
+We’ve spoken with a number of $APE community members over the last several weeks. There
+are four major topics that surfaced from our conversations. If you think we are missing
+anything at all, please comment so we can discuss.
+
+The $APE community wants to embrace Web3 values of decentralization, non-extraction, and
+composability. In a dream scenario many would want to build and run the marketplace
+themselves, but recognize this isn’t feasible today.
+
+An ApeCoin DAO marketplace must drive value for the community, but because the DAO isn’t
+legally set up to accept funds this is difficult to accomplish. There are four main
+proposals:
+Burn $APE to drive token value through scarcity.
+Fund marketplace incentives for marketplace users via tokenomics.
+Send $APE to a donor advised fund that custodies the funds in $APE for a set time before
+donating.
+Route money to a new ApeCoin sub-DAO that controls the funding, and is still governed by
+$APE token holders. This eliminates ApeCoin DAO legal complexity.
+
+The volatility of $APE makes it a challenging currency to list high-priced NFT’s in due
+to arbitrage opportunities, but use of $APE should still be encouraged.
+DAO members would prefer not to choose a single marketplace at this time without enabling
+competition. Further, there’s some concern about use of dedicated URL’s as likely to lead
+to more fraud.
+
+The volatility of $APE makes it a challenging currency to list high-priced NFT’s in due
+to arbitrage opportunities, but use of $APE should still be encouraged.
+
+DAO members would prefer not to choose a single marketplace at this time without enabling
+competition. Further, there’s some concern about use of dedicated URL’s as likely to lead
+to more fraud.
+
+How we’re responding
+
+1. We’re partnering with @reservoir0x to leverage their open and on-chain orderbook.
+This comes with four key advantages:
+Order data is stored on Arweave, unlocking benefits from storing orders on-chain without
+the cost. This enables free listings and offers like users expect, but without reliance
+on a centralized orderbook managed in a private database. This also allows for
+permissionless data availability so users can build tools and data visualizations using
+on-chain data while removing a key centralization vector.
+
+Reservoir aggregates liquidity from across the ecosystem including orders from OpenSea,
+LooksRare, X2Y2, and more and enables order types that are unavailable in other
+marketplace stacks, like trait-based bidding. We’ll innovate on the BAYC marketplace
+front end while they build the richest on-chain NFT data repository enabling us to pull
+in novel features as they ship.
+
+Since the Reservoir orderbook is on-chain (Arweave), the marketplace could easily be
+replaced if the community is dissatisfied with no loss of liquidity. For this reason,
+we are applying for a 6-month lease on a dedicated URL pointing to our hosted experience,
+and will apply for 6-12 month extensions following. This creates pressure for us to add
+value, if the DAO ever wants to replace us you can do it without impacting listings.
+
+We’ll also partner with Reservoir0x to enable ERC-20 purchasing, since this functionality
+is already native to Reservoir, we’re eliminating our $50K request for funding so there’s
+no cost to the DAO.
+
+2. Due to lack of an obvious mechanism to add value to the DAO we’re reducing our fees.
+Our initial proposal increased fees to fund payments directly to the DAO treasury as a
+new revenue stream, but because the DAO is set up as a Cayman foundation it can’t accept
+funding without risking being ruled a security (for now). With this in mind we reduced
+fees to .5% on ETH and .25% on $APE with .25% of each transaction sent to a gnosis
+multi-sig as $APE for future community use.
+
+Total fees: .25% on listings in $APE, and .5% for ETH listings, with .25% of each
+transaction going to the DAO so we make .25% only on $ETH transactions.
+The multi-sig will be controlled by 7 reputable & doxxed community members with use of
+funds to be voted on at a later date.
+
+3. Because of strongly divided feedback across burning, incentives, and charitable
+contributions, we propose starting the funding stream immediately and tabling the topic
+for a separate AIP. This approach maintains an incentive to list in $APE via our 0% fee,
+and we can then explore solutions to enable listing in $ETH or $USDC with payment in
+$APE.
+
+We’re open to supporting any path chosen by the community, but want to give the DAO time
+to make a decision on use of funds. We’re keeping our fees low so if the DAO wants to
+increase the seller fee on either $ETH or $APE transactions.
+
+If there’s overwhelming support for the a single approach we can pivot, but our current
+POV is that use of funding is a critical DAO topic that should be tackled separately.
+
+4. We’re revising our proposal to request EITHER a dedicated URL ie.
+marketplace.apecoin.com 29 AND/OR a dedicated link from the ApeCoin DAO homepage. If the
+community prefers to select multiple marketplaces we’re open to being one of severa
+URL’s or links available. That said, we believe a single marketplace will be best for
+the community so we don’t split attention and liquidity.
+
+Why Snag Solutions is the Right Partner and Where We’ll Go From Here
+
+1. We’re experienced marketplace builders who share a vision of helping creators and
+communities capture value by unbundling NFT marketplaces. Our roadmap improves upon
+the project-specific buying experience via a multi-collection UI, linking items across
+collections, improving token metadata, and building social tooling.
+
+2. We’re building project-specific marketplaces with creators and their communities in
+mind. Everything we’re building is project-specific. We plan to build creator first
+tools like private sales with no fees except for creator royalties, and can create a
+separate AIP to introduce this feature and help limit scams when ready.
+
+3. We’ll keep building for the ApeCoin community and collecting feedback but will focus
+on the NFT marketplace without touching adjacent revenue streams and marketplace
+categories like IP licensing or merch marketplaces leaving opportunities for other
+$APE community builders. Our .25% $ETH fee will fund ongoing development and we’ll
+use this as a key proof case for first party marketplaces.
+
+Finally, while fees are not the only thing that matters, we want to reiterate that we
+have a market ready product that we’re prepared to invest in at dramatically lower
+rates. Why would we let the leading Solana marketplace charge a full percent more for
+a similar, more centralized, offering?
+
+More importantly, why would anyone use that marketplace with a 1%+ fee over X2Y2?
+
+$ETH fees:
+ME: 1.5%, .25% discount if BAYC/MAYC
+SNAG: .25% fee + .25% burn
+
+$APE fees:
+ME: 1%, .25% discount if BAYC MAYC
+SNAG: .25% fee + .25% burn
+
+So to summarize:
+We’ll build a native marketplace that hosts all Yugaverse collections with .5% on $ETH
+listings and .25% fees on $APE listings with an open order book solution and aggregated
+liquidity. .25% of each transaction will be earmarked for the DAO, and we’ll apply for
+renewal in 6-months.
+
+All $APE fees will be routed to a community held multi-sig with use of funds to be voted
+on in a future AIP. This gives the DAO more time to determine how to best utilize new
+funding sources while taking $APE off of the market in the interim.
+
+We’re experienced marketplace builders, established community members, and flexible
+partners incentivized to drive value for the DAO. We’ll also never host a competitive
+marketplace hosting Yuga collections or silo marketplace liquidity to capture value.
+
+We’re entirely focused on and committed to innovating on the front end experience to
+make sure the ApeCoin DAO marketplace is the go-to destination for Yugaverse NFTs.
+
+Product Specifications | Overview of Snag Tech Stack
+
+Front end libraries - Next.js, Vercel
+Reservoir0x’s aggregated liquidity and open-source + on-chain order book.
+Light backend for social features like user profiles
+
+Next Steps & Timeline:
+
+Our partnership with Reservoir0x lets us to launch as soon as we complete the audit
+process.
+We’ll complete an audit prior to supporting this level of scale and want to enable
+the community to determine the best auditor for the job. We’re happy to do the work
+to find someone reputable who fits into our timeline, or can source from the community.
+
+Overall Cost:
+No cost to the DAO.
+
+Marketing commitments from ApeCoin DAO including:
+A 6-month lease on a dedicated URL (ie. marketplace.apecoin.com 29) pointed to our
+hosted experience AND/OR a link to our URL from the ApeCoin homepage. We prefer both,
+but will take either depending on board and community feedback.
+Twitter post(s) at launch
+
+Closing Thoughts & Helpful Links
+ApeCoin DAO is uniquely positioned to change the current dynamics of NFT marketplaces
+where the majority of value is captured by two marketplace providers. The $APE community
+deserves a dedicated marketplace for Yuga projects that is built with the collections in
+mind and minimally extractive. We can build this future alongside the community without
+concern of misaligned incentives stemming from a separate marketplace Ethereum marketplace.
+
+Finally, a note on Magic Eden’s proposal, I’m personally supportive of any of the three
+other marketplace proposals and trust the community will see the centralization risk
+associated with a ME marketplace.
+
+We look forward to hearing your feedback! Please comment or reach out via twitter 79if
+interested in chatting, and I’m excited to join any Ape-led spaces to share the message
+in the coming weeks.
+
+
+AIP-88 : Earn ApeCoin Revenue Through Our No-Code NFT Drop Platform & Launchpad
+
+Abstract
+We want to become a launch pad to help make ApeCoin NFT project ideas come to life.
+Through our established no-code, self-serve smart contract platform, NiftyKit, anyone can
+launch a project on our platform in just minutes, unlocking accessibility for the next
+generation of NFT creators. By building deep integration with ApeCoin, we can unlock new
+levels of utility for the token, making it the foundational coin for the creator economy.
+
+Motivation
+NFTs now play a more significant role in adopting the core ideas of web3 and blockchain.
+It’s become a crucial entry point through which communities and cultures from around the
+world explore, earn from, and adopt the web3 lifestyle, together.
+
+Sadly, the tools suck to get NFT projects off the ground, plus developers are hard to work
+with. Good luck finding one you can trust that won’t ghost you on launch day or steal your
+private keys. Need a technical arm to help you save time launching your project with $APE?
+We can help.
+
+Our team has extensive web3 and web2 experience, and we’ve been providing value through
+our company NiftyKit 49 for more than a year. We have worked with prominent creators like
+Takashi Murakami and Gucci (recently started accepting $APE) in addition to many
+independent smaller artists who have generated over 7,300 ETH since the beginning of the
+year through their NFT drops executed on our current self-serve platform.
+
+NFT drops can be months in the making, and if you only have this one shot at launching,
+you better make sure your plan is tight before you drop and look stupid. With NiftyKit,
+there is no need to reinvent the wheel when creating NFTs. We will provide a standardized
+solution that helps onboard users to ApeCoin by providing battle-tested tools.
+
+Yuga and the Improbable team expect us (the community) to help build Otherside with them
+from the bottom-up, so we have a responsibility to be ready to dive-in face-first when
+Otherside goes live.
+
+Accepting this AIP supports the first step towards how we’ll use NFTs to connect
+different communities IRL and in Otherside to raise awareness for our DAO and
+members.
+
+Adding the ability to drop NFTs in ApeCoin will also help increase:
+Unique wallets created with ApeCoin
+ApeCoins earned by Creators
+Number of ApeCoin NFT drops
+Number of AIPs submitted to Discourse
+Number of NFTs entering the Otherside
+Number of Otherside API builds
+Number of ApeCoin members ready for Otherside on day one
+
+Receiving a grant from the ApeCoin DAO will help us add a scalable and secure way for any
+creator or brand to launch an ApeCoin NFT drop in just minutes instead of weeks or months.
+
+Empowering creators with the best-in-class tools will enable our community to become an
+accelerator and launchpad for NFT projects with the support and backing of the most robust
+bluechip holders in the ecosystem.
+
+Rationale
+It’s no secret. The Ape community is getting a marketplace - Agora - and we know ApeCoin
+will power Otherside. Buying $APE is the best entry point for anyone wanting to
+participate; no Ape, Mutant, or Deed is required. Yes, you can buy and hold $APE and wait
+for it to the moon, but what if you had a way to accept ApeCoin for goods and services
+you can offer as NFTs through drops?
+
+You know…investing in yourself, launching your project, or collaborating with a team
+that can help you get off the ground. Yes, NFTs are perfect for PFPs, but NFTs can be
+much more. These drops can be generative art, membership access tokens, or tokens for
+things like ticketing, gated access, or exclusive content. 3D files and objects can
+represent NFTs; the same goes for audio and video. NFTs are not just JPEGs.
+
+The possibilities for the future are endless. You do not have to be a “crypto artist” to
+do this. Got a business? LFG. Work for an innovative company? LFG. Know someone with a
+great idea? LFG.
+
+We will see a surge in innovation around fashion, wearables, in-game assets, and other
+assets we can use and bridge across different metaverses like the Otherside which we know
+will support interoperability and allow us a chance to bring their outside collections
+and NFTs in.
+
+Now is the time to get a head start and building if you’re not already. It’s easier than
+you think and using a platform like NiftyKit will unlock your freedom to be creative.
+
+In addition to providing the premier tool for creators to adopt $APE, we will help
+onboard and educate project founders and their teams on how to launch their projects on
+ApeCoin. There is more than just artwork that goes into an NFT drop and there are many
+places where something can go wrong. We want projects to be equipped with the right tools
+and armed with the correct knowledge needed to succeed.
+
+We are entirely bootstrapped, so we are asking for a grant from the ApeCoin DAO to fund
+the the development, maintenance, and creation of this project.
+
+Key Terms
+NiftyKit - This grant will fund the implementation of ApeCoin on our current platform
+at app.niftykit.com
+NFT Drop - The creation of NFTs to launch and sell to buyers purchasing using cryptocurrency
+AIP - Ape Improvement Proposal
+
+Specifications
+Since our platform is already created, our team will be implementing the ability to
+launch NFT drops that accept ApeCoin as a new feature to our existing app.
+
+Our Platform
+NiftyKit is the outcome of our team’s collective experience launching over 500 drops with
+an intuitive user interface to maximize creator earnings and efficiency while deploying
+their digital assets.
+
+Current Features
+Fully Audited Smart Contracts (by ChainSafe)
+Unlimited Multi-chain Minting: Ethereum Mainnet, Polygon, Optimism
+ERC721 & ERC721A Smart Contracts
+Batch Airdrops (w/ CSV upload)
+Presale Access List
+Pre-Reveal/Reveal Interface
+Revenue Split (Primary & Secondary Sales)
+Customizable Mint Page
+JavaScript SDK
+Charity Donations (via The Giving Block)
+
+Onboarding Process
+Work with Bored Ape owned businesses and influencers to launch their project using our
+launchpad.
+Investigate projects to team up with
+Onboard them to NiftyKit platform
+Determine revenue splits, token-gated unlockables , and pre-sale list strategy
+Develop and work on the creative design for NFTs
+Implement SDK on website and prepare for minting
+Upload assets and metadata to IPFS and prepare drop
+Launch the primary sale of NFT to community
+Earn $APE for each NFT lazy minted through website
+Withdraw earnings from smart contract and revenue split
+
+Steps to Implement
+Get proposal approved
+Develop ApeCoin integration on NiftyKit
+Onboard initial ApeCoin projects
+Security and smart contract audits
+Quality Assurance for application(s)
+Creator ApeCoin specific doc/tutorials
+Pre-flight preparation for launch
+Go live with first ApeCoin drop
+
+Timeline
+Month 1
+Pre-production planning
+Start development (code & design)
+Onboard creator pilot
+Month 2
+Develop ApeCoin integration
+Implement front-end UX
+QA & submit audit
+Month 3
+Audit complete
+Write documentation
+Go live
+
+Overall Cost
+We request a grant from the ApeCoin DAO for 8500 $APE per month for three months to
+assist in adding and integrating ApeCoin into our fully built, functional, operational
+platform and to kickstart a program to onboard NFT projects to $APE.
+
+
+AIP-96: Funding for Public Goods (ETHGlobal & Gitcoin)
+Proposal Category: Public goods funding
+@maariab, with support from @azeem at Gitcoin
+
+Timing for ETHOnline and September’s Gitcoin sessions are passed us. This AIP will go
+towards funding the next sessions for ETHGlobal and Gitcoin seasons.
+ETHGlobal is expected to occur in the next few months. Gitcoin will launch in December.
+Costs remain the same.
+
+Abstract:
+This AIP provides for $200,000 in APE to fund hackathons and grant programs for people
+building for ApeCoin. The funding will be distributed across three initiatives: Ethereum
+Foundation’s upcoming ETHOnline hackathon, a dedicated Gitcoin ApeCoin ecosystems grant
+program, and Gitcoin’s Change program.
+Participating in these initiatives gets ApeCoin more visibility and encourages developers
+to build for this community. It also serves as a way for ApeCoin to support public goods
+and other communities.
+
+Motivation:
+The current AIP process makes it difficult to vet and fund a large number of potential
+contributors and projects in an effective way. By leveraging existing trusted ecosystems
+like ETHGlobal and Gitcoin, ApeCoin DAO can efficiently scale support for developers and
+contributors who want to build within the ecosystem.
+
+By participating in these programs ApeCoin also has the opportunity to fund public good
+efforts within the broader crypto ecosystem. The space is still so early that we need to
+encourage open source building that others can leverage. We need to encourage continued
+innovation and building in the space, and this is an opportunity for us to support those
+contributors who are pushing us forward.
+
+I am requesting:
+$45k to participate in the ETHOnline hackathon ($35k sponsorship fee + $10k in prizes)
+$100k for funding a dedicated Gitcoin ApeCoin ecosystem program
+$50k for funding Gitcoin’s Climate, DEI, and Advocacy program
+$5k to donate to another community at ETHOnline. We can match funding, sponsor a prize
+pool, or donate it to cover expenses for low-income community members.
+
+Rationale:
+By participating in ETHGlobal hackathons and creating a Gitcoin ecosystem fund, ApeCoin
+is participating in the collective efforts that will continue to push the entire
+cryptocurrency ecosystem forward. There are many L1s and DeFi protocols that already
+participate, but participation from the NFT community is still relatively nascent. Grant
+funding will encourage developers to build new applications for the NFT community, which
+should be a major objective of ApeCoin DAO.
+
+ETHGlobal is the Premiere Ethereum hackathon organizer and has run over 30 hackathons
+around the world and online since 2017. These events have generated over 3500 projects
+and distributed over $3M in prizes to the developer community. ETHOnline is ETHGlobal’s
+flagship hackathon of 2022.
+
+Gitcoin empowers communities of builders to connect and work together to create the
+future of the open web. Their ecosystem rounds provide an opportunity for Web3 projects
+to advance open source efforts in their own ecosystems. Gitcoin has funded $65M+ of open
+source software to date.
+
+The goal of this funding is to increase awareness and adoption of ApeCoin. Success will
+be measured by the volume and quality of the programs that are built. We will work with
+Gitcoin and ETHGlobal to provide key metrics to the DAO post-hackathon.
+
+Specifications:
+ETHOnline: https://online.ethglobal.com/
+Largest hackathon of the year, runs for the entire month of September. Funding will cover
+$35k sponsorship fee and maximum $10k prize pool. The hackathon prompts and prize
+distribution will be finalized in collaboration with the ETHGlobal team closer to the
+event. You can look at examples of how the program is set up here: https://ethglobal.com/events/ethmexico/prizes 4
+
+We will also be able to select one item for the swag bag. I’d like a community member to
+select the item and coordinate the logistics (I’m hoping @herb will be down)
+
+Once the proposal passes, ETHOnline will send us an invoice, and we can remit payment via
+wire or tokens. Invoice will specify payment details.
+
+ETHOnline hackathon winners will be selected by ApeCoin representatives, including me
+(Maaria) and up to 4 ApeCoin holders who want to participate. Community members interested
+in participating should message me.
+
+Gitcoin ecosystem fund: Hackathons | Gitcoin
+Requesting $100k to fund an ecosystem grant program to run from September 7th to 22nd.
+Gitcoin grants are awarded to developers building open source tooling that further
+develops the ApeCoin ecosystem. Also requesting a $50k allocation to the Gitcoin Change
+initiatives (Climate, DEI, Regulatory Advocacy 2 and DeSci) to further public good.
+
+Requesting $5k be held back to support another community participating in ETHOnline.
+These funds will not be transferred / requested until the cause is identified. If a cause
+is not identified by the end of ETHOnline (Sept 30), the funds will remain in the
+treasury and will be available for other DAO initiatives.
+
+Eligibility:
+Applications for the are open to anyone who meets the following eligibility criteria:
+
+The Grant must support or directly advance the ApeCoin or NFT ecosystem
+The Grant may not have any form of quid pro quo that has financial value (a scenario in
+which a user gets some additional unique benefit/award in return for their donation)
+The Grant owner must be directly affiliated with the project; the funds must go to the
+project; and the funds must be used for the purposes stated in the Grant’s details.
+The Grant should be focused on accomplishing the following for ApeCoin:
+Usability - improving the user experience
+Community - growing the ecosystem
+Tooling - improving the developer experience
+Governance - building tools and enhancements for governance
+DApps - applications integrating ApeCoin
+The project should not have its own token or have raised VC funding (matching funds are
+reserved for the aspiring projects!)
+The Grant should be open source
+
+ApeCoin DAO will hold the discretion on which grants are eligible for matching on
+Gitcoin, and which projects are awarded prizes at ETHOnline.
+I will participate in the judging for ETHOnline. Up to 4 other APE holder who want to
+participate and judge can join me. Please reach out to me if you’re interested in
+participating.
+
+Steps to Implement:
+After AIP is passed, ETHGlobal will send us an invoice for $45k that we can pay via wire
+or $APE. Payment specifications will be available on invoice.
+$100k in APE sent to Gitcoin Grants Multisig: 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6
+$50k in USDC or ETH for the Change program sent to Gitcoin Grants Multisig:
+0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6
+Remaining $5k will only be requested if we identify an ETHOnline community to donate to.
+Payment information TBD.
+
+Timeline:
+Both programs are running in September so we need to finalize funding asap. Once funding
+is finalized I will confirm ApeCoin’s participation in both programs so we can finalize
+any necessary paperwork and remit funding.
+
+Team:
+Maaria is coordinating logistics and will not be paid. 100% of funding will go to the
+programs
+Overall Cost:
+$200k
+This includes: $45k for ETHOnline hackathon, $100k for a Gitcoin Apecoin ecosystem grant
+program, $50k for Gitcoin’s Causes program, and $5k to be donated to another community
+for ETHOnline (this funding will only be called if a partner is identified)
+
+
+AIP-214: Sponsoring The DAM Show + Live Game Shows
+Proposal Category: Brand decisions
+
+Abstract | WTF is THE DAM SHOW?
+This AIP is to sponsor THE DAM SHOW + our Live Giveaway Gameshows. A portion of the funds
+will be used to purchase prizes for our Live Gameshows, which are focused on entertaining
+and building hype leading to The Second Trip. The other portion of the funds will be used
+to help THE DAM SHOW get more distribution, scale operations, delegate marketing and
+editing so that we can become a self sustaining operation by the end of the six month
+period. As a sponsor, at minimum, ApeCoin will be mentioned in each of our live streams
+and recorded broadcasts in the form of short ad reads, logo overlays, and at times,
+sponosored segments.
+
+Author/Team Description | Who are we?
+I’m @atareh 8, a molecular scientist that moved into web2 product management and is now
+in web3 full-time for 1.5 years. I write insightful threads on Twitter, co-host THE DAM
+SHOW, and have been deeply involved in 10KTF (among other Yuga projects). I am one of the
+three community members that was anointed a Captain, officially entering the 10KTF
+storyline.
+
+@Mebynetta 4 is the second co-host of THE DAM SHOW. She’s an MD and a business owner, and
+has been degening into mints since August 2021. She is deeply involved in 10KTF,
+especially in helping newcomers enter the project. Her ‘Newcomer Package’ thread
+(a collection of official and community resources) helped hundreds of people join and
+understand 10KTF. Mebynetta is also known to host “Grunches” IRL (Grailed Brunches).
+She is one of the three community members that was anointed a Captain, officially
+entering the 10KTF storyline.
+
+@DiamondhandGMI 2 is the third and final co-host of THE DAM SHOW. He is a policy
+researcher by day, degen by night. DiamondhandzGMI is well known in the community for
+hosting Twitter Spaces about 10KTF, and writing daily speculation recaps for the
+community in the early days of the project. He is one of the three community members that
+was anointed a Captain, officially entering the 10KTF storyline.
+
+Motivation | Why should ApeCoin DAO fund THE DAM SHOW?
+Media brings attention and awareness, which brings value. Nowhere is that more true than
+in the NFT space. THE DAM SHOW is a media platform the three Captains of 10KTF started in
+July 2022, having all met through 10KTF in September 2021. Since then, we’ve hosted a
+twice weekly show (a recorded episode every DAM Monday, and a live episode every DAM
+Thursday) totaling more than 88 videos.
+
+So far, we’re 100% bootstrapped, we have not taken any funding and continue to produce
+quality content every DAM Monday and every DAM Thursday. Our recorded episodes have
+featured notable guests such as Elf and Bear, Founders of Forgotten Runes Wizard Cult,
+Luca Netz, Founder of Pudgy Penguins, Valet Jones and SAFA, Founders of Jenkins the
+Valet, Yam and Raph, Founders of World of Women, Kakuberry and Cromagnus, Founders of
+SAN, and PaperD, Founder of Bored to Death (When BAYC? Soon… we’re in the DMs with
+Garga (get well soon Gordon)).
+
+With live shows, we are pushing the boundaries of what’s been done in web3, whether it’s
+hosting the first ever NFT Community award show (The WAGMIs), the first live
+interactive web3 gameshow (The DAM is Right), or hosting Special council nominees on
+The Great Ape Debate. On February 16, we will cover an IRL live event for 10KTF in LA
+(for which we made an in-character in-10KTF universe ad: NTEC video). The bottom
+line is, our focus with THE DAM SHOW is “fun” - especially the live shows. As we gear
+up for a big 2023, we need your help to power us through the plans we have at The DAM
+(and we have a lot of them).
+
+Rationale Pt 1 | Does this fit with the DAOs culture and values?
+Culture and media are sorely lacking in the ApeCoin ecosystem - while there have been
+great initiatives funded like The Bored Ape Gazette 6 - there’s a need in the
+Video/Livestream space. By sponsoring THE DAM SHOW, we’ll be bringing thousands of
+new eyes to ApeCoin, the DAO itself - and if you can capture attention, you can capture
+value.
+
+Think of this as supporting us as we cross the chasm. While we’re not a profitable rev
+generating enterprise yet, we will get there as we continue to create great content and
+build a following. The purpose of this grant is to get us over the chasm (at the very
+least partially), so that our reach is large enough to start generating revenue in the
+form of sponsorships, partnerships, ad placements and live events.
+
+In the eight months we’ve been operating, we’ve totalled more than 95,000+ video views
+across Twitter and YouTube. Having bootstrapped the entire show for eight months, we’ve
+been on a great run in helping bring fun, joy and attention to 10KTF. However, to grow
+and expand our show into broader Yuga content (which we’ve already started months back),
+we need your help.
+
+Rationale Pt 2 | How this proposal benefits the DAO
+As we’re seeing with Dookey Dash, ApeCoin will succeed if gaming succeeds. We know from
+the Otherside’s litepaper that microtransactions in ApeCoin will be the currency of
+gaming. Purchasing skins, trading, or microtransactions will all happen in ApeCoin in
+the Otherside, so if Otherside succeeds, ApeCoin will too (and by extension, the DAO).
+
+Benefit 1: Building hype for Future Otherside Trips
+If Dookey Dash is any indictor, micro-transactions in ApeCoin are real and they work.
+ApeCoin is the currency of the Otherside as as such, all commerce in it will run on it.
+We think that any project that builds on or around the Otherside directly benefits
+ApeCoin itself - we’ve seen it in the short-term price action of ApeCoin since Dookey
+Dash launched.
+
+Simply, the funding will be used to:
+Fund giveaways for Live Game Shows (Phase 1 - $40K USD)
+Support the crossing of the chasm (Phase 2 - $55K USD)
+
+Benefit 2: ApeCoin Media Attention
+Attention is value which is why Bankless is paid 6 figures per month for sponsorship
+slots. While The DAM Show is a smaller operation for now, the attention we bring to
+10KTF and other projects is still impactful. An ApeCoin sponsor for The DAM show means
+overlays with ApeCoin logo, short ads in the episode, and at times, more funny skits.
+
+Benefit 3: ApeCoin DAO briefings
+Lastly, with this sponsorship, we plan to dedicate some parts of our live shows to
+ApeCoin DAO - similar to our Special Council election episode, the possibilities are
+endless as long as we focus on bringing fun to the community. Whether it’s bringing on
+on WG0 members, ApeCoin DAO Special Council members, or other members who have submitted
+their proposals, more media attention benefits the DAO and all the participants in it.
+
+Specifications | What we will use the funds for
+Simply, the funding will be used to:
+Fund giveaways for Live Game Shows (Phase 1 - $40K USD)
+Support the crossing of the chasm (Phase 2 - $55K USD)
+
+Phase 1: Live gameshow giveaways leading up to the Third Otherside Trip (+ future trips)
+With future trips for otherside expected to come much quick in the coming months, we want
+to continue our well received game show “THE DAM IS RIGHT” (TLDR: we hosted a DAM-themed
+version of The Price is Right where we gave away a multitude of prizes live - people
+loved it).
+
+The purpose of this is to:
+Build hype for The Otherside
+Get Otherdeeds in the hands of future players
+Expand our reach
+
+We plan to spoof several different live gameshows in the lead up to future Trips, such
+as: The Price is Right, Who wants to be a millionaire, Wheel of fortune etc. We plan to
+use $45K of the budget to purchase Otherdeeds and other smaller prizes to giveaway on
+this 4 week run of Live Shows. All giveaway purchases can be transparently viewed by
+checking thedamshow.eth multi-sig wallet. We plan to purchase 12 Otherdeeds
+(19.99 ETH / $30K USD). The remaining 10K will be used for smaller prizes all in the
+Yuga Ecosystem (Sewer passes, 10KTF etc).
+
+The 10KTF project has also provided giveaway support for THE DAM SHOW - offering 10KTF
+Genesis items (~1.1 eth floor) to giveaway. We already gave one away last week.
+
+Phase 2: Support the crossing of the chasm
+The other purpose of this grant is to get us over the chasm, so that our reach is large
+enough to attract sponsorships and The DAM Show can become a self-sustaining
+operation - currently, everything has been self-funded by atareh, Meby, and
+Diamondhandz. While our initial ask was more conservative, after speaking with community
+members and them urging us to not be too conservative (particularly @captetaintrippy),
+we’ve slightly increased our original ask for Phase 2 as well. The response from the
+community has been great so far as well.
+
+Each of the co-hosts of The DAM Show is responsible for specific parts of the operation.
+This includes but is not limited to editing, graphic design, production,
+creative direction. The remaining budget will be used to operationalize and delegate
+this work. We also require technical livestream consulting to overcome some technical
+hurdles so we can enhance our live show experience and legal to create a DAM entity
+bound by laws. Over the course of six months, we’ll use the remaining budget to improve
+core visual and technical and marketing parts of the show ($50K).
+
+Steps to Implement | How we will use the funds
+Phase 1 Line Item Breakdown
+12 otherdeeds ($30,000 USD)
+10KTF, Sewer passes, other NFT prizes in Yuga Ecosystem ($10,000)
+Phase 1 Total: $40,000
+
+Phase 2 Line item Breakdown:
+Editing episodes = $100/week (6 months total ~$2,500 USD)
+Clipping = $125/week (6 months ~$3000)
+Social Media Management = $200/week (6 months total $4,800 USD)
+Discord Security Audit = $2500 USD
+Graphics and overlays = $120/week (6 months total ~$2,880 USD)
+Producer = $80/week (6 months total ~$2,000 USD)
+Creative direction + Run of Show production planning = ~$250/week (6 months total = $7,200 USD)
+Talent cost = $150 per show (2 shows per week, 6 months total = $21,800 USD (7,200 per host USD))
+Software = $150 per month ($900 USD for 6 months)
+Merch drop = $1400 USD
+Livestream technician = $1500 USD
+Production consultation = $600 USD
+Legal fees = $3,500 USD
+Phase 2 total: $54,580 (~500 for unexpected costs)
+
+Timeline | Relevant timing details, including but not limited to start date, milestones,
+and completion dates.
+Phase 1 timeline:
+
+With the second trip in Late March, we anticipate there to be 3-4 giveaway shows in the
+month of March. These shows will take place during our live shows on Thursdays, but
+there is room for flexibility on the weekdays if required (i.e. only 2 Thursdays left
+before Second Trip and we have 3 shows planned, 1 show can be moved to another week day).
+
+Phase 2 timeline:
+
+Phase 2 will be on-going upon approval of the grant by the ApeCoin DAO over the course of
+6 months. This includes creating sponsored segments for ApeCoin DAO, which includes but
+is not limited to: Sponsored overlays for live shows, short segments about major ApeCoin
+DAO updates, interviews with past grant winners, short skits, collaborations with other
+ApeCoin DAO adjacent organizations.
+
+Overall Cost | The total cost to implement the proposal.
+Phase 1: Fund giveaways for Live Game Shows ($40K USD)
+Phase 2: Support the crossing of the chasm ($55K USD)
+Total: 95,000 USD (~18,969 APE)
+
+
+AIP-239: Working Group Guidelines & The Governance Working Group Charter
+Proposal Category: Process
+
+Abstract
+The goal of this AIP is to operationalize the ApeCoin DAO through autonomous Working
+Groups, beginning with the Governance Working Group which will allow our community to
+continue the DAO approved governance process which allows for the suggestion, discussion,
+voting and implementation of proposals. This will empower members of the DAO to make
+meaningful contributions and participate in facilitating governance operations, in order
+to further decentralize key functions of the DAO. Working Groups enable a sustainable
+infrastructure which will allow the DAO to operate efficiently while adapting to any
+challenges.
+
+Working Group Charters:
+Treasury: Working Group Charter - Treasury
+The Treasury Working Group’s Mandate is to: “Explore legal and governance structures that
+would enable the DAO to sustain operations and Initiatives in perpetuity. The Treasury
+Working Group would also oversee a portion of the ApeCoin DAO’s assets, exploring ways to
+deploy them thoughtfully on-chain while promoting a non-custodial environment.”
+
+Metaverse: Working Group Charter - Metaverse
+The Metaverse Working Group’s Mandate is to: “Drive culture forward into the metaverse by
+actively supporting metaverse-related efforts within the ApeCoin DAO.”
+
+Marketing and Communications: Working Group Charter - Marketing & Communications
+The Marketing and Communications Working Group’s Mandate is to: “Create a consistent and
+compelling brand strategy and identity for the ApeCoin DAO, develop and implement
+comprehensive marketing and communications strategies, and establish a strong presence
+through effective global communication efforts in order to onboard more users into the DAO.”
+
+Authors:
+Working Group Zero Stewards - @adventurousape, @Amplify, @badteeth, @Halina.eth, @Lost, @Vulkan, @Waabam
+
+Reflection Period
+Three months after each election cycle, DAO members will have the opportunity to
+purposefully reflect on the effectiveness of this structure and propose meaningful
+changes, including addressing the effectiveness of elections for Stewards of Working
+Groups.
+
+During Reflection Periods, Stewards will publish proposed changes to the Working Group
+structure and a set of governance proposals aimed at addressing the feedback received in
+the previous cycle if needed.
+
+Any point after three months from passing, any community member may also propose changes
+to the Working Group structure through our AIP process.
+
+Motivation
+This proposal lays the framework which will allow the DAO to make progress in addressing
+our members’ concerns, including: supporting builders and creators in our ecosystem;
+creating, maintaining, and communicating a clear brand strategy; direct support for DAO
+members; program development and exploring systems to generate value to the DAO through
+the community-directed creation of additional Working Groups.
+
+The desire to further decentralize operations of the DAO was brought forward when the DAO
+voted against renewal and expansion for our previous Cayman Islands Administrator’s
+services in December of 2022. That desire spawned AIP-196: B.O.R.E.D. AIP 29, and upon
+approval by the DAO, created Working Group Zero (WG0) which successfully transitioned
+administrator services to new providers and assumed facilitation of the AIP process via
+Discourse operations. Following the transition, WG0 has allowed for the existing
+DAO-approved governance operations to continue virtually uninterrupted and to become
+improved overall. This AIP is the next phase in decentralizing the operations of the DAO
+into a well-researched and community-created organizational structure.
+
+Rationale
+The Working Group structure proposed within will engage a wider range of community
+members in the governance process, promote stability, and encourage long-term planning of
+DAO operations. In addition, the creation of a Governance Working group including core
+Initiatives: the Ape Assembly; and the DAO Secretary; will enable a governing body to
+facilitate Working Group operations, conduct Steward & Special Council elections, and
+provide increased transparency for all inter-DAO operations. Taking these actions will
+further enable our collective responsibility.
+
+Key Terms
+Ape Assembly: A governing body of highly active governance participants within the
+ApeCoin Ecosystem. The Ape Assembly is an Initiative to be established within the scope
+of the Governance Working Group.
+DAO Secretary: Acts as an oversight and accountability role to enhance inter-DAO
+communications amongst Working Groups, the Special Council, and with the DAO as a whole.
+The DAO Secretary role is an Initiative to be established within the scope of the
+Governance Working Group.
+Funding Window: The final 15 days of February and August each calendar year in which
+Working Group Leads will propose Working Group Budget Proposals. Working Group budgets
+will be proposed twice annually for DAO-wide approval.
+Initiative: Projects within the scope of a Working Group. This includes any individual(s)
+performing work for the DAO within the scope of a Working Group, using a budget ratified
+by that Working Group.
+OKR (Objectives and Key Results): A means of measuring milestones or success.
+Steward: Community members elected to serve the ApeCoin DAO within Working Groups. They
+have an obligation to facilitate the will of the DAO.
+Working Group Budget Proposal: A budget proposal submitted to the DAO by the Lead of any
+Working Group in order to fund the execution of their charter or larger initiatives.
+Working Group Leads: Will be selected by the Stewards of each Working Group to serve as
+the primary point of contact for inter-DAO operations and project management.
+Working Groups: Community led infrastructure, allowing for the execution of specific
+DAO-approved mandates.
+Working Group Charter: An AIP which outlines a Working Group’s mandate and scope, OKRs,
+Initiatives, Reporting Requirements, Stewards, and Budget.
+Working Group Zero (or “WG0”): WG0 is an interim Working Group tasked with decentralizing
+and operationalizing the DAO. Along with the specific administrative tasks detailed in
+AIP-196, WG0 was tasked with proposing Official ApeCoin DAO Working Groups that will
+assume the responsibilities of WG0 upon the expiration of its mandate.
+
+Specification (A detailed breakdown of the platforms and technologies that will be used.)
+Gnosis Safe MultiSig - To be used for facilitating the use of DAO approved budgets.
+Discourse 4 - The forum where our DAO facilitates DAO approved processes.
+
+Introduction to Working Groups
+Working Groups are intentional community led infrastructure, which allow for the
+execution of DAO-approved mandates. Working Group Charters outline a mandate for a Working
+Group, which must align with the vision, and values of the ApeCoin DAO.
+
+Vision
+“Culture has found new expression in web3 through art, gaming, entertainment, and events.
+The possibilities for blockchain’s impact on culture are so endless that they can’t
+possibly all be predicted yet. APE is a token made to support what’s next, controlled and
+built on by the community. It will serve as a decentralized protocol layer for
+community-led initiatives that drive culture forward into the metaverse.” - APE Foundation
+
+“The goal of the APE Foundation is to steward the growth and development of the APE
+ecosystem in a fair and inclusive way.” - APE Foundation
+
+Values
+Boldness: We don’t shy away from the weird, the hard, or the new.
+Equality: One APE equals one APE.
+Transparency: Processes and decisions are shared openly with the community.
+Collective Responsibility: We leave everything better than we found it.
+Persistence: Success is an ouroboros, not a straight line.
+
+Working Group Basics
+Using these tenets as our guide, any DAO member can propose a Working Group Charter to
+create a new Working Group.
+Based on Working Group Charters, any DAO member can identify improvements to current
+Initiatives or propose ideas on how to better meet the mandates in those charters. If
+approved, it would be up to the Working Group Stewards to implement these ideas.
+If an idea is not acted on by a Working Group, any DAO member can propose that idea,
+with the necessary budget, as an Initiative in an AIP to be voted on by the DAO. If the
+DAO approves the AIP, the Working Group will be obligated to incorporate the Initiative
+into their operations using the budget approved by the DAO.
+
+Working Group Structure Inspiration
+The ApeCoin DAO Working Group structure within this proposal closely resembles the ENS
+Working Group model combined with elements from Gnosis’ SAFE DAO.
+
+Working Group Guidelines & Process
+1. Creation of Additional Working Groups
+To create a new Working Group, a Process Proposal, as defined in AIP-1 Proposing the DAO
+(‘Process Proposal’) 2, must be approved by the DAO. This takes the form of a Working
+Group Charter.
+A Process Proposal to create a new Working Group must demonstrate that the new Working
+Group is needed.
+The proposal must demonstrate clearly why their mandate or scope can’t be reasonably
+executed inside an existing Working Group and how this new Working Group will fit into
+the overall structure of the DAO.
+A Working Group Charter consists of:
+Mandate and Scope - What does this group do?
+OKRs, if any - How is progress measured against budget proposals?
+Initiatives, if any - Which specific tasks or teams does this group need?
+Reporting Requirements - How often will this group report to the DAO?
+Stewards, if any - Who will maintain this group until the next election?
+Budget - How much will this cost until the next Funding Window? (Can be $0)
+
+2. Dissolution of Working Groups
+A Working Group can be dissolved or removed by passing a Process Proposal requesting the
+dissolution or removal of a Working Group.
+Upon the dissolution of a Working Group, any and all unspent Working Group funds from
+that Working Group, at the time of dissolution, must be immediately returned to the DAO.
+
+3. Working Group Steward
+Each Working Group shall be managed by three Stewards, elected to serve within Working
+Groups for a set period of time (hereafter known as a ‘Term’ or ‘Terms’).
+Stewards of the Governance Working Group will be elected by the DAO, following the AIP
+process.
+Stewards of future Working Groups will be considered elected by the DAO if they are
+personally named in a proposed Working Group Charter which passes our governance process
+via a DAO-wide vote.
+If no Stewards are personally named in a Working Group Charter which passes our
+governance process via a DAO-wide vote, the Ape Assembly will run an election to
+determine the Stewards of the new Working Group.
+Stewards are responsible for supervising the operations of their Working Group.
+Eligible members of the ApeCoin DAO may not hold either a Steward role, Special Council
+Role, or DAO Secretary role concurrently.
+The responsibilities of Stewards include, but are not limited to:
+Managing their Working Group multisig.
+Operational tasks related to the administration and reporting requirements of their
+Working Group.
+Maintaining relevant documents and their Working Group Charter.
+Organizing and approving Initiatives within a Working Group.
+Communicating and coordinating with the APE Foundation Administrators, Special Council
+and the DAO Secretary.
+Approving budgets for Initiatives and contributors.
+Executing their Working Group Charters.
+Steward Responsibility to the DAO
+
+Stewards are responsible for facilitating the will of the DAO. Stewards of Working Groups
+can be mandated to perform tasks, set objectives and goals, sign documents and enter into
+agreements pending the outcome of our governance process, or an AIP. They are also
+responsible for their Working Group’s multi-sig wallet.
+
+5. Removal and Replacement of Working Group Stewards
+A Steward will be removed if a Process Proposal requesting the removal of a Steward is
+passed, or they have reached their Term limit.
+Stewards may step down from their position at any time by communicating their intention
+to step down in the ApeCoin DAO governance forum.
+In the event that a Steward is removed, steps down, or is unable to continue as a Steward,
+for whatever reason, their multi-sig ownership will be revoked and the multi-sig will be
+operated by the two remaining Stewards along with the DAO Secretary until such a time as
+a new Steward is elected.
+In the event that a Steward is removed, steps down, or is unable to continue as a Steward,
+for whatever reason, any temporary vacant positions will be filled by a contributor
+selected by the Ape Assembly, until an election to assign a new Steward to that Working
+Group has been completed.
+
+6. Working Group Budgets
+To request Working Group funds, Leads of each Working Group will submit Ecosystem Fund
+Allocation Proposals, as defined in AIP-1 Proposing the DAO (‘Ecosystem Fund Allocation
+Proposal’) 2 in the form of a Working Group Budget Proposal within the final 15 days
+(inclusive) of the months of, February and August each calendar year
+(each a ‘Funding Window’).
+In the case of an emergency, where Working Group funds are needed by a Working Group
+outside of a Funding Window, an Ecosystem Fund allocation proposal may be submitted
+at any time by the Lead of a Working Group to request funds from the DAO.
+Each Working Group multi-sig must have four keyholders, made up of the three current
+elected Stewards for that Working Group and the Secretary of the DAO.
+Working Group funds may be disbursed from Working Group multi-sigs with three-of-four
+keyholder signing.
+Stewards of a Working Group shall have the discretion to allocate their own Working
+Group funds where appropriate and where it is not illegal or in conflict with any
+AIPs or other rules.
+All requests for Steward compensation must be detailed in a Working Group Budget
+Proposal or Working Group Charter.
+Stewards may not receive compensation for their role as a Steward outside of that
+compensation expressly provided for in this AIP, or a Working Group Budget Proposal.
+
+Governance Working Group Charter
+*This Charter can serve as a general “template” for any DAO member to propose
+future Working Groups.
+
+1. Governance Working Group Mandate and Scope:
+This group is responsible for providing neutral and objective governance oversight and
+support for the operations of the ApeCoin DAO. This includes, but is not limited to:
+
+Providing operational support and project management support for the Foundation.
+Coordinating the team of moderators, administrators, and lead in Discourse.
+Assisting with transitioning of Foundation service providers.
+Creating and maintaining policies and procedures as they relate to governance.
+Maintaining operations and supporting governance Initiatives like the Ape Assembly
+and the DAO Secretary.
+Assisting with facilitating the Special Council Election Process as outlined in
+AIP-137: The Special Council Nomination Process, and AIP-138: The Special Council
+Election Process.
+
+2. OKRs to complete before August 2023 Funding Window:
+Ratify the formation of the Ape Assembly.
+Publish and maintain a DAO handbook which explains in detail how the DAO is currently
+structured.
+Assist with facilitating Cycle Two of the Special Council Election Process starting
+in May.
+Assist with facilitating Cycle Two of the Governance Working Group Election Process
+starting in May.
+
+3. Governance Working Group Initiatives:
+1. Discourse Administration
+
+With Discourse being the platform in which our DAO facilitates the governance process,
+or AIP-1 2, the Governance Working Group would oversee the administration and project
+management included in facilitating Discourse operations as outlined and budgeted in
+the Community Discourse Facilitators proposal authored by @Waabam (4/5/23) and would
+continue to:
+
+Provide operational support and project management support for the Foundation.
+Act as the team of moderators and administrators in Discourse.
+Act as the team of reviewers to prepare reports and any other supporting documentation
+necessary.
+2. The Ape Assembly
+
+The Ape Assembly is an electorate of the most highly active governance participants
+within the ApeCoin ecosystem. The Ape Assembly is an Initiative to be established
+within the scope of the Governance Working Group, which will be tasked with facilitating
+elections for Working Group Stewards. Voting within the Ape Assembly will be on a one
+vote per person basis with required proof of personhood.
+
+The Ape Assembly can be thought of as a legislative shrewdness of ApeCoin token holders
+who meet regularly to discuss DAO-wide issues and collectively write AIPs to address
+them. This group primarily focuses on governance, coordination and transparency within
+the DAO.
+
+To ensure participants in the Ape Assembly have the necessary prior experience with
+ApeCoin governance, we propose that members of the Ape Assembly should maintain the
+same DAO approved eligibility criteria in Working Group Zero from AIP-196: BORED AIP 29,
+including proof of personhood:
+
+$APE holders who have achieved Trust Level Status 2 (Member) or higher on the ApeCoin
+DAO Discourse; or
+$APE holders who have voted on at least 50% of the AIPs that have gone to Snapshot; or
+$APE holders with 50,000 APE or more in voting power and have voted on at least one AIP.
+At present, this criteria represents ~500 $APE holders, or wallets. After proof of
+personhood criteria we expect this number to be lower.
+
+As an Initiative within the scope of the Governance Working Group, the Ape Assembly would
+be compelled to request a budget and any potential for compensation from the Governance
+Working Group. The Ape Assembly may approve budgets for several committees, which are
+expected to form within the DAO.
+
+3. The ApeCoin DAO Secretary
+
+The ApeCoin DAO Secretary is considered an Initiative within the scope of the Governance
+Working Group. The Secretary acts as an oversight and accountability role to enhance
+inter-DAO communications amongst Working Groups, the Special Council, and with the DAO
+as a whole.
+
+The Ape Assembly shall convene to elect an individual who will serve as the Secretary
+of the DAO.
+The Secretary is subject to the same Removal and Replacement rules ratified above.
+The Secretary would have term limits subject to the discretion of the Ape Assembly.
+As an Initiative within the scope of the Governance Working Group, the DAO Secretary
+would be compelled to request a budget and compensation from the Governance Working
+Group.
+Eligible members of the ApeCoin DAO may not hold either a Steward role, Special
+Council Role, or DAO Secretary role concurrently.
+The responsibilities of the Secretary include, but are not limited to:
+
+Managing a DAO-wide calendar;
+Managing a DAO-wide organization chart;
+Publishing a monthly ApeCoin DAO Transparency Report;
+Publishing an annual ApeCoin DAO Progress Report;
+Attending Working Group meetings where possible and ensuring meeting summaries are
+posted in the APE governance forum;
+The Secretary will attend at least one meeting weekly with each Working Group where
+possible;
+Assisting Stewards with coordination challenges within Working Groups;
+Participating in a bi-weekly coordination call, held with the Leads from each Working
+Group, to align broader DAO strategy.
+Acting as a multi-sig signer for Working Groups.
+As one of the elected Working Group Zero Stewards and a champion of this proposal,
+@Vulkan is proposed as the DAO Secretary subject to the term limits set by the Ape
+Assembly upon inception.
+
+4. Governance Working Group Reporting Requirements:
+The Governance Working Group will publish budget and progress reports to the DAO on a
+quarterly basis. These reports will include Governance Initiative progress reports and
+budget expenditures, as well as a summary of the activities within the Governance
+Working Group for a given quarter.
+
+5. Governance Working Group Stewards & Elections:
+This AIP will mimic the timing, election cycles, process, and eligibility criteria
+outlined in AIP-137: The Special Council Nomination Process, and AIP-138: The Special
+Council Election Process. Specifically, elections for the Governance Working Group
+Stewards will begin in “Cycle Two” and will take place on Discourse in the “Working
+Group Steward Elections” Category. These specifications are briefly outlined below:
+Election Cycles:
+Timing and cadence of elections: Elections shall occur every six months.
+Nomination and election to occur over November & December; elected Steward(s) to start
+in January (“Cycle One”).
+Nomination and election to occur over May & June; elected Steward(s) to start in July
+(“Cycle Two”).
+The following seats will be up for election at these times:
+Cycle One: Seat One
+Cycle Two: Seats Two, & Three
+Election Terms and Limits:
+Term: Each seat is for a one-year term.
+Term limit: An existing Governance Steward may nominate themselves for re-election and
+be elected to the Governance Working Group up to two terms in a row.
+Following the term limit, the former Governance Steward must wait at least one election
+cycle prior to being able to nominate themselves for the Governance Working Group Steward
+position. In other words, if the term limit ended on Cycle One, the Steward may nominate
+themselves for the next Cycle Two election six months later.
+As the lead author and one of the many champions of this proposal, @Amplify is a proposed
+Steward for this Working Group to ensure continuity. The other two Stewards will be
+elected by the DAO following the election cycle ratified above.
+
+@Amplify will fill “Seat One” up for election in November / December 2023.
+Seat 2, up for election in June/July 2023, will be elected by the DAO.
+Seat 3, up for election in June/July 2023, will be elected by the DAO.
+
+6. Governance Working Group Budget until August 2023 Funding Window:
+This AIP is requesting up to $180,000 USD in $APE using the price of APE when the grant
+is issued in order to fund the operations of the Governance Working Group.
+
+Stewards will be compensated $9,000 USD each month in $APE using the price of APE when
+the grant is issued.
+The DAO Secretary will be compensated $7,000 USD each month in $APE using the price of
+APE when the grant is issued.
+The Governance Working Group will have an Operations Fund of $10,000 USD monthly.
+The Ape Assembly will have a budget of $10,000 USD each month for community led
+committees.
+
+Steps To Implement
+This Ape Improvement Proposal requests the relevant parties responsible for Discourse to
+create a new forum category titled: “Working Group Steward Elections”.
+
+There will be a DAO Handbook published to Discourse and housed in the Help and Resources
+category which will illustrate the relationships between all of the actors and groups in
+our DAO and how they interact and work together after the passing of this AIP, published
+by the Governance Working Group Steward(s).
+
+It is expected that Working Groups will set up their own independent entities, separate
+from each other, and the APE Foundation.
+
+Application, Verification, and Elections for Governance Working Group Stewards
+Applicants will be invited to nominate themselves as Stewards for the Governance Working
+Group. In the nomination announcement within the “Working Group Steward Elections”
+category on Discourse, a link to a form will be provided for Applicants to submit the
+same information requested from applicants during the Special Council nominations and
+elections processes outlined in AIP-137.
+
+Timeline
+The timeline for the implementation of this proposal is as follows:
+The Governance Working Group multisig will be deployed before the Steward Elections in
+May/June 2023.
+Election of two other Stewards begins in May/June 2023 following the same cadence as
+the Special Council.
+The Ape Assembly will be ratified and empowered with their budget following the elections
+for Governance Working Group Stewards in May/June.
+Reflection Period: Beginning October 1st, 2023.
+Within 45 days of the Stewards onboarding: Governance Working Group begins operations.
+
+Within 45 days of the Stewards onboarding: Governance Working Group begins operations.
+
+Overall Cost
+This AIP is requesting up to $180,000 USD in $APE using the price of APE when the grant
+is issued in order to fund the operations of the Governance Working Group.
+
+The Governance Working Group will invoice the Foundation as needed against this budget
+until the Governance Working Group Multisig is deployed with four signers including the
+DAO Secretary. The Governance Working Group will then take custody of the budget.
+
+Governance Working Group Monthly Expenses in USD:
+Component - May - June - July - August
+Steward(s) - 9000 - 9000 - 27000 - 27000
+Secretary - 7000 - 7000 - 7000 - 7000
+Operations Fund - 10000 - 10000 - 10000
+Ape Assembly - 10000 - 10000 - 10000
+Total - 36000 - 36000 - 54000 - 54000
+
+Stewards will be compensated $9,000 USD each month in $APE using the price of APE when
+the grant is issued.
+The DAO Secretary will be compensated $7,000 USD each month in $APE using the price of
+APE when the grant is issued.
+The Governance Working Group will have an Operations Fund of $10,000 USD monthly.
+The Ape Assembly will have a budget of $10,000 USD each month for community led
+committees.
+May and June expenses include one Governance Working Group Steward.
+July and August expenses include three Governance Working Group Stewards.
+
