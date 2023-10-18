@@ -2435,16 +2435,14 @@ exchange rate. Any expenses beyond what are described below will not be allocate
 Working Group Zero without approval of the Special Council:
 
 OVERALL COSTS      |   Monthly Cost Estimate      | Total AIP Cost (3 Months)
--------------------| Jan 23   | Feb 23  | Mar 23  |--------------------------
-                    ------------------------------         
+                   | Jan 23   | Feb 23  | Mar 23  |    
 Working Group Zero | $44,710  |$58,594  | $58,594 | $161,898
 DAO Administrator  | $125,000 | $75,000 | $0      | $200,000
 Total              | $169,710 | $133,594| $58,594 | $361,898
 
 
 WGO Expense Breakout      |    Monthly Cost Estimate    | Total AIP Cost (3 Months)
---------------------------| Jan 23  | Feb 23  | Mar 23  |--------------------------   
-                          ------------------------------       
+                          | Jan 23  | Feb 23  | Mar 23  |      
 Working Group Zero        | $34,710 | $48,594 | $48,594 | $131,898
 WGO Operating Expenses**  | $10,000 | $10,000 | $10,000 | $30,000
 Total                     |$44,710  | $58,594 | $58,594 | $161,898
@@ -2712,6 +2710,22 @@ Note: The BAKC Staking pool can only be utilized if a BAKC NFT is being paired 1
 a BAYC or MAYC NFT.
 
 Incentive Distribution Curve
+Staking Pool Period | Period | Incentive Distribution Curve | Total Staking Pool Allocation across Staking Pool Types
+Year 1 (100MM Tokens) | First 91 days | 35.00% | 35,000,000
+                     | Day 92 to 183 | 30.00% | 30,000,000
+                     | Day 184 to 274 | 20.00% | 20,000,000
+                     | Day 275 to 365 | 15.00% | 15,000,000
+
+Year 2 (50M Tokens) | First 91 days | 27.50% | 13,750,000
+                    | Day 92 to 183 | 25.00% | 12,500,000
+                    | Day 184 to 274 | 25.00% | 12,500,000
+                    | Day 275 to 365 | 22.50% | 11,250,000
+
+Year 3 (25M Tokens) | First 91 davs | 30.00% | 7,500,000
+                    | Day 92 to 183 | 25.00% | 6,250,000
+                    | Day 184 to 274 | 25.00% | 6,250,000
+                    | Day 275 to 365 | 20.00% | 5,000,000
+
 
 STEPS TO IMPLEMENT
 Upon deployment of the Staking smart contract on Ethereum, the total allocation of
