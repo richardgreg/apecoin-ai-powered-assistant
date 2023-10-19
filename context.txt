@@ -4228,3 +4228,617 @@ committees.
 May and June expenses include one Governance Working Group Steward.
 July and August expenses include three Governance Working Group Stewards.
 
+
+AIP-256: ApeCoin DAO Mission Statement
+
+Resubmission Updates
+This AIP empowers the DAO to vote on a final mission statement from 8 different community
+submitted and selected options. I simplified the proposal removing the Smithsonian
+Workshop facilitation and have updated the process to include feedback received during
+the months we spent workshopping the mission statement in WG0.
+
+Abstract
+A good mission statement should clearly define the purpose and goals of an organization,
+providing a sense of direction and helping to unify the members of the organization around
+a common set of objectives.
+
+This AIP will engage our community to complete the months of work the DAO spent
+workshopping a mission statement in WG0 and on Twitter Spaces. We will finalize a mission
+statement that will serve as a northstar for the DAO.
+
+Author Description
+Name: Badteeth | Josh Friedberg
+Life-long skateboarder. Three decades building at the intersection of art, sport, and
+technology. Down the NFT rabbit hole in January 2021. Minted apes. Full-time Web3 since
+May 2022. Co-founder of THE 288 https://twitter.com/288gang and Rara Avis
+https://twitter.com/raraavisapp. Lead-author AIP-196, served as elected ApeCoin DAO
+WG0 Steward.
+
+Motivation
+With the talent, brainpower, and treasury available to our ecosystem, there is literally
+no limit to what ApeCoin DAO can accomplish if we can align around a common purpose.
+This common purpose, defined by our mission statement will:
+
+Streamline the AIP process by creating clarity for contributors around what the DAO is
+looking to accomplish
+Attract creators and developers in the space aligned with our mission
+Actively reinforce our founder’s vision to position APE as a token that, “will serve as
+a decentralized protocol layer for community-led initiatives that drive culture forward
+into the metaverse.”
+Clarify what exactly it is ApeCoin DAO exists to do
+
+Rationale
+It’s tough to align with a mission when we have yet to define a mission – but defining
+our mission is exactly what this AIP aims to do. This process has been one of
+persistence, one of our five guiding values.
+
+Key Terms
+Mission Statement: A good mission statement should clearly define the purpose and goals
+of an organization, providing a sense of direction and helping to unify the members of
+the organization around a common set of objectives.
+
+Vision Statement: Mission statements are rooted in the moment. Vision statements, on the
+other hand, look to the future. These statements focus on what the company aspires to be
+once it achieves its mission. The vision statement as presented on apecoin.com is:
+
+“Culture has found new expression in web3 through art, gaming, entertainment, and events.
+The possibilities for blockchain’s impact on culture are so endless that they can’t
+possibly all be predicted yet. APE is a token made to support what’s next, controlled
+and built on by the community. It will serve as a decentralized protocol layer for
+community-led initiatives that drive culture forward into the metaverse.”
+
+Guiding Values: The ApeCoin guiding values as presented in AIP-1 are:
+
+Boldness: We don’t shy away from the weird, the hard, or the new.
+Equality: One APE equals one APE.
+Transparency: Processes and decisions are shared openly with the community.
+Collective Responsibility: We leave everything better than we found it.
+Persistence: Success is an ouroboros, not a straight line.
+
+Specifications
+@ApeCoin Twitter
+WG0 Discord
+Google Forms
+
+Steps to Implement
+Schedule three mission statement workshops over three weeks open to all DAO members in
+order to finalize the mission statement
+Workshop 1 - @apecoin Twitter Space - review process thus far, review survey info, call
+for mission statement submissions* from community to be submitted in a Discourse General Post
+Workshop 2 - WG0 Discord - review submissions and narrow down to top 8 options through a
+week of emoji voting. We’ll chose different reactions for each submission and as is
+typical in most Discord polls and those with the most reactions will win. Since the WG0
+Discord is token-gated with a 1 $APE requirement I don’t believe we’ll have a bot issue.
+Workshop 3 - @apecoin Twitter Space - announce 8 finalists and have them share their
+mission statement prior to sending to DAO-wide vote in which voters will select their
+preferred mission statement
+Socialize the mission statement finalists including native-speaker translations in
+Mandarin, Hindi, Spanish, French – both written and on video where possible. To further
+increase accessibility we will include as many native speaker translations into as many
+languages as possible.
+Send the Mission Statements finalists to DAO-wide vote for approval and finalize the
+ApeCoin DAO Mission Statement based on the results of said vote. As an approved part of
+this AIP, this vote will go up in a format similar to the final phase of the Special
+Council elections where voters will have the opportunity to vote for one option out of
+the 8 finalists or choose, “none of the above.”
+
+*Mission statement submissions must represent the vision and guiding values of the
+Ape Foundation. As with everything else in the DAO, the mission statement will be subject
+to the AIP process and can be changed at any time after the first three months following
+initial approval by the DAO.
+
+Timeline
+Three consecutive weeks of workshops as outlined in the Steps to Implement section will
+be scheduled within one week of this AIP passing
+On the week following the last workshop, the mission statement finalists will go up for
+a DAO-wide vote
+Upon selection of a mission statement by DAO voters, the Ape Foundation, Governance
+Working Group, or other responsible parties will:
+Update the apecoin.com 3 website to include the mission statement on the “About” and
+“Governance” pages
+Update the Snapshot profile to include the mission statement
+Add the mission statement under “Motivation” in AIP-1
+Add the mission statement where relevant on the WG0 Discord and Discourse
+Add the mission statement to all ApeCoin DAO social media accounts
+Promote the new mission statement with a post on all social media accounts
+
+Overall Cost
+1 $APE
+
+
+AIP-259: Language and Market Focus for ApeCoin DAO in 2024-2025
+PROPOSAL CATEGORY: Process
+
+Abstract
+This proposal aims to establish clear decision-making processes within ApeCoin DAO to
+prioritize and focus our efforts on specific markets. By identifying selected markets
+and aligning our actions accordingly, we can maximize our impact, promote inclusivity,
+and build a stronger presence in targeted regions or demographics.
+
+AUTHOR
+I am Mr. Hype, an enthusiastic member of the ApeCoin community dedicated to fostering
+inclusivity and driving community growth. Within the ApeCoin DAO, I actively contribute
+by streamlining proposals and integrating valuable feedback to ensure optimal success.
+My professional expertise lies in establishing and expanding early-stage media and
+technology ventures. With a solid background in law, I have accumulated five years of
+experience providing legal counsel in infrastructure sectors, including green energy,
+water, communications (5G), and natural gas. Notably, I served as a legal advisor for
+The Quarry Rehabilitation Fund, overseeing multimillion-dollar valuation executions,
+shaping long-term policies, and actively collaborating with the public sector to ensure
+democratic laws and implementation strategies.
+
+About the web3 landscape, I have dedicated the past two years full-time to web3 endeavors.
+As CEO of an NFT investment DAO, I meticulously analyze market trends and possess in-depth
+insights into blockchain technology from a programming standpoint. My educational
+qualifications include an LL.B and B.A. from Reichman University, specializing in Finances
+and Risk Management. Presently, I take pride in my role as the creator of The Pixelated
+Apes and the visionary founder of PixeLabs DAO.
+
+In short, The Diamond Handed Zombie
+
+MOTIVATION
+The challenge we currently face is the need for collective agreement on which markets to
+prioritize as a DAO. While individual community members may continue activities in other
+languages, it is crucial for the DAO treasury to determine the focus of our efforts to
+ensure success in specific markets. By channeling our capabilities and resources
+effectively, we can dominate these markets and achieve significant impact.
+
+RATIONALE
+The rationale behind this proposal is to ensure the efficient allocation of resources
+and the focused execution of initiatives within ApeCoin DAO. By selecting specific markets
+to prioritize, we can maximize our impact, promote inclusivity, and establish a stronger
+presence in targeted regions or demographics. The following points highlight the
+importance and benefits of adopting a language and market focus strategy:
+
+1. Strategic Resource Allocation
+By concentrating our efforts on selected markets, we can allocate our resources more
+effectively. By specifying the markets to be targeted, it enables AIP authors to align
+their proposals with the overall strategic goals of the DAO. This streamlining ensures
+that AIPs are purposeful, relevant, and contribute to the selected market objectives;
+
+2. Clear Direction for Community
+A clear language and market focus strategy provides the community with a sense of
+direction and purpose. It eliminates confusion and uncertainty regarding the markets
+we aim to target and the initiatives we plan to undertake. This clarity enhances
+community cohesion and allows individuals to align their efforts with the DAO’s
+overarching goals;
+
+3. Enhanced AIP Impact
+Concentrating AIP efforts on selected markets allows for a more significant impact.
+Instead of dispersing resources and attention across multiple markets, a focused
+approach enables AIPs to address the specific needs, challenges, and opportunities
+within the targeted regions or demographics. This focus enhances the potential
+effectiveness and success of each AIP;
+
+4. Optimal Impact and Influence
+A focused approach enables us to make a significant impact in selected markets. By
+concentrating our efforts, we can establish a stronger presence and gain influence
+within these regions or demographics. This can lead to increased market adoption,
+partnerships, and overall growth for ApeCoin DAO;
+
+5. Efficient Decision-Making
+Implementing a language and market focus strategy provides a clear framework for
+decision-making within ApeCoin DAO. It ensures that proposals and initiatives are
+aligned with the selected markets, avoiding dilution of efforts across multiple
+markets. This streamlined decision-making process improves efficiency, accountability,
+and the overall execution of projects. Focusing on specific markets allows for better
+measurement and evaluation of AIP outcomes;
+
+6. Coordinated Market Expansion
+By concentrating our efforts on selected markets, we can ensure coordinated and strategic
+expansion. Instead of individual AIPs focusing on different markets, a unified approach
+allows us to maximize impact and avoid potential fragmentation of resources and
+initiatives.
+
+By adopting a language and market focus strategy, ApeCoin DAO can optimize its resources,
+increase market penetration, foster inclusivity, achieve significant impact, and
+streamline decision-making processes. This approach sets the foundation for a dynamic,
+diverse, and successful community that transcends linguistic barriers and expands its
+influence globally.
+
+KEY TERMS:
+
+Selected Markets
+Selected markets are specific regions or demographics that are identified and prioritized
+by ApeCoin DAO for focused efforts and resource allocation. These markets represent
+target areas where the DAO aims to expand its presence and achieve significant impact.
+
+Language and Market Focus Strategy
+The language and market focus strategy refers to the approach of concentrating efforts
+and resources on specific markets within ApeCoin DAO. This strategy involves prioritizing
+certain regions or demographics and aligning actions, initiatives, and AIPs accordingly
+to maximize impact and establish a stronger presence in those targeted areas.
+
+Coordinated Market Expansion
+Coordinated market expansion refers to the strategic and synchronized expansion efforts
+of ApeCoin DAO within selected markets. Instead of pursuing individual initiatives or
+AIPs targeting different markets, a coordinated approach ensures harmonized actions,
+collaboration, and avoidance of fragmentation in resources and initiatives. This
+coordinated expansion maximizes impact and facilitates the growth of ApeCoin within the
+selected markets.
+
+Please note that these definitions are specific to the context of the proposal and may
+not reflect broader industry or community-wide definitions.
+
+SPECIFICATIONS:
+Mandate and Scope
+The Language and Market Focus proposal for ApeCoin DAO in 2024-2025 aims to establish a
+binding decision that prioritizes market-focused efforts. The proposal outlines a
+framework for selecting markets in which ApeCoin DAO will concentrate its resources and
+initiatives in 2024 and 2025. The primary objectives of this framework are to align with
+the overall goals of the DAO, optimize resource allocation, and enhance the
+effectiveness of initiatives within the chosen markets.
+
+General Guarantees
+Identifying specific markets that align with the following goals:
+A. Facilitating the growth of existing offerings and operations within the DAO.
+B. Promoting economic growth and reducing disparities through web3 activities.
+Cultivating the DAO as an inclusive community while targeting preferred areas.
+Establishing guidelines for incentivizing proposal authors to focus on the preferred
+markets, based on the defined priority strategy.
+
+OKR
+Formation and approval of an AIP to establish an expert steering committee or engage an
+external consulting company, to suggest Language and Market Focus Strategy.
+
+Formation and approval of an AIP outlining the selected markets, along with the incentive
+rules and associated costs for the year 2024-2025.
+
+STEPS TO IMPLEMENT:
+1. Formation of an AIP of a steering committee responsible for recommending potential
+markets, and engaging the services of an external consulting company or involving
+community members to conduct comprehensive market research, including gathering feedback
+and insights from the community.
+
+2. Analysis of the research findings and recommendation of specific markets that align
+with the outlined objectives. Development and refinement of the incentive rules and
+associated costs, considering the selected markets and the DAO’s available resources.
+
+3. Final approval of the AIP by the DAO members, to determine the markets to be focused
+on in 2024-2025, include rules for receiving incentives and determining the associated
+costs for the selected markets.
+
+TIMELINE
+Milestone #1: End of Q3 2023
+Formation of Steering Committee
+
+Milestone #2: End of Q4 2023
+Publish Language and Market Focus Strategy for 2024-2025
+
+Milestone #3: End of Q1 2024
+Community Input and Feedback, and live AIP to vote on the Language and Market Focus
+Strategy & Coordinated Market Expansion.
+
+OVERALL COST: 0 $APE
+
+
+AIP-274: “ApeCoin Powered” & “Powered by ApeCoin” Logo implementation
+CATEGORY: Brand
+
+ABSTRACT
+This AIP proposes the immediate adoption and usage of these “ApeCoin Powered” and
+“Powered by ApeCoin” logos. These logos will serve as a visual endorsement and
+recognition of initiatives that exclusively use ApeCoin for transactions, assuming they
+are in alignment with the values and mission of the ApeCoin ecosystem.
+
+MOTIVATION
+The introduction of the “ApeCoin Powered” and “Powered by ApeCoin” logos aims to foster
+a sense of unity and shared identity within our diverse community. By visibly marking
+and endorsing initiatives that operate exclusively with ApeCoin, we are not only
+increasing the utility and recognition of ApeCoin but also encouraging more projects
+to adopt it. This visual token of affiliation would contribute to a stronger sense of
+belonging within our ecosystem, further solidifying the connection among members and
+fostering collaborative growth.
+
+RATIONALE
+The introduction of these logos acts as a visual representation of ApeCoin’s reach and
+influence across various projects, thereby bolstering its recognition and usage within
+the ecosystem. This initiative encourages more platforms to adopt ApeCoin.
+
+KEY TERMS
+Ecosystem : In this context, it refers to the ApeCoin community, the blockchain, the
+currency (ApeCoin), and all services, projects, and initiatives surrounding it.
+
+SPECIFICATIONS
+Logos: The “ApeCoin Powered” and “Powered by ApeCoin” logos are ready for immediate use
+as transparent pngs.
+
+Usage: Entities that exclusively accept ApeCoin as a means of transaction, and AIP
+projects approved by the DAO, can use this logo to signify their affiliation with the
+ApeCoin ecosystem. This is conditional on their material and actions being in line with
+the values and mission of the ecosystem.
+
+Design Adjustments: The logo design is open to fine-tuning and adjustments by
+professional graphic designers to ensure it suits different usage contexts and maintains
+a high standard of visual communication.
+
+STEPS TO IMPLEMENT
+Secure approval for this AIP.
+Immediate distribution and implementation of the logo.
+
+TIMELINE
+Both Logos will become available to those who qualify upon this AIP passing.
+
+REVOCABILITY
+Privileges to use the “ApeCoin Powered” and “Powered by ApeCoin” logos may be revoked
+by the community if its usage is found to be inconsistent with the values and mission
+of the ApeCoin ecosystem.
+
+COST $0
+
+
+AIP-297: An NFT Community Vault Operating as an ApeCoin Sister DAO with a Goal to Advance the Mission and Influence of ApeCoin
+
+Summary:
+An idea for an Apecoin operated NFT Community Vault operating as an sub-DAO with a goal
+to advance the mission and influence of ApeCoin.
+
+This proposal aims to secure an initial budget of 750,000 APE (this can be flexible
+depending on the initial NFT purchase idea) from the DAO treasury to purchase various
+non-fungible tokens (NFTs) from culturally significant and influential collections in
+the web3 ecosystem. The acquired NFTs will be held in a community-run vault with clear
+reporting and transparency, provided by the Committee with key decisions being made by
+Apecoin holders through a vote (eg. via snapshot). The community-run vault will serve as
+a catalyst for introducing ApeCoin as the representative token of web3 culture within
+other web3 NFT culture ecosystems, and seeks to foster collaboration, innovation, and
+cross-pollination between ApeCoin and other web3 & NFT communities.
+
+It will operate as a sub-DAO of ApeCoin meaning that key decisions run by this vault will
+be operated by community votes using APE. NFT purchases (and disposals) for instance
+could then be made by community votes.
+
+This AIP is co-authored by Yat Siu, Chairman of Animoca Brands and former ApeCoin DAO
+Special Council Member, and Tyler Durden, Mocaverse Lead and Head of Projects at Animoca
+Brands, with obvious intention to grow ApeCoin influence in web3 and grow web3 as a whole.
+
+Draft Proposal:
+Purpose: The purpose of this proposal is to grow the influence of ApeCoin across the
+web3 ecosystem and catalyze collaboration amongst web3 projects and by establishing a
+community-run vault to hold a diverse collection of NFTs that ultimately would be
+controlled by Apecoin holders. These NFTs will represent artistic, cultural, and
+technological expressions within other decentralized communities. The acquisition of the
+NFTs as the first step could potentially be followed by $APE to power the adoption of the
+acquired NFT IP in later phases, and further solidify ApeCoin’s position as
+representative token of web3 culture
+
+Budget Allocation: We propose allocating an initial budget of 750,000 ApeCoin from the
+DAO treasury for acquiring NFTs. The budget will be utilized to 1.) (500,000 $APE)
+purchase NFTs from various platforms and projects that align with the vision and values
+of ApeCoin, encompassing art, music, virtual worlds, gaming, and other web3 domains
+2.) a buffer of an additional 250,000 $APE for additional NFT purchases that may be
+needed and development of any related services to assist in maintaining the VAULT
+initially. As part of this a mini-constitution as to how the VAULT would be operated
+would also be drawn up.
+
+Budget Allocation: We propose allocating an initial budget of 750,000 ApeCoin from the
+DAO treasury for acquiring NFTs. The budget will be utilized to 1) (500,000 $APE)
+purchase NFTs from various platforms and projects that align with the vision and values
+of ApeCoin, encompassing art, music, virtual worlds, gaming, and other web3 domains
+2) a buffer of an additional 250,000 $APE for additional NFT purchases that may be
+needed and development of any related services to assist in maintaining the VAULT
+initially. As part of this a mini-constitution as to how the VAULT would be operated
+would also be drawn up.
+
+Committee: A dedicated community-led committee will be formed to oversee the selection
+and acquisition process, and responsible for operations such as reporting and
+communication. The committee will comprise members with expertise and knowledge in
+the web3 ecosystem, NFTs, and decentralized communities. The committee will ensure
+transparency, inclusivity, and a fair evaluation of potential NFT purchases, considering
+factors such as ApeCoin ecosystem collaboration, artistic merit, cultural relevance,
+technical innovation, and alignment with the web3 culture. Animoca Brands will serve as
+the starting committee for the first 6-month term, thereafter it is proposed that there
+be an election to vote in new committee members to run this VAULT. Voting for this new
+committee will be done exclusively with Apecoin.
+
+NFT Curation and Display: The acquired NFTs will be stored securely in the community-run
+vault. The vault will be designed to provide public access, allowing ApeCoin community
+members and visitors to explore, appreciate, and engage with the collected NFTs. To
+prioritize security and protect the community’s interest, we would propose any actions
+involving the purchase and transfer of NFTs to leverage multi-signature features,
+managed by the Committee.
+
+Community Engagement and Collaboration: The establishment of the community vault will
+facilitate collaborations and partnerships between ApeCoin and other web3 projects.
+ApeCoin holders, artists, developers, and enthusiasts will have opportunities to
+collaborate with and leverage the IP of the acquired NFTs to create interactive
+experiences, virtual events, competitions, and exhibitions. The expected audiences of
+these initiatives would be community members of ApeCoin and the NFT collections we
+acquired from, as well as broader web3 user bases with a keen interest in these projects.
+These engagements will promote the growth of ApeCoin’s ecosystem and encourage the
+adoption of ApeCoin as a key web3 culture token.
+
+Reporting and Accountability: The community-led committee will regularly report on the
+acquisition process, NFT selection, and activities related to the community vault.
+Updates will be provided through transparent channels, including the ApeCoin website,
+and other relevant mediums. Financial transparency and accountability will also be
+ensured by sharing detailed records of NFT purchases, associated costs, and any
+collaborations or partnerships formed. Multi-signature wallet address(es) and on-chain
+data will also be shared for transparency on the aforementioned items, where applicable.
+
+Evaluation and Iteration: The community vault’s impact on promoting ApeCoin as a key
+web3 culture token will be periodically evaluated. Feedback from the ApeCoin community,
+the projects we acquire from, and the wider web3 ecosystem will be actively sought and
+considered for future iterations and improvements surrounding but not limited to the
+vault’s operations and curation strategy. This proposal addresses the first stages of
+this community-run initiative, with the hope that there will be further NFT acquisitions
+and future cross-community building to scale this vault’s positive impacts on the web3
+space.
+
+Potential Extension not part of the current budget: NFTs in the vault could be rentable
+in the future to community members for a fee or some joint community-voted/run agreement.
+In later phases, $APE could also be used to fund IP adoption of the rented NFTs. An
+expansion on this idea could mean that NFTs in the vault could be rented to other Apecoin
+holder to participate in other blockchain games. They may not be able to afford the NFTs
+necessary to play in some of these games but by being a part of the Apecoin community
+have an opportunity to use these assets as a participant.
+
+Proposed First Acquisitions of NFTs
+
+In order of priority and subject to approval, the first purchases proposed are:
+Bored Ape Yacht Club: Floor Apes x10
+Mutant Ape Yacht Club: Floor Mutants x10
+Bored Ape Kennel Club: Floor Dogs x10
+Mocaverse: Floor Mocas x10
+Cool Cats: Floor Cats x10
+World of Women: Floor NFTs x10
+Pudgy Penguins: Floor Penguins x10
+KODA’s: Floor KODA’s x10
+
+Approximate calculations may also be found in this spreadsheet:
+
+Conclusion:
+The acquisition of NFTs for the community vault, funded by a budget of 750,000 APE,
+will in our opinion contribute significantly to positioning ApeCoin as a significant
+web3 culture token across the NFT ecosystem. By showcasing a diverse collection of NFTs
+from other web3 ecosystems, this vault will foster cross-community collaboration, inspire
+creativity, demonstrate support to diverse NFT communities, and attract new participants
+to the ApeCoin ecosystem. This proposal represents an opportunity to leverage the power
+of NFTs to amplify ApeCoin’s presence beyond its traditional space. This serves as an
+experiment and also an important step to grow ApeCoin influence and empowerment in the
+web3 ecosystem.
+
+If this approach becomes successful we may propose a larger budget for more NFT
+acquisitions in the future.
+
+
+AIP Draft Template
+PROPOSAL NAME:
+Choose a title that best represents your AIP proposal.
+
+PROPOSAL CATEGORY:
+There are four different categories to choose from:
+
+1. Choose Brand Decision for proposals that the DAO attaches its name to, including projects
+and collaborations.
+2. Choose Ecosystem Fund Allocation for proposals about how the Ecosystem Fund
+[ApeCoin for the Web3 Economy] should be spent.
+3. Choose Informational for proposals that suggest changes to the guidelines or that
+provide information to the ApeCoin community.
+4. Choose Process for proposals about making changes to any of the ApeCoin DAO
+decision-making processes. This covers everything from submitting an AIP to the voting
+process, to the tools and platforms used.
+
+TEAM DESCRIPTION:
+Provide a brief introduction of yourself and your team if you’re requesting funding.
+If you’re seeking funding, each team member set to receive funds must separately sign a
+grant agreement and undergo KYC verification before funds are released.
+
+ABSTRACT:
+A brief summary outlining your proposal. This section will be showcased on Snapshot for
+the community’s consideration and should effectively communicate key details about your
+proposal.
+
+BENEFIT TO APECOIN ECOSYSTEM:
+Explain how your proposal will benefit the ApeCoin ecosystem, and how it aligns with the
+APE Community’s core mission and values. This section will be visible to voters on Snapshot.
+
+KEY TERMS:
+Definitions of any terms within the proposal that are unique to the proposal, new to the
+APE Community, and/or industry-specific (optional).
+
+PLATFORMS & TECHNOLOGIES:
+A detailed breakdown of the platforms and technologies that will be used, if any.
+
+STEPS TO IMPLEMENT & TIMELINE:
+Outline the steps to implement your proposal, including the associated costs, key
+performance indicators, personnel requirements, any expectations of the Ape Foundation,
+and other resources needed for each step where applicable. This section also provides
+relevant timing details, including the project’s start date and key milestones.
+
+OVERALL COST:
+Summarize the total budget associated with implementing the proposal. This section will
+be visible to voters on Snapshot.
+
+
+AIP Draft Resubmission Template
+ORIGINAL PROPOSAL:
+Provide a link to your original proposal submitted.
+
+RESUBMISSION UPDATES:
+Please describe any concerns regarding your original AIP and outline any improvements made.
+
+AIP Resubmission authors have the option to forgo the standard 7-day AIP Idea phase and
+may request to enter directly into the AIP Draft phase.
+
+
+The AIP Process - AIP Step 1: I’ve Got an Idea
+We should be proud of the big strides that the community and Foundation have made so far.
+Together, we have begun building the foundations of a governance system to support the
+ApeCoin community and its ambitions. Key to this system of governance are AIPs.
+
+Laying the strong foundation that will enable ApeCoin to spread and allow our DAO to grow
+more decentralized over time requires a rigorous and consistent set of procedures. These
+procedures can make the AIP process feel onerous to some, but it’s important to remember
+they are there to ensure that the DAO’s resources are being used responsibly in this
+crucial early phase – and to remove the need for open-ended centralized oversight of
+projects.
+
+Examples of best practice and improving the process
+We hope this provides helpful context as to why some AIPs may take longer than others to
+go through the process, and why there’s even such a structured process in the first place.
+
+If you’re currently drafting an AIP and looking for inspiration on how to best structure
+and build out your ideas, we’d recommend checking out Final AIPs. These proposals have
+all gone through to a community vote and so are good examples to follow. Take note of the
+level of detail and thoughtfulness that meets the standards for the strong, durable base
+we’re all working to build.
+
+AIP Step 1: I’ve got an idea
+The first step for an AIP is for an author to float their idea to the community. This
+means introducing your idea, with as much or as little detail as you have, on the AIP
+Ideas category on Discourse. The best part about this first step is that it allows ideas
+to marinate within the community for a week, providing the opportunity to gather helpful
+feedback on how your idea can best meet the needs of the DAO. The author also has the
+option to request the discussion to be extended for another week.
+
+The AIP Process - AIP Step 2: Time to Write
+Once an idea has received community feedback, the author has 30 days to fill out an AIP
+Draft Template. This is where the author can fully communicate the proposal’s
+intentions, specifics, and implications. The more effort and research that’s poured into
+this step, the quicker the AIP can be brought to a vote.
+
+Once the template is drafted, the proposal is ready for moderator review. The time frame
+of this review period depends on the level of detail included in the draft, and the
+extent to which it is unclear how the AIP could best be actualized in a way that benefits
+the DAO.
+
+Moderator review depends on the proposal’s specifics, but usually includes assessing:
+Necessary steps to implement
+Vendors that may be needed
+The role of the Foundation in implementation
+Click here to read “AIP Step 3: Final Review”, post 3 of 4 in this series on the AIP process.
+
+The AIP Process - AIP Step 3: Final Review
+After moderators review your draft, they prepare an AIP analysis report. This ensures
+that the nuts and bolts of the proposal are clearly explained (e.g. costs, steps to
+implement, legal and ethical considerations, third-party review requirements, potential
+conflicts of interests). The AIP Draft and the AIP analysis report are then shared with
+the DAO’s Special Council (the “Board”) for a final review.
+
+The Special Council may do one of three things:
+
+Send the AIP on towards a DAO vote
+Return the draft to the author for minor clarifications
+Return the draft to the author for more substantive reconstruction to better demonstrate
+how the proposal aligns with the DAO’s mission/values/wellbeing
+Click here to read “AIP Step 4: Voting Time”, post 4 of 4 in this series on the AIP process.
+
+The AIP Process - AIP Step 4: Voting Time
+After the Special Council approves an AIP for a DAO vote, it’s time for the DAO to decide
+whether the proposal will be adopted. Voting is done via Snapshot, where one ApeCoin is
+\equal to one vote, cast either “in favor” or “against”. The voting period lasts for
+6 days, from Thursday at 9PM ET until the following Wednesday at 9PM ET. Results are
+viewable on Snapshot and are usually also posted on the ApeCoin Twitter.
+
+If the DAO rejects a proposal, the author may initiate a resubmission process. If a
+proposal passes, the Foundation begins work on implementation. The time to implement an
+AIP depends on the specifics of an AIP. Any new AIPs that conflict with a passed AIP may
+not be proposed until 3 months have passed since implementation.
+
+Conclusion
+Don’t forget that at the end of the day, the DAO’s governance is designed to be
+adaptable. The Foundation has already heard a number of ideas to improve upon this
+process, including those shared at our Twitter Spaces on June 1st. If any parts of this
+process don’t sound right to you and there’s something you think we can improve upon,
+please submit an AIP on process. If you’ve made it this far in the post, you’ll know
+exactly how to do this and what your next steps should be!
