@@ -1,5 +1,4 @@
 import discord
-from discord.ext import commands
 from dotenv import load_dotenv, find_dotenv
 import llm
 import asyncio
@@ -23,11 +22,10 @@ logger = logging.getLogger("BotLogger")
 # Separate logger for command-specific logs
 command_logger = logging.getLogger("CommandLogger")
 
+# Configure discord client (bot)
 intents = discord.Intents.default()
 intents.members = True
 client = discord.Client(intents=intents)
-
-# bot = commands.Bot(command_prefix='!', intents=intents)
 
 
 @client.event
@@ -61,7 +59,11 @@ async def on_message(message):
         return
 
     try:
-        response = llm.evaluate_prompt(prompt=human_message)
+        async with message.channel.typing():
+            response = llm.evaluate_prompt(prompt=human_message)
+
+            # Simulate delay
+            await asyncio.sleep(2)
 
         # Split the content into chunks if it's too long
         if len(response) > 2000:

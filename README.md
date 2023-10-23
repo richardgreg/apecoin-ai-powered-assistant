@@ -17,4 +17,10 @@ An AI-powered discord bot built for the ApeCoin DAO Discord.
 
 ## Usage
 
-Simply chat in the designated channel and the bot should respond
+Simply chat in the designated channel and the bot should respond.
+
+You can make the bot ignore messages by starting a message with `!`
+
+## Future Features
+
+* Make bot remember conversations
