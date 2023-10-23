@@ -38,36 +38,39 @@ async def on_ready():
 @client.event
 async def on_message(message):
     
-    print('THIS IS THE CONTENT:', message.content)
+    # Exit if not in apegpt channel
+    if message.channel.name != 'misc':
+        return
+    
     # Prevent bot from responding to its own messages
     if message.author == client.user:
         return
+    
+    # Get message and channel id
+    message_id = message.id
+    channel_id = message.channel.id
+
+    client_channel_getter = client.get_channel(channel_id)
+
+    # Retrieve user message
+    message = await client_channel_getter.fetch_message(message_id)
+    human_message = message.content
 
     # Ignore messages that start with '!'
-    if message.content.startswith('!'):
+    if human_message.startswith('!'):
         return
 
     try:
-        if message.channel.name == 'apegpt':
-            message_id = message.id
-            channel_id = message.channel.id
-            channel = client.get_channel(channel_id)
-            channel.fetch_message(message_id)
-            message = await channel.fetch_message(message_id)
-            human_message = message.content
-            # print(human_message)
-
-            response = llm.evaluate_prompt(prompt=human_message)
-            # response = human_message
+        response = llm.evaluate_prompt(prompt=human_message)
 
         # Split the content into chunks if it's too long
-            if len(response) > 2000:
-                for i in range(0, len(response), 2000):
-                    await message.channel.send(response[i:i+2000])
-            else:
-                await message.channel.send(response)
+        if len(response) > 2000:
+            for i in range(0, len(response), 2000):
+                await message.channel.send(response[i:i+2000])
+        else:
+            await message.channel.send(response)
 
-            command_logger.info(f"Apegpt command executed by {message.author} with prompt: {message.content}")
+        command_logger.info(f"Apegpt command executed by {message.author} with prompt: {message.content}")
 
     except Exception as e:
         command_logger.info(f"Error occurred: {e}")
