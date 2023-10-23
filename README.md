@@ -12,8 +12,9 @@ An AI-powered discord bot built for the ApeCoin DAO Discord.
 * `python3 -m venv .venv`
 * `source .venv/bin/activate`
 * `pip install -r requirements.txt`
-* `python bot.py`
+* Set environment variables in a .env file
+* `python main.py`
 
 ## Usage
 
-Inside of your discord server, `/apegpt What is ApeCoin DAO?`
+Simply chat in the designated channel and the bot should respond

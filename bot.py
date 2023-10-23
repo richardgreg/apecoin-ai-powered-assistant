@@ -23,47 +23,60 @@ logger = logging.getLogger("BotLogger")
 # Separate logger for command-specific logs
 command_logger = logging.getLogger("CommandLogger")
 
-
 intents = discord.Intents.default()
-intents.message_content = True
+intents.members = True
+client = discord.Client(intents=intents)
 
-bot = commands.Bot(command_prefix='/', intents=intents)
-logging.info('Bot is up and running.')
+# bot = commands.Bot(command_prefix='!', intents=intents)
 
-@bot.event
+
+@client.event
 async def on_ready():
     logger.info("Bot is up and ready")
-    try:
-        synced = await bot.tree.sync()
-        logger.info(f'Synced {len(synced)} command(s)')
-    except Exception as e:
-        logger.error(f'Syncing commands failed: {e}')
 
 
-@bot.tree.command(name="apegpt", description="ask anything about apecoin or something else")
-async def apegpt(ctx: discord.Interaction, prompt:str):
+@client.event
+async def on_message(message):
+    
+    print('THIS IS THE CONTENT:', message.content)
+    # Prevent bot from responding to its own messages
+    if message.author == client.user:
+        return
+
+    # Ignore messages that start with '!'
+    if message.content.startswith('!'):
+        return
+
     try:
-        await ctx.response.defer()
-        await asyncio.sleep(3)
-        content = llm.evaluate_prompt(prompt=prompt)
-        
+        if message.channel.name == 'apegpt':
+            message_id = message.id
+            channel_id = message.channel.id
+            channel = client.get_channel(channel_id)
+            channel.fetch_message(message_id)
+            message = await channel.fetch_message(message_id)
+            human_message = message.content
+            # print(human_message)
+
+            response = llm.evaluate_prompt(prompt=human_message)
+            # response = human_message
+
         # Split the content into chunks if it's too long
-        if len(content) > 2000:
-            for i in range(0, len(content), 2000):
-                await ctx.followup.send(content[i:i+2000])
-        else:
-            await ctx.followup.send(content)
+            if len(response) > 2000:
+                for i in range(0, len(response), 2000):
+                    await message.channel.send(response[i:i+2000])
+            else:
+                await message.channel.send(response)
 
-        command_logger.info(f"Apegpt command executed by {ctx.user} with prompt: {prompt}")
+            command_logger.info(f"Apegpt command executed by {message.author} with prompt: {message.content}")
 
     except Exception as e:
         command_logger.info(f"Error occurred: {e}")
-        await ctx.response.send_message("Sorry, I was unable to process your question.")
+        await message.response.send_message("Sorry, I was unable to process your question.")
 
 
 def run_bot():
     try:
-        bot.run(os.environ.get("DISCORD_TOKEN"))
+        client.run(os.environ.get("DISCORD_TOKEN"))
     except Exception as e:
         logger.info("Bot failed to start. Check your configuration.")
         logger.error(f"Error: {e}")
