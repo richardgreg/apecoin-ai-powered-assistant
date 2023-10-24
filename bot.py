@@ -1,5 +1,5 @@
 import discord
-from dotenv import load_dotenv, find_dotenv
+from dotenv import load_dotenv, find_dotenv, dotenv_values
 import llm
 import asyncio
 import os
@@ -7,6 +7,8 @@ import logging
 
 
 load_dotenv(find_dotenv())
+config = dotenv_values('.env')
+CHANNELID = (config['CHANNELID'])
 
 # Configure logging
 logging.basicConfig(
@@ -36,8 +38,8 @@ async def on_ready():
 @client.event
 async def on_message(message):
     
-    # Exit if not in apegpt channel
-    if message.channel.name != 'misc':
+    # Exit if not in designated channel
+    if message.channel.id != int(CHANNELID):
         return
     
     # Prevent bot from responding to its own messages
