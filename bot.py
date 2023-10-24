@@ -6,6 +6,7 @@ import os
 import logging
 
 
+# Environment variables
 load_dotenv(find_dotenv())
 config = dotenv_values('.env')
 CHANNELID = (config['CHANNELID'])
@@ -39,7 +40,7 @@ async def on_ready():
 async def on_message(message):
     
     # Exit if not in designated channel
-    if message.channel.id != int(CHANNELID):
+    if str(message.channel.id) not in CHANNELID:
         return
     
     # Prevent bot from responding to its own messages
