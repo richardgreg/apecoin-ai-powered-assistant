@@ -66,7 +66,7 @@ async def on_message(message):
             response = llm.evaluate_prompt(prompt=human_message)
 
             # Simulate delay
-            await asyncio.sleep(2)
+            # await asyncio.sleep(2)
 
         # Split the content into chunks if it's too long
         if len(response) > 2000:
