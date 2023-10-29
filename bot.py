@@ -79,7 +79,7 @@ async def on_message(message):
 
     except Exception as e:
         command_logger.info(f"Error occurred: {e}")
-        await message.response.send_message("Sorry, I was unable to process your question.")
+        await message.channel.send("Sorry, I was unable to process your question.")
 
 
 def run_bot():
